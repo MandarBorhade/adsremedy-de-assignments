@@ -17,6 +17,7 @@ services:
 
   spark-worker:
     build: .
+    container_name: spark-worker
     image: apache/spark:latest
     depends_on:
       - spark-master

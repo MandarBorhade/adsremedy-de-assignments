@@ -5,9 +5,9 @@ docker ps
 # Check the logs to ensure Spark Master is ready to accept jobs
 docker logs spark-master
 
-docker exec -it spark-master /opt/spark/bin/spark-submit /opt/spark/work-dir/scripts/python/data-generator.py
+docker exec -it spark-master /opt/spark/bin/spark-submit --master spark://spark-master:7077 --conf spark.driver.host=spark-master /opt/spark/work-dir/scripts/python/data-generator.py
 
+docker exec -it spark-master /opt/spark/bin/spark-submit --master spark://spark-master:7077 --conf spark.driver.host=spark-master /opt/spark/work-dir/scripts/python/data-cleaning.py
 
-docker exec -it spark-master /opt/spark/bin/spark-submit /opt/spark/work-dir/scripts/python/data-cleaning.py
 
 docker exec -it spark-master /opt/spark/bin/spark-submit --master spark://spark-master:7077 --packages org.postgresql:postgresql:42.7.3 -c spark.jars.ivy=/opt/spark/work-dir/.ivy2 /opt/spark/work-dir/scripts/python/load-to-postgresdb.py

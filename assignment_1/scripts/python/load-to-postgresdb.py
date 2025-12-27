@@ -23,7 +23,7 @@ spark = None
 try:
     logger.info("Initializing Spark Session for Postgres Load...")
     spark = (
-        SparkSession.builder.master("spark://172.19.0.3:7077")
+        SparkSession.builder.master("spark://spark-master:7077")
         .appName("LoadToPostgres")
         .config("spark.sql.session.timeZone", "Asia/Kolkata")
         .getOrCreate()

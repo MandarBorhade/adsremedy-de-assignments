@@ -25,7 +25,7 @@ spark = None
 try:
     # SPARK SESSION
     spark = (
-        SparkSession.builder.master("spark://172.19.0.3:7077")
+        SparkSession.builder.master("spark://spark-master:7077")
         .appName("EmployeeDataCleaning")
         .config("spark.sql.session.timeZone", "Asia/Kolkata")
         .getOrCreate()
