@@ -1,0 +1,1001 @@
+employee_id,first_name,last_name,email,hire_date,job_title,department,salary,manager_id,address,city,state,zip_code,birth_date,status
+1766819528,megan,PETERSEN,Megan.Petersen@company.com,2018-07-06,Systems Administrator,IT,132916,,3360 Williams Rapids,Jonathanburgh,FL,74007,1976-03-29,ACTIVE
+1766819529,Daniel,HUGHES,daniel.hughes@COMPANY.COM,2018-01-27,Data Analyst,Analytics,104905,N/A,529 Amy Street,Hendersontown,VT,55689,2002-04-25,
+1766819530,jeffery,Dean,jeffery.dean@COMPANY.COM,2017-12-24,sales associate, sales ,"$51,668",11064,30160 Chad Lane,Lake Peterbury,OR,60541,1980-08-31,On Leave
+1766819531,Alicia,JOHNSTON,Alicia.Johnstoncompany.com,2024-01-13,Security Analyst,IT,44237,,72558 Kristine Crossroad Apt. 337,Port Andrewstad,RI,32243,1999-06-29,Active
+1766819532,stacy,NELSON,Stacy.Nelson@company.com,2024-01-19,Account Executive,Sales,115973,,7485 Bryan Views Suite 168,Lake Lisa,TN,92931,1990-03-02,On Leave
+1766819533,molly,TODD,Molly.Todd@company.com,2018-07-24,Sales Associate,Sales,"$104,759",N/A,2712 Nicole Meadow,Goldenburgh,NM,58784,2003-04-28,
+1766819534,Tammy,STEVENS,Tammy.Stevens@company.com,2019-08-03,Sales Manager,Sales,"$53,238",,88598 Mejia Terrace,Christophershire,PW,55647,1998-08-01,Active
+1766819535,john,Clayton,John.Clayton@company.com,2018-11-22,Account Executive,Sales,134786,1766819534,40824 Kyle Ports,Pierceburgh,NJ,04222,1994-05-09,
+1766819536,carolyn,Perry,Carolyn.Perry@company.com,2024-08-15,HR Manager,HR,"$86,551",1766819534,4682 Deanna Falls,Ryanberg,AR,48623,1995-05-14,Active
+1766819537,david,SMITH,David.Smith@company.com,2024-07-08,Product Analyst,Analytics,130120,N/A,48403 Moore Islands,South Kaylahaven,AL,15583,1973-10-02,
+1766819537,david,SMITH,David.Smith@company.com,2024-07-08,Product Analyst,Analytics,130120,N/A,48403 Moore Islands,South Kaylahaven,AL,15583,1973-10-02,
+1766819539,Dustin,CANNON,Dustin.Cannon@company.com,2024-03-21,Sales Operations Analyst,Sales,"$117,317",1766819536,75293 Paula Road,Port Alexanderberg,NY,43639,2001-07-27,On Leave
+1766819540,kenneth,WATTS,kenneth.watts@COMPANY.COM,2021-05-15,Analytics Manager,Analytics,"$147,010",1766819534,231 Patricia Loop Suite 443,Romerofort,ME,84819,1976-09-22,Terminated
+1766819541,michael,Scott,Michael.Scott@company.com,2020-05-23,IT Manager,IT,143470,1766819536,50434 Maldonado Pike Suite 751,Port Marcus,GA,37637,1968-05-07,
+1766819542,jeff,Ward,Jeff.Ward@company.com,2022-11-04,HR Generalist,HR,44882,1766819536,050 Adam Road,Lake Laura,MN,68025,1966-11-17,
+1766819543,ashley,Walsh,Ashley.Walsh@company.com,2018-01-28,hr assistant, hr ,"$73,353",1766819540,64787 Maria Plaza,South Jamesbury,AK,24900,2003-01-05,Terminated
+1766819544,jessica,WALTERS,Jessica.Walters@company.com,2019-10-18,business intelligence analyst, analytics ,110697,,159 Lisa Valley Suite 492,Andersonside,CT,31303,1995-01-10,
+1766819545,andrew,VEGA,Andrew.Vega@company.com,2024-08-10,Sales Operations Analyst,Sales,98844,,1466 Maxwell Loop,New Tracyville,NE,38274,1983-08-31,ACTIVE
+1766819546,Kaitlyn,EVANS,Kaitlyn.Evans@company.com,2018-06-02,Sales Manager,Sales,146849,1766819536,1137 Barton Inlet Apt. 297,North Meganport,AS,95785,1972-03-10,Terminated
+1766819547,bruce,Ayala,Bruce.Ayala@company.com,2016-02-21,analytics manager, analytics ,104163,,850 Phillips Station,New Kaylaborough,AS,97498,1987-08-17,On Leave
+1766819548,jennifer,Sanchez,Jennifer.Sanchez@company.com,2027-06-19,sales associate, sales ,"$73,043",1766819541,01524 Vincent Harbors,Port Geraldport,TN,91704,2001-10-20,
+1766819549,Jacob,GUZMAN,Jacob.Guzman@company.com,2016-01-04,HR Manager,HR,139876,,416 Brianna Street Apt. 197,East Michaelton,SC,27948,1999-05-22,On Leave
+1766819550,jason,LITTLE,Jason.Little@company.com,2022-08-30,Learning & Development Lead,HR,116771,1766819549,253 Lopez Brook,Kellymouth,MA,37290,1988-06-27,Active
+1766819551,stephanie,WISE,Stephanie.Wise@company.com,2023-08-04,hr generalist, hr ,101716,1766819546,2960 Le Mews,Hernandezborough,NH,37671,1990-07-17,ACTIVE
+1766819552,derrick,JORDAN,Derrick.Jordan@company.com,2021-09-21,data engineer, analytics ,74845,1766819536,404 Howell Stream,Lake Anthonyberg,KY,44495,1965-01-31,On Leave
+1766819553,Kristy,Mcgee,Kristy.Mcgee@company.com,2018-01-21,security analyst, it ,"$44,058",1766819541,8487 Johnson Corner Apt. 588,West Christinechester,AZ,30124,1962-07-22,Terminated
+1766819554,Robert,Allen,Robert.Allen@company.com,2023-10-19,Learning & Development Lead,HR,"$43,083",10980,961 Clayton Harbor,Rodneystad,OR,58713,1977-08-27,Terminated
+1766819555,ronald,Smith,Ronald.Smith@company.com,2020-10-17,IT Manager,IT,114585,1766819546,0160 Damon Trail,Marilynside,MH,64994,1994-11-22,On Leave
+1766819556,carolyn,Peters,Carolyn.Peters@company.com,2025-05-31,hr assistant, hr ,"$117,017",N/A,0025 Edwin Extensions Suite 018,East Barbara,MO,60612,1963-06-29,Active
+1766819557,Jessica,Noble,Jessica.Noble@company.com,2018-06-18,analytics manager, analytics ,"$99,756",1766819534,333 Lamb Plaza,West Curtis,CT,50081,1981-05-22,On Leave
+1766819558,Mark,Cunningham,Mark.Cunningham@company.com,2019-02-11,Business Intelligence Analyst,Analytics,"$100,937",1766819546,07759 Jeffrey Isle Apt. 781,Villanuevaport,PR,96099,1977-07-15,Active
+1766819559,Zachary,SIMPSON,Zachary.Simpson@company.com,2023-11-17,Talent Acquisition Specialist,HR,47662,1766819546,386 Weaver Landing,South Annachester,VT,97763,1970-08-09,On Leave
+1766819560,Brittany,Solomon,Brittany.Solomon@company.com,2021-05-03,Sales Associate,Sales,"$81,834",,856 Mccullough Underpass,South Tyler,WI,79789,1987-11-30,ACTIVE
+1766819561,Nicole,Chang,Nicole.Chang@company.com,2021-07-10,Security Analyst,IT,"$123,525",1766819540,867 Elizabeth Overpass Suite 916,Hayesstad,WI,25104,1989-03-28,ACTIVE
+1766819562,jennifer,TAYLOR,Jennifer.Taylor@company.com,2022-04-26,Sales Operations Analyst,Sales,141787,1766819546,4464 Connie Walks Suite 016,Contreraschester,PR,11127,1975-02-08,Active
+1766819563,Marie,ORTIZ,marie.ortiz@COMPANY.COM,2022-05-23,Account Executive,Sales,"$142,269",1766819534,814 Ballard Square,South Jennifertown,NH,21440,2003-02-09,Terminated
+1766819564,richard,RIVERA,Richard.Rivera@company.com,2017-02-12,Sales Associate,Sales,"$47,952",1766819534,610 Ana Falls Suite 708,Williamsville,VT,15956,2002-06-11,On Leave
+1766819565,elizabeth,WILSON,Elizabeth.Wilson@company.com,2016-07-15,Analytics Manager,Analytics,"$61,698",,23457 Lane Radial,Martinland,TX,27907,1963-06-17,Active
+1766819566,christopher,FISHER,Christopher.Fisher@company.com,2019-01-14,Account Executive,Sales,133760,1766819546,6479 Figueroa Roads Apt. 763,Lake Tammy,AK,97245,1979-05-23,
+1766819567,Nicole,Smith,Nicole.Smith@company.com,2021-05-20,Business Intelligence Analyst,Analytics,126591,11161,41337 Anthony Courts,Alvarezfort,OH,15254,1993-01-04,ACTIVE
+1766819568,Maxwell,Rosario,Maxwell.Rosario@company.com,2023-01-09,Analytics Manager,Analytics,"$46,185",1766819536,2701 Small Harbors Suite 890,East Patrickchester,NJ,62829,1985-09-28,Terminated
+1766819569,timothy,Rodriguez,Timothy.Rodriguez@company.com,2021-05-27,Systems Administrator,IT,"$125,291",1766819534,1551 James Court Apt. 878,Bryanland,IA,65660,1988-10-26,On Leave
+1766819570,Douglas,COLEMAN,Douglas.Coleman@company.com,2017-05-16,DevOps Engineer,IT,"$54,952",N/A,194 Riddle Springs Suite 276,North Kimberlyview,OR,72993,1961-06-29,
+1766819571,Nicole,Stevens,Nicole.Stevens@company.com,2021-06-12,Security Analyst,IT,"$126,430",1766819547,578 Garcia Pines Apt. 835,East Aliceburgh,VT,46348,2001-08-19,
+1766819572,barbara,Garcia,barbara.garcia@COMPANY.COM,2023-09-28,Data Analyst,Analytics,"$112,044",1766819541,026 Macias Freeway Suite 660,Carolineborough,ID,51098,1966-05-04,On Leave
+1766819573,Carl,Lawson,Carl.Lawson@company.com,2024-04-05,Sales Associate,Sales,"$120,672",1766819557,57024 Smith Park Suite 351,Lake Mario,TN,34698,1960-08-25,Active
+1766819574,Ryan,Walker,ryan.walker@COMPANY.COM,2024-04-10,HR Assistant,HR,"$144,048",1766819541,0944 Olson Cliffs Apt. 328,South Terri,ND,88304,1965-11-29,Terminated
+1766819575,dana,Murray,Dana.Murray@company.com,2025-08-01,DevOps Engineer,IT,61910,1766819547,802 Perkins Ranch Suite 467,Lake Albertside,IA,09814,1961-05-22,
+1766819576,kaitlyn,Harris,Kaitlyn.Harris@company.com,2025-08-16,Talent Acquisition Specialist,HR,87068,1766819557,178 Murray Plaza,Stevensfurt,ND,78359,1967-08-30,
+1766819577,Jennifer,Oliver,Jennifer.Oliver@company.com,2029-01-20,Analytics Manager,Analytics,92890,1766819565,78257 Hull Ferry Suite 359,Mariaside,CO,95436,1999-12-22,Terminated
+1766819578,Dawn,Baker,dawn.baker@COMPANY.COM,2021-02-15,learning & development lead, hr ,44632,1766819568,1462 Anthony Rest Suite 458,Port Benjamin,GA,83169,1981-09-21,On Leave
+1766819579,Jenna,DENNIS,Jenna@Dennis,2017-09-12,sales manager, sales ,146071,1766819557,477 Simpson Grove Apt. 149,North Robertshire,FL,49662,1989-08-18,ACTIVE
+1766819580,Brian,WILLIAMS,Brian.Williams@company.com,2023-04-25,Learning & Development Lead,HR,"$140,860",1766819534,18471 David Inlet,East Rachelmouth,MI,47675,1988-05-01,On Leave
+1766819581,Alexis,Pope,Alexis.Pope@company.com,2018-07-10,DevOps Engineer,IT,100064,1766819565,7252 Teresa Mission Suite 652,Franklinton,PW,31886,1976-01-01,Active
+1766819582,abigail,PHILLIPS,Abigail.Phillips@company.com,2017-03-07,Data Analyst,Analytics,63182,1766819546,873 Bass Tunnel,North Charlesstad,CA,68881,1996-08-25,Terminated
+1766819583,Julian,Simpson,Julian.Simpson@company.com,2023-02-15,Security Analyst,IT,"$60,322",,21446 Wells Mount Suite 291,Wardmouth,NM,82355,1988-07-11,Active
+1766819584,Olivia,HOLMES,Olivia.Holmes@company.com,2029-10-18,IT Support Specialist,IT,"$122,971",1766819540,628 Brown Neck,Port Paulland,WI,36433,1960-02-22,ACTIVE
+1766819585,jeremy,WILLIAMS,Jeremy.Williams@company.com,2016-04-10,IT Manager,IT,121426,1766819540,6245 Weaver Isle,Lake Patricia,LA,17589,1966-06-05,Active
+1766819586,angela,Walker,Angela.Walker@company.com,2024-04-21,talent acquisition specialist, hr ,"$41,409",,50105 Arnold Lane,Trevinoland,LA,59191,1984-11-15,ACTIVE
+1766819587,Marc,LESTER,Marc@Lester,2021-02-02,Systems Administrator,IT,"$103,746",1766819577,82764 Hudson Flat Apt. 531,Jessicaborough,NJ,36200,1975-02-06,
+1766819588,Joseph,Jacobson,Joseph.Jacobson@company.com,2016-12-07,Product Analyst,Analytics,"$110,817",1766819577,2783 Heather Wells,Buchananhaven,VA,02316,1995-03-20,ACTIVE
+1766819589,Victoria,Acevedo,victoria.acevedo@COMPANY.COM,2021-12-06,Data Engineer,Analytics,"$67,057",1766819568,301 Roberson Lodge,Nelsonhaven,NJ,54060,1993-09-09,
+1766819590,John,Davis,John.Davis@company.com,2025-02-13,Product Analyst,Analytics,124659,1766819540,817 Barbara Crossing Apt. 968,New Ericmouth,DC,56109,1960-01-15,ACTIVE
+1766819591,Justin,CANTU,Justin.Cantu@company.com,2022-10-24,DevOps Engineer,IT,96301,1766819585,14143 Bailey Brook,Amberstad,CO,34746,1971-10-25,Active
+1766819592,Gordon,Hall,Gordon.Hall@company.com,2020-07-13,Security Analyst,IT,"$76,428",1766819568,851 Kelsey Radial,Lake Jenniferview,WV,25076,1997-11-15,Terminated
+1766819593,derrick,PHILLIPS,Derrick.Phillips@company.com,2022-01-15,Analytics Manager,Analytics,120917,1766819579,11042 Butler Roads,Johnport,AK,47399,2003-11-06,Terminated
+1766819594,Jennifer,Smith,Jennifer.Smith@company.com,2020-09-26,Learning & Development Lead,HR,78837,N/A,939 Santiago Inlet,Robertfort,DC,83324,1992-08-31,ACTIVE
+1766819595,jordan,Johnson,Jordan.Johnson@company.com,2020-05-14,HR Assistant,HR,"$84,362",1766819565,85007 Kevin Alley Apt. 670,Whiteside,MH,18724,1972-03-15,On Leave
+1766819596,linda,GIBSON,Linda.Gibson@company.com,2029-01-27,IT Support Specialist,IT,137735,1766819557,187 Allen Crossing,Port Michaelfurt,MH,76307,1999-04-25,Active
+1766819597,Steven,STOUT,steven.stout@COMPANY.COM,2020-10-31,Sales Associate,Sales,149173,1766819549,370 Mitchell Rest,Kristinamouth,SC,10044,1990-09-09,ACTIVE
+1766819598,william,Crawford,William.Crawford@company.com,2022-04-13,Sales Associate,Sales,"$60,972",N/A,519 Amanda Island Apt. 495,Bethanyville,MP,16135,1992-03-29,Active
+1766819599,Michael,POWELL,Michael.Powell@company.com,2016-02-27,Sales Associate,Sales,"$121,046",1766819534,4415 Walker Mills Apt. 033,Leonbury,NM,12968,1993-04-14,Terminated
+1766819600,Amy,Williams,Amy.Williams@company.com,2017-09-09,Business Development Representative,Sales,"$40,087",1766819568,726 Ricky Ridges,South Joshua,OR,28521,2002-05-11,On Leave
+1766819601,monica,White,Monica.White@company.com,2021-10-31,Analytics Manager,Analytics,"$40,465",,02167 Noah Mountains,Shaunburgh,FL,62626,1968-02-11,Terminated
+1766819602,Christine,BARRON,christine.barron@COMPANY.COM,2020-08-08,business intelligence analyst, analytics ,"$85,576",,0235 Kennedy Route Suite 536,Karenhaven,WA,80402,1966-11-23,Terminated
+1766819603,Corey,TAYLOR,Corey.Taylor@company.com,2020-12-09,sales associate, sales ,88454,1766819557,06753 Wilkins Skyway,Lake Kevinton,PR,92863,1996-08-02,ACTIVE
+1766819604,lisa,Robinson,Lisa.Robinson@company.com,2023-06-02,business intelligence analyst, analytics ,"$90,767",N/A,03931 Bates Trafficway,East Stanleyhaven,CO,21670,1993-01-01,Active
+1766819605,nicolas,TATE,Nicolas.Tate@company.com,2024-07-23,Account Executive,Sales,56449,1766819577,442 Romero Forges,Javierland,WI,05942,1975-10-21,
+1766819606,eric,BARBER,Eric@Barber,2022-10-11,Product Analyst,Analytics,81554,1766819579,2286 Castro Key,West Trevorbury,GA,57186,1971-07-26,Active
+1766819607,briana,Hester,Briana.Hester@company.com,2022-03-08,Sales Associate,Sales,135286,1766819577,95473 Ferrell Way,East Jill,VI,59341,1976-06-28,On Leave
+1766819608,George,Garcia,George.Garcia@company.com,2019-05-11,Sales Operations Analyst,Sales,122530,1766819585,4059 Tyler Point,South Christian,NY,87954,1990-03-21,ACTIVE
+1766819609,Amanda,Jenkins,Amanda.Jenkins@company.com,2023-12-15,Sales Associate,Sales,"$61,857",1766819541,7712 Mackenzie Union Suite 031,New Elizabethmouth,NY,64973,1991-06-10,On Leave
+1766819610,Kelly,BAILEY,Kelly.Bailey@company.com,2022-09-16,hr manager, hr ,56005,1766819546,752 Leonard Manor,West Sarah,IN,04975,2003-04-01,Terminated
+1766819611,vincent,MARTINEZ,Vincent.Martinez@company.com,2021-10-10,hr generalist, hr ,"$145,912",1766819540,5185 Martin Hill,Lake Andreaside,MA,18284,1960-01-07,Terminated
+1766819612,Emily,Herrera,Emily.Herrera@company.com,2020-04-19,DevOps Engineer,IT,102592,1766819568,429 Dawn Overpass Apt. 836,New Richard,WI,29287,1982-07-13,Terminated
+1766819613,wanda,Gates,Wanda.Gates@company.com,2019-10-28,HR Generalist,HR,"$115,983",1766819601,5804 Brandi Stravenue,Lake Robert,TN,73880,1987-11-05,Terminated
+1766819614,david,COX,David.Cox@company.com,2017-07-22,hr manager, hr ,58744,1766819610,6872 Benson Circles Apt. 566,West Nicholas,VT,98714,1967-06-18,On Leave
+1766819615,bobby,Sawyer,Bobby.Sawyer@company.com,2020-07-31,Data Engineer,Analytics,79797,11405,53414 Walters Cove,Kylefurt,NC,42043,1964-05-06,On Leave
+1766819616,Arthur,BURNETT,Arthur.Burnett@company.com,2025-06-25,Business Intelligence Analyst,Analytics,"$131,067",1766819534,3207 Steve Harbors Suite 782,Samanthaberg,MS,29191,1975-08-27,Terminated
+1766819617,Tyler,Watson,tyler.watson@COMPANY.COM,2022-07-08,HR Manager,HR,"$48,515",1766819534,1454 Roach Rapid,Franciscoport,NC,88847,1980-04-21,
+1766819618,Kathy,RODRIGUEZ,Kathy.Rodriguez@company.com,2016-10-24,Sales Operations Analyst,Sales,83107,N/A,39999 Ryan Tunnel,East Bettyton,MO,68911,1992-01-06,ACTIVE
+1766819619,christopher,WALSH,Christopher.Walsh@company.com,2018-10-10,it support specialist, it ,132534,1766819540,0118 Natalie Mills,North Jamesburgh,WI,95724,1994-06-26,
+1766819620,Victoria,Doyle,Victoria.Doyle@company.com,2029-11-16,Sales Manager,Sales,"$44,227",1766819617,7600 Rose Stravenue,West Stevenfort,OH,58819,1969-07-31,Active
+1766819621,holly,Munoz,Holly.Munoz@company.com,2019-06-09,it support specialist, it ,74393,1766819541,6240 Erin Hills Suite 435,Lake Michael,MO,10738,1970-05-23,
+1766819622,maria,BERRY,Maria.Berry@company.com,2021-08-15,hr manager, hr ,76594,,422 Leroy Station Suite 757,Jacobton,PR,94583,1980-06-22,Active
+1766819623,Kevin,Roberts,Kevin.Roberts@company.com,2030-01-23,Business Development Representative,Sales,95833,N/A,440 Taylor Flat,South Sydney,NM,78798,2003-12-24,ACTIVE
+1766819624,Ryan,SHAW,ryan.shaw@COMPANY.COM,2017-09-06,IT Support Specialist,IT,"$83,833",1766819557,1000 Corey Summit,Hicksberg,MT,13058,1993-06-06,Active
+1766819625,Lisa,Andrews,Lisa.Andrews@company.com,2019-01-19,product analyst, analytics ,"$113,860",1766819536,773 Ellen Inlet,Brandonview,AL,16124,2001-04-29,Terminated
+1766819626,Derek,HERNANDEZ,Derek.Hernandez@company.com,2021-01-07,HR Manager,HR,"$104,241",1766819534,42861 John Street Apt. 604,North Shannonshire,CO,15152,1963-05-11,ACTIVE
+1766819627,richard,Horton,Richard.Horton@company.com,2019-03-17,Talent Acquisition Specialist,HR,"$144,412",1766819541,3174 Gina Glens,New Lisaland,WA,91613,1965-03-06,On Leave
+1766819628,richard,SMITH,richard.smith@COMPANY.COM,2025-10-02,Business Intelligence Analyst,Analytics,56641,1766819546,173 Desiree Groves,West Jennifershire,UT,00888,1969-03-20,ACTIVE
+1766819629,charles,Williams,Charles.Williams@company.com,2025-12-16,Systems Administrator,IT,"$49,472",1766819577,6291 Berry Motorway Apt. 478,Riveraburgh,AZ,39319,1986-02-07,
+1766819630,steven,Gardner,Steven.Gardner@company.com,2019-06-07,Account Executive,Sales,91845,1766819568,10416 Christian Ranch Apt. 733,North Anna,VI,50657,1990-10-20,Active
+1766819631,Cindy,RICHARDS,Cindy.Richards@company.com,2021-10-05,Talent Acquisition Specialist,HR,105989,1766819541,53123 Richard Walks Suite 957,North Mackenzie,PW,84772,1981-05-15,
+1766819632,thomas,NELSON,Thomas.Nelson@company.com,2025-11-20,HR Generalist,HR,44444,1766819547,9172 Brenda Lakes Apt. 606,Conleyville,PA,46103,1977-07-07,On Leave
+1766819633,diane,Zhang,Diane.Zhang@company.com,2019-09-08,Sales Associate,Sales,"$99,129",1766819617,023 Bauer Junction Apt. 274,Kathyberg,WY,10149,1973-06-19,Active
+1766819634,Daniel,Hernandez,Daniel.Hernandez@company.com,2025-05-05,Learning & Development Lead,HR,"$99,176",1766819546,927 Lisa Union Suite 825,North Michelletown,OR,15652,1980-11-29,Active
+1766819635,Jonathan,Garcia,Jonathan.Garcia@company.com,2030-11-06,Talent Acquisition Specialist,HR,101438,1766819555,579 Martin Oval,Port Michael,SC,07674,1961-01-26,Terminated
+1766819636,teresa,HARRINGTON,Teresa.Harrington@company.com,2016-09-16,talent acquisition specialist, hr ,52699,1766819565,313 Watts Court Suite 510,Bethanybury,NY,21566,1996-04-30,Active
+1766819637,Diane,PERRY,Diane.Perry@company.com,2019-10-28,Talent Acquisition Specialist,HR,"$123,725",1766819620,99710 Jennifer Courts,Clineview,MT,91994,1983-04-04,
+1766819638,lisa,Jensen,Lisa.Jensen@company.com,2022-11-19,Systems Administrator,IT,47897,1766819614,611 Phillip Freeway Apt. 247,Port Williamside,NY,40069,1993-07-24,On Leave
+1766819639,Brandon,Singleton,Brandon.Singletoncompany.com,2019-09-18,it manager, it ,67865,1766819565,0764 Taylor Square,North John,IN,70435,1976-03-31,Active
+1766819640,briana,Livingston,Briana.Livingston@company.com,2016-12-07,Product Analyst,Analytics,"$58,246",1766819622,570 Cooper Corners Apt. 084,Lake Albertbury,GA,49860,1971-03-27,On Leave
+1766819641,jerry,Smith,Jerry.Smith@company.com,2022-04-06,business development representative, sales ,"$109,684",N/A,390 Davis Views,Rodriguezmouth,OK,29385,1960-04-15,On Leave
+1766819642,ronald,WEISS,Ronald.Weiss@company.com,2023-12-03,Product Analyst,Analytics,"$79,128",1766819610,229 Christina Club Apt. 357,Pricemouth,WV,49324,1977-12-31,
+1766819643,Mary,Oconnor,Mary.Oconnor@company.com,2016-01-31,Security Analyst,IT,56005,,58704 Patterson Flats,East David,OK,35166,1987-06-30,
+1766819644,tracy,Williams,Tracy.Williams@company.com,2030-08-23,IT Support Specialist,IT,"$141,723",1766819593,375 Vaughn Wall Suite 344,Brandonhaven,HI,14961,1962-10-25,
+1766819645,anthony,BLAIR,Anthony@Blair,2019-04-12,Security Analyst,IT,71622,1766819585,16892 Brett Heights,West Jennaville,CT,64651,1969-12-12,
+1766819646,Dana,COOPER,Dana.Cooper@company.com,2023-09-07,it manager, it ,"$51,511",,078 Alisha Mews Apt. 395,East Rhonda,FL,74186,1994-06-01,ACTIVE
+1766819647,lisa,LAMBERT,Lisa.Lambert@company.com,2018-03-27,IT Manager,IT,"$102,468",1766819626,85691 Vega Stream,Port Matthew,MH,93813,1992-02-25,Terminated
+1766819648,Cindy,Brooks,Cindy.Brooks@company.com,2021-07-11,Learning & Development Lead,HR,74239,1766819601,738 Charles Expressway Suite 462,Melissafort,FM,09436,1964-04-05,
+1766819649,tiffany,Oconnor,Tiffany.Oconnor@company.com,2017-02-03,Analytics Manager,Analytics,"$104,771",1766819647,3006 Barbara Ford,Smithville,CT,51238,1983-05-28,Terminated
+1766819650,Rebecca,GILBERT,Rebecca.Gilbert@company.com,2022-07-03,Systems Administrator,IT,68392,1766819593,945 Riggs Spur,New Shannonfurt,MD,02773,1993-11-18,
+1766819651,nathan,Hernandez,Nathan.Hernandez@company.com,2018-12-28,analytics manager, analytics ,82389,,96497 Ayala Pass,Meganchester,CO,63962,1980-02-12,
+1766819652,bruce,ALLEN,bruce.allen@COMPANY.COM,2017-02-02,Data Analyst,Analytics,"$69,232",1766819622,0770 Bruce Fords Suite 471,Snowview,CT,13411,1991-12-20,On Leave
+1766819653,Claudia,CARLSON,Claudia@Carlson,2024-01-10,HR Assistant,HR,62503,10815,656 Daniel Island Apt. 737,Sarahport,ND,57617,1970-07-27,Active
+1766819654,Alex,Woods,Alex.Woods@company.com,2019-05-26,Business Development Representative,Sales,96146,1766819626,276 Neal Prairie,West Elizabeth,SC,53735,1964-04-29,Terminated
+1766819655,Derrick,CHAVEZ,Derrick.Chavez@company.com,2024-11-06,DevOps Engineer,IT,44556,,596 Ortiz Park Suite 590,New Phillipberg,VI,96053,1993-05-24,On Leave
+1766819656,clifford,Diaz,clifford.diaz@COMPANY.COM,2028-08-31,Business Development Representative,Sales,101254,1766819649,09506 Ross Manor,Timothyshire,MA,08432,1969-05-13,Terminated
+1766819657,Debbie,SULLIVAN,Debbie.Sullivan@company.com,2016-11-07,Sales Operations Analyst,Sales,"$128,465",1766819626,7052 Nancy Forge Apt. 705,West Troyport,IL,97277,1988-02-11,ACTIVE
+1766819658,Randy,Johnson,Randy.Johnson@company.com,2024-03-16,Security Analyst,IT,84031,1766819555,827 Charles Villages,Michelefurt,IL,86611,1972-10-10,Terminated
+1766819659,bonnie,Hale,Bonnie.Hale@company.com,2025-06-17,Sales Manager,Sales,"$53,110",1766819585,147 Amanda Plains,Tonibury,AZ,07144,1990-10-28,On Leave
+1766819660,bill,Klein,Bill@Klein,2025-06-17,Sales Operations Analyst,Sales,"$58,911",1766819534,122 Robert Camp,Valenciatown,CA,17435,1983-10-17,Terminated
+1766819661,Andrew,Miller,andrew.miller@COMPANY.COM,2020-07-04,HR Generalist,HR,"$109,000",1766819649,48635 Walsh Greens,West Jason,IA,42671,2001-01-03,ACTIVE
+1766819662,Brandon,Larsen,Brandon.Larsen@company.com,2016-12-12,data engineer, analytics ,104738,1766819626,656 Jacqueline Meadow Suite 237,East Deborah,KY,22780,1996-12-30,Terminated
+1766819663,Cindy,Guzman,Cindy.Guzman@company.com,2017-08-14,Security Analyst,IT,88551,1766819617,98200 Laura Causeway,Masonfurt,WV,86653,1994-05-29,
+1766819664,William,FORD,William.Ford@company.com,2016-06-13,HR Assistant,HR,116512,1766819546,937 Williams Prairie,Susanchester,MN,18305,1997-04-20,On Leave
+1766819665,Daniel,Bowman,Daniel.Bowman@company.com,2025-09-05,Analytics Manager,Analytics,"$40,693",1766819541,27984 Joseph Radial Apt. 447,North Erica,GU,81869,1984-05-21,Active
+1766819666,Phillip,LITTLE,Phillip.Little@company.com,2018-08-31,DevOps Engineer,IT,62369,1766819665,3149 Penny Centers Suite 222,Tinaton,IL,23284,1975-09-26,Terminated
+1766819666,Phillip,LITTLE,Phillip.Little@company.com,2018-08-31,DevOps Engineer,IT,62369,1766819665,3149 Penny Centers Suite 222,Tinaton,IL,23284,1975-09-26,Terminated
+1766819668,marilyn,HUGHES,Marilyn.Hughes@company.com,2020-07-26,Sales Associate,Sales,49338,1766819549,844 Nathan Village,Lake Daniel,MD,40992,1998-02-19,Active
+1766819669,Anna,Mullins,Anna.Mullins@company.com,2021-01-17,Talent Acquisition Specialist,HR,"$110,428",1766819626,8105 Rachel Landing,Howellfort,DC,51023,1976-10-02,
+1766819670,Austin,Small,Austin@Small,2029-12-12,Learning & Development Lead,HR,87081,1766819546,475 Brian Circle,Thomasburgh,OR,60037,1960-03-11,Terminated
+1766819671,danielle,Rubio,Danielle.Rubio@company.com,2018-06-18,Security Analyst,IT,147372,1766819649,9196 Reynolds Hills Suite 063,Jamesshire,WY,40624,1998-11-01,On Leave
+1766819672,jasmine,HODGES,Jasmine.Hodges@company.com,2022-01-03,Analytics Manager,Analytics,54793,1766819593,0144 Nicholas Rapid,South Briannaville,IN,62404,1974-04-22,Terminated
+1766819673,mckenzie,Rasmussen,Mckenzie.Rasmussen@company.com,2023-09-11,Learning & Development Lead,HR,"$132,469",1766819557,73762 Marcus Point,Phillipsberg,NH,76609,1968-02-11,Terminated
+1766819674,amanda,FRY,Amanda.Fry@company.com,2019-08-26,IT Support Specialist,IT,94906,1766819547,04969 Vargas Mills,Simsmouth,OK,11674,1969-12-04,Active
+1766819675,Kelli,Gallegos,Kelli.Gallegos@company.com,2022-05-23,IT Manager,IT,139545,1766819541,101 Johnson Mission Apt. 301,East Jakeland,NJ,75552,1964-04-16,On Leave
+1766819676,Paul,MCFARLAND,Paul.Mcfarland@company.com,2017-11-16,Sales Manager,Sales,"$139,025",1766819610,159 Jones Forks,Jonathanburgh,UT,78102,1996-03-08,ACTIVE
+1766819676,Paul,MCFARLAND,Paul.Mcfarland@company.com,2017-11-16,Sales Manager,Sales,"$139,025",1766819610,159 Jones Forks,Jonathanburgh,UT,78102,1996-03-08,ACTIVE
+1766819678,darren,ONEILL,Darren.Oneill@company.com,2019-01-04,Data Engineer,Analytics,118139,1766819646,461 Luis Pines,Marshallberg,NM,93480,1966-05-05,Active
+1766819679,harold,JOHNSON,Harold.Johnson@company.com,2023-08-27,security analyst, it ,47256,1766819593,883 Smith Roads,Guerrachester,WI,32437,1974-06-28,Active
+1766819680,Mark,Gibson,Mark.Gibson@company.com,2017-04-14,HR Manager,HR,"$135,365",1766819536,65010 Felicia Parkways,Tiffanyport,OK,13713,1996-07-18,Terminated
+1766819681,Patricia,Barajas,Patricia.Barajas@company.com,2019-11-17,Sales Operations Analyst,Sales,"$142,164",1766819593,302 Dickerson Walks Suite 192,Lake Michaelbury,MD,93732,1980-06-28,ACTIVE
+1766819682,Colin,Wade,Colin@Wade,2019-04-06,Learning & Development Lead,HR,65421,1766819555,233 Avila Plains,Duranmouth,FL,49712,1995-01-28,Terminated
+1766819683,Patricia,MIDDLETON,Patricia.Middleton@company.com,2019-08-03,Sales Associate,Sales,"$62,740",1766819579,63123 Karen Centers,Port Devinview,NC,15578,1978-07-18,On Leave
+1766819684,Anthony,SMITH,anthony.smith@COMPANY.COM,2019-01-21,Business Intelligence Analyst,Analytics,84552,1766819626,184 Williams Pass,West Faith,CT,45044,1976-10-28,ACTIVE
+1766819685,Richard,Hunter,Richard.Huntercompany.com,2016-08-04,Analytics Manager,Analytics,71484,1766819546,1810 Good Mountain,Port Timothy,TX,00798,1960-12-16,ACTIVE
+1766819686,George,Sims,George.Sims@company.com,2018-12-07,Analytics Manager,Analytics,"$47,377",1766819540,600 Trevino Court Suite 781,North Jonathanchester,RI,88574,1978-08-13,On Leave
+1766819687,william,Patterson,william.patterson@COMPANY.COM,2023-02-27,Analytics Manager,Analytics,"$117,279",10584,188 Kimberly Lock Suite 665,Walkerland,IN,56575,1971-03-08,ACTIVE
+1766819688,julie,MILLER,Julie.Miller@company.com,2018-11-27,Analytics Manager,Analytics,109286,1766819687,0855 Todd Skyway Apt. 381,Stanleyland,CA,85378,1990-04-10,On Leave
+1766819689,Heather,Holland,Heather.Holland@company.com,2017-11-16,IT Manager,IT,"$68,360",1766819649,28434 Collins Falls Suite 088,Millerchester,IN,09310,1963-04-15,ACTIVE
+1766819690,allison,PERRY,Allison.Perry@company.com,2025-10-25,Business Intelligence Analyst,Analytics,138706,1766819577,6615 Michael Corners,North Pamelaside,MN,30235,1992-03-17,ACTIVE
+1766819691,William,Curtis,William.Curtis@company.com,2018-08-06,HR Generalist,HR,"$84,752",1766819675,14433 Monica Squares,Andrewshire,SC,70849,1993-08-13,Terminated
+1766819692,jonathan,JACOBS,Jonathan@Jacobs,2024-06-23,Business Intelligence Analyst,Analytics,"$123,619",1766819549,66726 David Light Suite 716,Williammouth,OH,02883,1987-08-20,Terminated
+1766819693,john,Gates,John.Gates@company.com,2020-02-10,Sales Operations Analyst,Sales,"$70,026",1766819555,231 Lisa Vista Suite 278,Pittsbury,MD,26966,1991-11-07,On Leave
+1766819694,bryan,ALEXANDER,Bryan.Alexander@company.com,2024-09-22,hr assistant, hr ,"$56,528",1766819540,08772 Kyle Union,Jimenezberg,DE,27986,1978-10-07,On Leave
+1766819695,anthony,WASHINGTON,Anthony.Washington@company.com,2020-09-02,Analytics Manager,Analytics,128675,1766819601,0648 Johnny Point Apt. 502,New Brandon,WA,99547,1969-01-11,On Leave
+1766819696,mandy,Phillips,Mandy.Phillips@company.com,2016-05-20,sales associate, sales ,"$144,052",1766819555,77612 Briana Groves,Debrashire,AZ,53616,1961-10-27,Active
+1766819697,Nancy,Sanders,Nancy.Sanders@company.com,2019-06-01,Business Development Representative,Sales,"$95,291",1766819672,14003 Tiffany Burgs,Stewartmouth,FL,93434,1967-09-05,Terminated
+1766819698,michelle,HILL,Michelle.Hill@company.com,2024-05-12,Analytics Manager,Analytics,60626,10648,543 Ricardo Isle,Lake Codyberg,IN,69749,1976-12-20,On Leave
+1766819699,norman,Patrick,Norman.Patrick@company.com,2018-04-29,Business Intelligence Analyst,Analytics,79052,1766819680,3289 Philip Fords Suite 680,New Alexandrialand,NC,66923,1962-11-28,Active
+1766819700,April,Jimenez,April.Jimenez@company.com,2025-02-08,Sales Operations Analyst,Sales,79540,N/A,285 Elliott Springs,East Ricardomouth,NH,41710,1974-01-26,Active
+1766819701,Jennifer,PAUL,Jennifer.Paul@company.com,2017-03-15,Account Executive,Sales,94570,1766819665,075 Michelle Cliffs Suite 073,Johnmouth,HI,80427,1968-11-18,On Leave
+1766819702,Brianna,Summers,Brianna.Summerscompany.com,2030-01-17,Business Development Representative,Sales,50538,1766819577,58656 Elizabeth Club,Joshualand,WV,45773,1992-02-15,
+1766819703,michael,Rodriguez,Michael.Rodriguez@company.com,2021-07-29,account executive, sales ,"$67,751",1766819568,60509 Austin Mountains Apt. 466,East Colleenberg,GA,01733,1974-11-26,On Leave
+1766819704,Misty,ROBLES,Misty.Robles@company.com,2024-11-12,Data Engineer,Analytics,71105,1766819695,091 Mitchell Hollow Suite 306,Lake Stacieview,NM,29777,2001-06-05,On Leave
+1766819705,richard,Carter,Richard.Carter@company.com,2023-10-24,Account Executive,Sales,"$77,007",,531 Thompson Land Suite 010,East Joseph,OR,62882,1967-02-27,ACTIVE
+1766819706,Kathleen,ELLIS,Kathleen.Ellis@company.com,2021-02-28,Data Engineer,Analytics,126797,1766819540,08525 Linda Burg,Carrollfurt,AL,74563,2003-08-28,Terminated
+1766819707,Linda,Jackson,Linda.Jackson@company.com,2020-08-03,hr assistant, hr ,"$108,561",1766819534,93409 Ian Passage Apt. 137,North Lindafort,ID,48287,1999-02-17,On Leave
+1766819708,jacob,Wright,Jacob.Wrightcompany.com,2016-06-30,Analytics Manager,Analytics,"$137,440",,769 Hannah Garden,Courtneyview,IL,40025,1992-07-16,Active
+1766819709,nicholas,NELSON,Nicholas.Nelson@company.com,2016-08-13,HR Assistant,HR,"$67,035",,368 Payne Lane Suite 876,New Brandifurt,WY,01112,1990-01-01,Terminated
+1766819710,michelle,LEWIS,Michelle.Lewis@company.com,2023-05-13,Sales Manager,Sales,"$108,039",1766819708,0822 Rebecca Point,South Jennifer,NV,37687,2003-10-31,
+1766819711,Elizabeth,Montoya,Elizabeth.Montoya@company.com,2020-05-16,Data Engineer,Analytics,64388,1766819534,4587 Chandler Garden,Prattville,UT,73489,1983-04-30,ACTIVE
+1766819712,edgar,Lopez,Edgar.Lopez@company.com,2020-08-07,Security Analyst,IT,"$99,219",1766819541,52478 Teresa Track,Jonesburgh,VT,35505,1993-08-29,Terminated
+1766819713,justin,WEST,Justin.West@company.com,2025-10-25,DevOps Engineer,IT,120085,1766819565,534 Hutchinson Overpass,East Mary,KY,56785,1982-08-24,
+1766819714,jennifer,Stone,Jennifer.Stone@company.com,2024-04-20,Analytics Manager,Analytics,"$141,617",1766819686,511 Peters Mountains Apt. 856,Deanborough,LA,93636,1995-06-11,
+1766819715,christopher,Kane,Christopher.Kane@company.com,2016-05-06,IT Support Specialist,IT,45254,1766819541,1021 Daniel Groves,East Davidton,VA,90220,1974-03-08,On Leave
+1766819716,Jennifer,CUNNINGHAM,Jennifer@Cunningham,2024-08-02,Sales Manager,Sales,114253,1766819695,77033 Karina Locks Suite 631,North Laurenmouth,UT,80304,2000-01-12,
+1766819717,Adriana,WOODS,Adriana.Woods@company.com,2025-06-16,DevOps Engineer,IT,118051,,657 Ramirez Square Suite 855,Timothyton,FL,15927,1984-07-29,
+1766819718,austin,Camacho,Austin.Camacho@company.com,2025-09-12,Sales Manager,Sales,61232,1766819534,84709 Patricia Wells Apt. 021,Brooksmouth,NJ,28056,1966-12-15,ACTIVE
+1766819719,James,Bates,James.Bates@company.com,2029-02-23,Business Intelligence Analyst,Analytics,"$59,062",1766819649,095 Sharon Vista,West Jessica,CO,20696,1979-12-20,On Leave
+1766819720,John,Ward,John.Ward@company.com,2016-07-26,HR Generalist,HR,"$94,472",N/A,26586 Hayes Viaduct,West Leahville,PA,36555,1972-05-17,
+1766819721,brian,Howell,Brian.Howell@company.com,2020-05-13,DevOps Engineer,IT,95509,1766819555,34337 Jason Skyway,Port Nancy,KY,57693,1996-01-05,Terminated
+1766819722,Donna,Leach,donna.leach@COMPANY.COM,2019-07-31,Data Engineer,Analytics,114458,,6477 Taylor Curve,North Maryville,PR,10745,1970-08-31,Active
+1766819723,Nathan,Hicks,Nathan.Hicks@company.com,2022-04-02,Business Intelligence Analyst,Analytics,47279,1766819579,175 Bowen Junction Suite 644,Stewartview,NC,29115,1997-03-19,
+1766819724,cynthia,Bradford,Cynthia.Bradford@company.com,2018-01-03,Systems Administrator,IT,54978,1766819649,047 Sarah Mount Suite 534,North Catherine,PR,42624,2002-12-20,Active
+1766819725,Sharon,Jordan,Sharon.Jordan@company.com,2020-05-30,IT Manager,IT,63990,1766819672,6630 Lisa Ways,South Angela,KY,86706,1979-04-29,Terminated
+1766819726,suzanne,Griffith,Suzanne.Griffith@company.com,2016-10-11,devops engineer, it ,"$55,596",N/A,6783 Robert Court Suite 714,North Amanda,CT,18850,1994-03-25,On Leave
+1766819727,anna,Russell,Anna.Russell@company.com,2019-10-01,Data Engineer,Analytics,"$50,680",1766819685,668 Shepard Mission,Brookeberg,GA,90202,1979-04-17,Terminated
+1766819728,lauren,BRADY,Lauren.Brady@company.com,2017-05-01,HR Generalist,HR,"$52,228",1766819695,440 Patterson Extension,Ramosmouth,PW,58218,1978-11-26,ACTIVE
+1766819729,Sherry,Malone,Sherry.Malone@company.com,2021-05-24,Systems Administrator,IT,"$86,236",1766819651,80708 Smith Shore Apt. 104,Lake Miranda,NV,53473,1979-05-13,Active
+1766819730,michael,GIBSON,Michael.Gibson@company.com,2018-01-05,Sales Operations Analyst,Sales,45261,1766819689,3416 Frey Village,Amberland,TN,02350,1972-05-26,
+1766819731,Maria,MADDOX,Maria.Maddox@company.com,2024-11-07,Account Executive,Sales,"$84,090",,84013 Lisa Points Suite 449,Sabrinaport,WA,60551,1981-11-26,ACTIVE
+1766819732,laura,Best,Laura.Best@company.com,2016-04-04,Account Executive,Sales,73799,1766819695,697 Horne Lake,East Natasha,AK,38533,1983-05-19,Terminated
+1766819733,Tyler,WARD,Tyler.Ward@company.com,2025-10-27,hr generalist, hr ,62335,1766819541,6414 Paul Shoals Apt. 415,South Natasha,AZ,69737,1988-11-22,
+1766819734,Timothy,JONES,Timothy.Jones@company.com,2021-08-13,HR Manager,HR,"$104,635",1766819665,5842 Christina Island Apt. 739,South Victorside,PA,19392,2000-07-10,
+1766819735,Jacob,WONG,jacob.wong@COMPANY.COM,2023-10-04,Learning & Development Lead,HR,48415,N/A,74524 Dale Glens,Rachelchester,CA,36934,1971-11-23,On Leave
+1766819736,Albert,Steele,Albert.Steele@company.com,2016-12-27,Product Analyst,Analytics,106343,1766819718,12781 Stephen Forges Apt. 311,Stephenview,ME,59651,1966-05-17,ACTIVE
+1766819737,Alyssa,Carrillo,Alyssa.Carrillo@company.com,2025-08-12,Data Analyst,Analytics,50893,1766819555,77894 Brown Viaduct,Davisburgh,HI,58436,1968-09-17,Active
+1766819738,Jason,MAY,Jason@May,2017-09-27,Sales Associate,Sales,"$45,991",1766819620,3824 Mary Extensions,Hernandezberg,MT,38669,1976-01-15,
+1766819739,christopher,Mullins,Christopher.Mullins@company.com,2023-03-20,Product Analyst,Analytics,100549,1766819689,977 Gay Junctions,Amyview,CO,07215,1973-01-17,On Leave
+1766819740,william,Barnett,William.Barnett@company.com,2022-12-05,Talent Acquisition Specialist,HR,78925,1766819708,83869 Kelley Valley Suite 251,South Heidi,GA,36151,1994-06-15,Terminated
+1766819741,Jennifer,Owens,Jennifer.Owenscompany.com,2023-02-09,Product Analyst,Analytics,"$147,256",1766819647,0339 Karen Ferry Apt. 858,Lake Nicole,FM,42203,1972-08-05,
+1766819742,mary,DELACRUZ,Mary.Delacruz@company.com,2016-06-29,Sales Associate,Sales,"$66,144",1766819610,00679 Smith Circles,Schroedershire,IL,52304,1973-01-19,On Leave
+1766819743,garrett,JOSEPH,Garrett.Joseph@company.com,2020-07-06,data analyst, analytics ,86675,1766819610,9093 Ramos Orchard,Jessicaburgh,TN,28677,1998-08-26,Active
+1766819744,alexandra,Adams,Alexandra.Adams@company.com,2024-06-05,Data Engineer,Analytics,103841,1766819534,600 Joe Port Apt. 671,Adamshire,IL,28551,1960-02-17,ACTIVE
+1766819745,Jared,LEE,Jared.Lee@company.com,2030-05-26,Talent Acquisition Specialist,HR,"$58,647",1766819601,396 Brian River,Chenhaven,IN,80636,1979-04-08,
+1766819746,Timothy,MEADOWS,Timothy.Meadows@company.com,2022-12-29,Product Analyst,Analytics,84043,1766819557,189 Hall Crossroad Suite 788,Michaelhaven,AL,11147,1979-11-26,On Leave
+1766819747,julia,Williams,Julia.Williams@company.com,2024-08-03,DevOps Engineer,IT,"$93,348",1766819547,5478 Jenna Causeway Apt. 515,Rodriguezborough,MD,27440,1996-06-27,
+1766819748,Todd,KING,Todd.King@company.com,2018-07-20,HR Generalist,HR,"$47,172",1766819672,05236 Morrison Lodge Suite 776,Piercefurt,NH,66688,1980-07-09,Active
+1766819748,Todd,KING,Todd.King@company.com,2018-07-20,HR Generalist,HR,"$47,172",1766819672,05236 Morrison Lodge Suite 776,Piercefurt,NH,66688,1980-07-09,Active
+1766819750,Ashley,Gonzales,Ashley.Gonzalescompany.com,2019-02-25,business development representative, sales ,62047,1766819565,980 Hamilton Square Suite 910,East Brianmouth,WI,62436,1989-08-12,Active
+1766819751,Carolyn,Nguyen,Carolyn@Nguyen,2019-07-28,Product Analyst,Analytics,85003,1766819675,1043 Deborah Squares Suite 794,Lake Nicholas,PA,89308,1964-07-06,
+1766819752,Olivia,Anderson,Olivia.Anderson@company.com,2018-01-23,Learning & Development Lead,HR,77154,1766819601,1588 Amy Lane Suite 394,Castanedaborough,PW,31152,1980-09-07,On Leave
+1766819753,eileen,Davis,Eileen.Davis@company.com,2019-12-26,learning & development lead, hr ,"$111,124",11069,73994 Smith Greens,Carrolltown,NH,63190,1990-11-14,
+1766819754,meghan,MCBRIDE,Meghan.Mcbride@company.com,2021-09-03,data analyst, analytics ,"$74,531",1766819689,67267 Sanchez Mews Suite 089,East Alexandrahaven,NJ,25729,1966-11-11,
+1766819755,ryan,Sandoval,Ryan.Sandoval@company.com,2022-02-09,Account Executive,Sales,109580,N/A,81996 Dougherty Creek Suite 856,South Chase,MI,20408,1973-06-29,Terminated
+1766819756,colleen,SHAW,Colleen.Shaw@company.com,2021-04-21,data engineer, analytics ,45523,,3997 Norris Mews Apt. 754,Lake Crystal,DE,06252,1979-09-09,Terminated
+1766819757,stephanie,SMITH,Stephanie.Smith@company.com,2017-12-16,HR Generalist,HR,105571,1766819593,19921 Anthony Stream Apt. 048,North Chelsea,RI,51708,2000-06-08,Terminated
+1766819758,april,Gibson,April.Gibson@company.com,2022-04-17,Data Engineer,Analytics,104225,1766819536,46274 Nicole Fall,North Ashley,IN,08688,1990-06-03,
+1766819759,Todd,Cardenas,Todd.Cardenas@company.com,2024-12-04,HR Assistant,HR,68588,,89223 Jon Hills Suite 575,Wendyside,WA,26869,1973-07-26,
+1766819760,Tiffany,ROBERTS,Tiffany.Roberts@company.com,2018-03-07,Product Analyst,Analytics,"$133,679",1766819647,004 Janet Locks Suite 895,Perezshire,MH,43380,1962-06-02,Terminated
+1766819761,Alexandra,WADE,Alexandra.Wade@company.com,2017-02-18,IT Manager,IT,133056,1766819617,8248 Chang Fall,New Annport,NY,20456,1999-08-19,Active
+1766819762,Linda,Smith,Linda.Smith@company.com,2019-01-13,Talent Acquisition Specialist,HR,"$76,800",N/A,9190 Shepherd Ramp Apt. 302,Barryberg,TX,94111,1972-06-06,ACTIVE
+1766819763,Antonio,MASSEY,antonio.massey@COMPANY.COM,2016-03-29,Sales Manager,Sales,148704,,280 Parks Rue Apt. 352,West Dale,HI,87808,1990-06-06,Terminated
+1766819764,natasha,POPE,Natasha.Pope@company.com,2025-07-17,Sales Operations Analyst,Sales,106933,1766819672,4003 Lopez Canyon Apt. 481,South Zacharyport,CT,89984,1998-06-15,Active
+1766819765,Meagan,Kramer,Meagan.Kramer@company.com,2025-08-31,learning & development lead, hr ,"$62,869",1766819646,831 Grimes Gateway,Darlenetown,WI,07110,1983-10-06,Terminated
+1766819766,lori,Larsen,lori.larsen@COMPANY.COM,2021-06-07,Product Analyst,Analytics,104803,1766819734,5489 Chang Underpass,North Davidbury,PW,28237,1981-05-06,
+1766819767,Ethan,Coleman,Ethan.Coleman@company.com,2025-04-09,IT Support Specialist,IT,145047,1766819620,57057 Thomas Flats Suite 459,South Angela,WI,41020,1978-09-11,ACTIVE
+1766819768,michael,Stein,Michael.Stein@company.com,2018-04-19,Security Analyst,IT,"$56,342",1766819688,279 Denise Skyway,Phillipstown,MP,02643,1968-01-31,ACTIVE
+1766819769,barbara,Horn,Barbara.Horn@company.com,2027-10-21,sales operations analyst, sales ,106983,1766819546,2697 Christina Ways Apt. 020,East Larry,MO,34202,1974-04-30,ACTIVE
+1766819770,matthew,KLEIN,Matthew.Klein@company.com,2020-12-27,Sales Associate,Sales,"$41,032",1766819536,80451 Michael Landing,Lake Jenniferside,UT,32228,1982-12-01,ACTIVE
+1766819771,Wesley,Porter,Wesley.Porter@company.com,2025-09-24,account executive, sales ,68449,1766819639,056 Ray Isle,New Traceymouth,NJ,88333,1997-11-28,Active
+1766819772,Elizabeth,WHITE,Elizabeth@White,2019-04-17,Sales Manager,Sales,141041,11076,347 Anthony Meadow,Joytown,VI,11344,1992-05-15,On Leave
+1766819773,sandra,CAMPOS,Sandra.Campos@company.com,2024-02-29,HR Generalist,HR,"$77,628",1766819734,59853 Jamie Ranch Suite 172,Barryfurt,AR,62879,2000-01-15,On Leave
+1766819774,jackson,Roberts,Jackson.Roberts@company.com,2018-03-08,Data Engineer,Analytics,69530,11622,718 Stevens Point,South Wayneburgh,NV,67160,1998-08-02,
+1766819775,Stanley,JORDAN,Stanley.Jordan@company.com,2022-08-06,Product Analyst,Analytics,"$64,250",1766819698,3704 Margaret Village Apt. 036,Karenbury,MT,01126,1980-04-16,ACTIVE
+1766819776,Madeline,ROGERS,Madeline.Rogers@company.com,2022-07-03,data analyst, analytics ,"$140,498",1766819646,725 Mccann Pines Apt. 406,Michaelchester,WA,94783,1994-06-14,On Leave
+1766819777,Heather,Graves,Heather.Graves@company.com,2024-11-24,HR Assistant,HR,82906,1766819665,4278 Lee Islands Suite 672,South Margaret,NH,25686,1993-06-07,
+1766819778,elizabeth,NAVARRO,Elizabeth.Navarro@company.com,2022-06-11,IT Manager,IT,130371,,062 Young Fords,West Tyler,MI,75862,1973-10-20,Active
+1766819779,matthew,Pacheco,Matthew.Pacheco@company.com,2022-09-15,HR Generalist,HR,"$58,820",1766819585,0239 Arthur Plaza,Port Richard,RI,35131,1978-02-13,ACTIVE
+1766819780,samantha,MITCHELL,Samantha.Mitchell@company.com,2024-02-05,hr generalist, hr ,"$40,944",1766819686,793 Boyd Ramp Apt. 385,New James,WV,44880,1963-12-16,
+1766819781,adam,PATTERSON,Adam.Patterson@company.com,2020-04-22,Business Intelligence Analyst,Analytics,"$75,822",1766819686,4290 Brian Tunnel,Beanchester,OR,33751,1963-01-20,Terminated
+1766819782,Kyle,Morales,Kyle.Morales@company.com,2020-04-11,sales associate, sales ,"$95,025",1766819772,69907 Lewis Meadow Apt. 205,Port Brandonshire,AR,85217,2002-08-25,
+1766819783,Tonya,Montgomery,Tonya.Montgomery@company.com,2020-12-18,Data Engineer,Analytics,"$61,429",1766819555,084 Gordon Corners Apt. 829,Nelsonfurt,MH,55458,1987-10-03,Terminated
+1766819784,Melissa,PETERS,Melissa.Peters@company.com,2023-11-28,hr manager, hr ,126118,1766819622,8150 Angela Hill,Kaylaside,AZ,38957,1994-11-24,On Leave
+1766819785,grace,JONES,grace.jones@COMPANY.COM,2016-01-11,HR Assistant,HR,"$136,864",N/A,7634 Cain Grove Apt. 972,South Dorismouth,DE,01050,1981-06-16,Terminated
+1766819786,patrick,HART,Patrick@Hart,2030-08-24,IT Manager,IT,62851,1766819675,3369 Bradley Islands,Wesleystad,MN,78193,1983-09-12,ACTIVE
+1766819787,Warren,Alvarez,Warren.Alvarez@company.com,2023-09-27,sales operations analyst, sales ,"$140,400",1766819689,4425 Duncan Points,Port Mario,MA,46123,1960-11-10,Terminated
+1766819788,Joseph,Contreras,joseph.contreras@COMPANY.COM,2020-09-15,DevOps Engineer,IT,142725,1766819649,165 Allen Pine,Ronaldfort,UT,60899,1997-05-05,On Leave
+1766819789,dana,HAHN,Dana.Hahn@company.com,2021-05-30,Data Analyst,Analytics,"$78,614",1766819685,670 Julie Avenue Apt. 981,New Kyle,KS,61812,2001-03-10,Terminated
+1766819790,Harold,ALEXANDER,Harold.Alexander@company.com,2017-09-14,DevOps Engineer,IT,140493,1766819659,986 Bell Extensions Suite 455,Port Janiceport,MI,64000,1987-08-28,
+1766819791,whitney,Martin,Whitney.Martin@company.com,2024-10-26,DevOps Engineer,IT,"$121,673",1766819557,450 Michael Alley,Josephland,NV,30850,1965-08-28,Terminated
+1766819792,Rachel,HORTON,Rachel.Horton@company.com,2018-09-01,Analytics Manager,Analytics,"$54,140",1766819540,6825 Robert Valley,Kellyburgh,FM,58749,1966-01-01,Terminated
+1766819793,luke,White,Luke.White@company.com,2022-04-02,IT Support Specialist,IT,"$45,043",1766819647,025 Laura Prairie,North Brian,DE,59888,1967-07-03,Terminated
+1766819794,Jacob,Foster,Jacob.Foster@company.com,2019-02-28,Product Analyst,Analytics,122505,11865,687 Kurt Dale Apt. 305,New Dana,SD,19596,1967-05-08,ACTIVE
+1766819795,mackenzie,GREENE,Mackenzie.Greene@company.com,2018-05-17,HR Assistant,HR,110942,1766819549,127 Patricia Brooks,Lake Sarahshire,MP,19910,1996-04-04,On Leave
+1766819795,mackenzie,GREENE,Mackenzie.Greene@company.com,2018-05-17,HR Assistant,HR,110942,1766819549,127 Patricia Brooks,Lake Sarahshire,MP,19910,1996-04-04,On Leave
+1766819797,katherine,Cohen,Katherine.Cohen@company.com,2019-01-28,product analyst, analytics ,"$121,321",,67654 Welch Extensions,Williamsonside,CA,35830,1992-12-09,Active
+1766819798,Eugene,Brooks,Eugene.Brooks@company.com,2025-02-02,HR Generalist,HR,131288,1766819665,7305 Collins Hills,Bryanstad,HI,03805,1974-06-30,Active
+1766819799,michael,SCHMIDT,Michael.Schmidt@company.com,2024-03-07,hr manager, hr ,143540,N/A,8911 Haley Fall,Lake Amber,AK,90160,1979-10-17,Terminated
+1766819800,jonathan,FERNANDEZ,Jonathan@Fernandez,2028-09-01,talent acquisition specialist, hr ,109655,1766819540,796 Allison Inlet,Mcintoshchester,AZ,43393,1990-01-01,On Leave
+1766819801,joseph,DONOVAN,Joseph.Donovan@company.com,2023-08-27,Learning & Development Lead,HR,"$83,024",1766819549,6153 Green Forge Apt. 425,Lake Valerie,AZ,91416,1969-07-24,On Leave
+1766819802,melissa,Shaw,Melissa.Shaw@company.com,2024-11-12,sales operations analyst, sales ,"$73,807",1766819546,064 Jennifer Walks,North Laurastad,CT,44883,1980-03-15,Terminated
+1766819803,matthew,Prince,Matthew.Prince@company.com,2019-11-18,Sales Operations Analyst,Sales,71803,1766819772,01901 William Springs,Fergusonchester,AZ,53191,1965-05-02,On Leave
+1766819804,Tyler,MONTGOMERY,Tyler.Montgomery@company.com,2025-12-13,Security Analyst,IT,"$84,916",1766819639,118 Moore Run,Jeremyton,KY,52553,1992-10-23,ACTIVE
+1766819805,sara,DOWNS,sara.downs@COMPANY.COM,2019-06-23,IT Support Specialist,IT,"$98,965",1766819675,18309 Shaun Brooks Suite 586,Harrisbury,NC,68655,1967-02-08,
+1766819806,stephanie,Long,Stephanie.Long@company.com,2016-04-25,data analyst, analytics ,114626,1766819784,40508 Barbara Isle Apt. 625,West Carlosside,DC,68690,1987-01-30,Terminated
+1766819807,jordan,CONLEY,Jordan.Conley@company.com,2019-11-05,Business Development Representative,Sales,132757,1766819647,2000 Dennis Rue Apt. 173,Jerryshire,ME,50974,1983-12-24,ACTIVE
+1766819808,Judy,Phelps,Judy.Phelps@company.com,2020-03-31,Systems Administrator,IT,"$81,170",1766819536,68425 Joseph Cove Apt. 951,Parkerstad,VT,67096,1968-10-24,
+1766819809,Adam,JONES,Adam.Jones@company.com,2017-01-05,Data Engineer,Analytics,"$78,314",1766819689,1547 Patel Street,Thomasborough,ME,94575,1985-03-25,
+1766819810,Wesley,BROWN,Wesley.Brown@company.com,2023-11-08,HR Generalist,HR,120717,1766819675,9921 Church Wall Apt. 975,North Lisaton,IA,72152,1976-04-08,On Leave
+1766819811,Jordan,FULLER,Jordan.Fuller@company.com,2019-01-24,devops engineer, it ,"$50,938",1766819786,160 William Center,Devinville,NJ,29981,1963-03-03,Active
+1766819812,Debbie,GONZALEZ,Debbie.Gonzalezcompany.com,2024-07-08,talent acquisition specialist, hr ,108525,1766819685,91229 Michael Viaduct Apt. 105,Millerland,WA,42529,2002-02-03,Active
+1766819813,Annette,Abbott,Annette.Abbott@company.com,2018-08-29,Business Intelligence Analyst,Analytics,"$112,583",11760,982 Christopher Roads Suite 832,Perezton,AR,18869,1963-05-01,On Leave
+1766819814,laura,FREEMAN,Laura.Freeman@company.com,2020-02-26,Business Development Representative,Sales,89549,1766819651,4906 Harris Point Suite 187,Richardshire,ID,28370,1972-10-31,On Leave
+1766819815,elizabeth,BROOKS,Elizabeth.Brooks@company.com,2019-01-23,IT Support Specialist,IT,"$146,824",1766819639,5034 Dalton Courts,Simsstad,OK,72849,2003-03-31,Terminated
+1766819816,kimberly,Leon,Kimberly.Leon@company.com,2023-12-11,HR Manager,HR,"$138,476",,523 Felicia Divide Suite 108,Savannahview,PW,11409,1968-12-27,
+1766819817,melissa,BAKER,Melissa.Baker@company.com,2023-01-03,HR Generalist,HR,126531,1766819778,017 Deborah Square Suite 132,Andradeberg,ID,39405,1995-11-28,
+1766819818,brian,LAWRENCE,Brian@Lawrence,2020-02-23,Data Analyst,Analytics,56066,1766819772,350 Sanchez Curve,East Dawnhaven,WV,08573,1961-04-01,ACTIVE
+1766819819,Joseph,SHELTON,Joseph.Shelton@company.com,2018-05-18,Account Executive,Sales,100476,1766819689,0006 Jennifer Rest Apt. 795,South Kim,NY,30832,2000-03-04,ACTIVE
+1766819820,Edward,TREVINO,Edward.Trevino@company.com,2025-05-27,Data Engineer,Analytics,"$119,391",1766819675,788 Leah Harbor Suite 508,North Jessicastad,CA,49609,1986-08-03,
+1766819820,Edward,TREVINO,Edward.Trevino@company.com,2025-05-27,Data Engineer,Analytics,"$119,391",1766819675,788 Leah Harbor Suite 508,North Jessicastad,CA,49609,1986-08-03,
+1766819822,ashley,Carter,Ashley@Carter,2020-09-15,Talent Acquisition Specialist,HR,78082,,910 Stevens Plain Apt. 477,South Kevinshire,LA,07129,1998-11-27,
+1766819823,jessica,Wilson,Jessica@Wilson,2023-04-20,Product Analyst,Analytics,138883,1766819772,2164 Steven Green,Jameschester,IN,21759,1960-11-05,
+1766819824,monica,CAIN,Monica.Cain@company.com,2020-07-09,Account Executive,Sales,"$101,326",10716,592 Cook Trail Suite 019,Lake Tracy,MP,42881,1968-01-10,Terminated
+1766819825,Heather,Ramirez,Heather.Ramirez@company.com,2025-08-07,business intelligence analyst, analytics ,58886,1766819534,632 Stacey Tunnel Suite 585,Johnchester,ID,55431,1964-09-28,ACTIVE
+1766819826,Gerald,COOK,gerald.cook@COMPANY.COM,2016-11-14,Data Analyst,Analytics,"$89,280",1766819546,1198 Mark Inlet Apt. 443,East Richard,IA,16247,1969-05-17,On Leave
+1766819827,johnny,JOHNSON,johnny.johnson@COMPANY.COM,2019-02-20,DevOps Engineer,IT,"$116,162",1766819536,50688 Stephanie Streets Suite 503,Johnnyport,DC,92346,1976-11-08,ACTIVE
+1766819828,Daniel,MARQUEZ,Daniel.Marquez@company.com,2021-07-27,Sales Associate,Sales,66189,N/A,91024 Heather Mills Suite 509,Mercadoberg,GA,69868,1975-09-27,On Leave
+1766819829,Rhonda,Elliott,Rhonda.Elliott@company.com,2023-03-16,Business Development Representative,Sales,"$116,140",1766819761,61613 Gordon Streets Apt. 553,New Sandrahaven,WA,14702,1964-08-18,Active
+1766819830,richard,Myers,richard.myers@COMPANY.COM,2016-12-29,Security Analyst,IT,144474,1766819680,61293 Mullen Streets,East Paul,ID,21389,1974-08-06,Terminated
+1766819831,Jeffrey,Evans,Jeffrey.Evans@company.com,2021-10-04,Sales Associate,Sales,107325,1766819734,46706 Baird Mission,Davidmouth,GU,10435,1991-02-23,
+1766819832,tamara,Williams,Tamara.Williams@company.com,2019-02-19,IT Manager,IT,"$66,314",1766819680,5261 Tracy Skyway Suite 790,Allenchester,KS,40014,1979-02-07,On Leave
+1766819833,Briana,WATSON,Briana.Watson@company.com,2018-10-31,Talent Acquisition Specialist,HR,119734,1766819659,4477 Hopkins Alley,Spencerton,HI,41928,1969-10-13,On Leave
+1766819834,donald,Mitchell,Donald.Mitchell@company.com,2023-06-10,IT Support Specialist,IT,40185,10463,804 Jake Branch Apt. 930,East Carolynberg,DE,19146,1962-09-28,On Leave
+1766819835,Angel,Mccarthy,angel.mccarthy@COMPANY.COM,2020-12-16,business intelligence analyst, analytics ,"$59,819",1766819617,7890 Garcia Route Apt. 709,North Joshua,NV,84925,1987-02-19,Terminated
+1766819836,Michelle,Martinez,Michelle.Martinez@company.com,2016-04-08,Data Engineer,Analytics,"$138,257",1766819686,08919 Bentley Stream,West Jamieville,ID,68641,1964-02-13,ACTIVE
+1766819837,Becky,LUNA,Becky.Luna@company.com,2017-05-06,Security Analyst,IT,"$49,632",1766819786,5459 Timothy Mountain Apt. 361,Lake Kimberlyfurt,AL,09677,1991-09-09,ACTIVE
+1766819838,Matthew,Jackson,Matthew.Jackson@company.com,2019-10-01,Security Analyst,IT,"$136,754",N/A,135 Leonard Ramp Suite 309,Chaveztown,NC,68766,1981-02-03,Terminated
+1766819839,danielle,Jones,danielle.jones@COMPANY.COM,2018-03-20,Sales Operations Analyst,Sales,67030,1766819622,128 Simmons Underpass Suite 256,New Johnview,ID,05683,1983-05-01,On Leave
+1766819840,brandy,FLETCHER,Brandy.Fletcher@company.com,2024-09-22,Systems Administrator,IT,"$130,243",1766819832,89220 Walker Shoals,Hutchinsonfurt,SD,51437,1989-05-30,Active
+1766819840,brandy,FLETCHER,Brandy.Fletcher@company.com,2024-09-22,Systems Administrator,IT,"$130,243",1766819832,89220 Walker Shoals,Hutchinsonfurt,SD,51437,1989-05-30,Active
+1766819842,warren,Montoya,warren.montoya@COMPANY.COM,2024-01-03,IT Manager,IT,65365,,075 Patrick Crest,Thompsonbury,WI,30864,1972-03-30,Terminated
+1766819842,warren,Montoya,warren.montoya@COMPANY.COM,2024-01-03,IT Manager,IT,65365,,075 Patrick Crest,Thompsonbury,WI,30864,1972-03-30,Terminated
+1766819844,stephen,HARRINGTON,Stephen.Harrington@company.com,2024-06-22,Learning & Development Lead,HR,123691,1766819734,399 Morrison Ramp Apt. 273,Edwardsshire,LA,86546,1965-04-12,Terminated
+1766819845,Deborah,Turner,Deborah.Turner@company.com,2018-11-28,hr generalist, hr ,92288,1766819593,076 Jeffrey Underpass,Karaside,GU,10180,1960-07-24,Active
+1766819846,veronica,Chen,Veronica.Chen@company.com,2019-08-08,Sales Operations Analyst,Sales,"$133,082",1766819620,7009 Bryan Avenue,New Frank,TN,00952,1990-09-30,Terminated
+1766819847,abigail,MURPHY,Abigail.Murphy@company.com,2018-12-14,Product Analyst,Analytics,40135,1766819778,989 Zachary Harbors,Kaylafort,NM,43809,1986-11-15,Terminated
+1766819848,joe,JOHNSON,Joe.Johnson@company.com,2022-05-02,Sales Manager,Sales,67733,1766819763,1834 Jackson Tunnel Apt. 769,South Michael,TN,29857,1962-12-22,ACTIVE
+1766819849,hector,Barron,Hector.Barron@company.com,2024-07-26,Security Analyst,IT,113279,1766819725,938 Tracy Mews Apt. 641,Port Randyfurt,AZ,69847,1965-05-19,On Leave
+1766819850,patricia,JACOBS,Patricia.Jacobs@company.com,2018-06-15,Business Intelligence Analyst,Analytics,82359,1766819585,501 Mcmahon Prairie Apt. 354,New Samuel,RI,54052,1996-10-07,Active
+1766819851,Brandi,KELLY,Brandi.Kelly@company.com,2025-06-29,Talent Acquisition Specialist,HR,"$89,907",1766819601,00839 Woods Islands Suite 621,West Scottmouth,IN,90492,1964-09-09,
+1766819852,kenneth,Singh,Kenneth.Singh@company.com,2024-10-01,Business Intelligence Analyst,Analytics,"$58,517",,06844 Shirley Point,Lake Charlesbury,TX,38159,1976-10-26,Active
+1766819853,elizabeth,BRADLEY,elizabeth.bradley@COMPANY.COM,2023-02-26,systems administrator, it ,85411,,2632 Steve Extension Suite 616,South Samuel,WV,10116,1971-05-13,ACTIVE
+1766819854,Carolyn,WEEKS,Carolyn.Weeks@company.com,2024-07-17,HR Manager,HR,"$138,205",1766819546,6452 Burgess Dam,West Williamhaven,SC,46912,1998-04-20,On Leave
+1766819854,Carolyn,WEEKS,Carolyn.Weeks@company.com,2024-07-17,HR Manager,HR,"$138,205",1766819546,6452 Burgess Dam,West Williamhaven,SC,46912,1998-04-20,On Leave
+1766819856,christine,MCCORMICK,Christine.Mccormick@company.com,2021-04-03,talent acquisition specialist, hr ,"$87,329",1766819854,38309 Smith Motorway Suite 362,North Jamesberg,LA,33581,1997-10-30,On Leave
+1766819857,Elizabeth,Duncan,Elizabeth.Duncan@company.com,2017-11-09,sales manager, sales ,"$124,524",1766819725,895 Brock Union Suite 101,Jeffburgh,CT,45764,2001-04-19,Active
+1766819858,Donna,LAMBERT,Donna.Lambert@company.com,2017-07-09,HR Generalist,HR,"$143,585",1766819714,922 James Circles Apt. 031,South Christinafort,AS,59116,1967-08-16,Terminated
+1766819859,michelle,CHURCH,Michelle.Churchcompany.com,2021-07-03,it manager, it ,145908,1766819714,717 Robert Dam,Victoriahaven,SD,92344,1968-10-26,On Leave
+1766819860,caitlin,ROWE,Caitlin.Rowe@company.com,2028-09-01,Data Analyst,Analytics,"$115,014",1766819710,2604 Moore Crossing Suite 706,Cameronfort,NJ,60292,1969-12-21,Terminated
+1766819861,ashley,Costa,Ashley.Costa@company.com,2030-05-31,Account Executive,Sales,"$64,588",1766819832,9552 Joseph Ramp,New Becky,MD,76512,1972-07-26,ACTIVE
+1766819862,Carla,Johnson,Carla.Johnson@company.com,2022-01-19,Product Analyst,Analytics,114627,1766819622,602 Joseph Circles Suite 363,Lake Amy,ND,33407,1972-07-16,
+1766819863,william,TAYLOR,William.Taylorcompany.com,2021-06-16,it support specialist, it ,80718,N/A,7913 Linda Bridge Suite 586,Marystad,AL,59483,1969-11-21,
+1766819864,Nicole,HUYNH,nicole.huynh@COMPANY.COM,2025-10-27,hr manager, hr ,"$143,257",,1771 Michele Oval Suite 903,Lisamouth,IL,52401,1991-09-14,On Leave
+1766819865,Brian,DAVIS,Brian.Davis@company.com,2019-09-12,Security Analyst,IT,51190,1766819676,847 Oliver Village Apt. 830,Fergusontown,NC,66701,1980-09-30,Terminated
+1766819866,Kimberly,King,Kimberly.King@company.com,2019-11-13,Systems Administrator,IT,"$127,033",1766819579,978 Jones Radial Apt. 079,Shawnland,IL,39383,1998-08-07,Terminated
+1766819867,Charles,BURCH,Charles.Burch@company.com,2017-09-07,Learning & Development Lead,HR,"$98,436",1766819659,1297 Mark Crest Suite 705,North Antoniofort,NJ,59423,1966-03-03,Active
+1766819868,barry,HILL,Barry.Hill@company.com,2017-02-17,IT Manager,IT,118028,1766819585,528 Fitzgerald Villages Suite 947,East Christina,CA,52749,1974-07-21,ACTIVE
+1766819869,elizabeth,Robles,elizabeth.robles@COMPANY.COM,2016-11-10,Learning & Development Lead,HR,"$67,610",1766819626,00689 Laurie Garden,North Jonburgh,DE,98442,1984-01-25,ACTIVE
+1766819870,darlene,WEEKS,Darlene@Weeks,2023-04-18,Sales Operations Analyst,Sales,"$91,723",1766819593,963 Julie Parks Suite 633,Lake Mallory,NC,41056,1981-07-29,On Leave
+1766819871,robert,Cooper,Robert.Coopercompany.com,2025-08-28,Product Analyst,Analytics,142048,1766819614,849 Michelle Bridge Apt. 282,Brianshire,MS,78349,1960-03-27,Active
+1766819872,Joshua,Church,Joshua.Church@company.com,2021-08-10,Analytics Manager,Analytics,148764,1766819686,998 Kelly Parks,West Willieport,HI,70995,1969-10-24,Terminated
+1766819873,Matthew,Braun,Matthew.Braun@company.com,2017-04-02,DevOps Engineer,IT,106753,1766819772,0709 Harris Villages Suite 348,Riverafurt,NM,78479,1996-03-31,
+1766819874,james,Lara,James@Lara,2019-07-19,Data Analyst,Analytics,99267,1766819763,3457 Barr Port,Danielleshire,DE,37459,1992-06-05,Active
+1766819875,Samantha,Suarez,Samantha.Suarez@company.com,2018-10-17,HR Generalist,HR,"$87,607",1766819549,3925 Haynes Square Suite 698,Shannonside,PR,53501,1993-12-01,Terminated
+1766819876,Paige,BROWN,Paige.Brown@company.com,2023-11-13,IT Support Specialist,IT,123114,,9889 Rebecca Stravenue Apt. 425,East Jason,NV,70317,1988-09-06,
+1766819877,stephen,WILSON,Stephen.Wilson@company.com,2017-01-27,Talent Acquisition Specialist,HR,44450,1766819577,25713 Hall Avenue,Lake Belinda,MI,49867,1979-10-02,
+1766819878,Deborah,Shepherd,Deborah.Shepherd@company.com,2016-01-25,Talent Acquisition Specialist,HR,63678,1766819761,6192 Baker View Suite 614,Johnsonshire,IN,90126,1967-06-24,ACTIVE
+1766819879,Audrey,FERNANDEZ,Audrey.Fernandez@company.com,2025-04-12,it support specialist, it ,"$40,507",1766819872,2896 Adkins Shore,East Jonathan,NV,21818,1997-03-08,
+1766819880,Karl,Mitchell,karl.mitchell@COMPANY.COM,2025-11-10,IT Manager,IT,"$76,373",N/A,454 Sandra Walk,South Christopherfurt,NH,59599,2002-08-13,
+1766819881,bernard,Freeman,Bernard.Freeman@company.com,2021-06-04,Sales Associate,Sales,112306,1766819577,39177 Huff Turnpike Suite 976,Yateschester,FM,20868,1980-04-03,Active
+1766819882,Joseph,CORDOVA,Joseph.Cordova@company.com,2020-03-13,Systems Administrator,IT,"$101,982",1766819725,3579 Dale Mews,East Christinetown,PW,11446,1964-12-27,
+1766819883,John,Williamson,John.Williamson@company.com,2027-02-01,Talent Acquisition Specialist,HR,57389,N/A,8651 Dillon Causeway Suite 963,Conniefort,OH,74265,1965-10-01,
+1766819884,marisa,Griffin,Marisa@Griffin,2023-09-23,HR Generalist,HR,"$124,828",1766819675,52617 Morris Crescent Apt. 314,South Jasonchester,TN,04287,1974-12-30,On Leave
+1766819885,dennis,White,Dennis.White@company.com,2023-04-18,HR Assistant,HR,87895,1766819799,7026 Michelle Greens Suite 783,Cheryltown,IA,12897,1969-09-03,Terminated
+1766819886,morgan,Richard,Morgan.Richard@company.com,2017-12-13,HR Generalist,HR,"$147,618",1766819786,160 Wallace Port Apt. 638,West Marc,KY,38577,1977-04-09,
+1766819887,sharon,SAUNDERS,Sharon.Saunders@company.com,2022-04-20,Sales Associate,Sales,107966,1766819859,7520 Blake Mission,Port Ericport,AZ,71105,1990-08-14,ACTIVE
+1766819888,Christopher,Ellis,Christopher.Ellis@company.com,2017-08-06,DevOps Engineer,IT,"$97,677",1766819710,7014 Gonzalez Mountain,East Michaelport,LA,30985,1995-10-14,
+1766819889,Gregory,Thomas,Gregory@Thomas,2024-07-20,Systems Administrator,IT,"$83,874",1766819680,2976 Isaac Parkways,South Nicolemouth,WI,15245,1965-04-29,ACTIVE
+1766819890,Mario,DAVILA,Mario.Davila@company.com,2023-06-02,Business Development Representative,Sales,149232,1766819665,4632 Mejia Hill Apt. 556,Williamsside,AS,70929,1989-06-30,Terminated
+1766819891,ricky,Sutton,Ricky.Sutton@company.com,2022-06-24,IT Support Specialist,IT,"$66,718",1766819761,26665 Phillips Shoals,Smithstad,WY,51511,1980-10-27,
+1766819892,Paul,WILLIAMSON,Paul.Williamson@company.com,2024-11-17,Analytics Manager,Analytics,"$62,338",1766819695,988 Kelly Circles,North Katherine,VA,97856,1977-12-12,Terminated
+1766819893,jocelyn,Stewart,Jocelyn.Stewartcompany.com,2023-09-18,Business Intelligence Analyst,Analytics,69758,1766819549,20508 Natalie Pines Apt. 918,West Leslie,PW,25112,2000-05-26,ACTIVE
+1766819894,stephen,King,Stephen.King@company.com,2023-09-07,Learning & Development Lead,HR,"$117,616",1766819536,746 Troy Isle Suite 538,Lambertburgh,MP,97856,1987-07-23,Active
+1766819895,paul,Gillespie,Paul.Gillespie@company.com,2016-08-31,Business Intelligence Analyst,Analytics,"$51,276",1766819557,2829 Anderson Springs Suite 600,Samanthastad,KY,54267,1986-04-25,
+1766819896,christina,WILSON,Christina.Wilson@company.com,2021-09-13,it support specialist, it ,"$100,310",1766819864,9621 Park Lake,East Jamieville,AL,35770,1971-05-07,On Leave
+1766819897,rebecca,Leach,Rebecca.Leach@company.com,2025-04-29,Data Analyst,Analytics,101570,1766819868,33677 Lee Coves Apt. 732,East Kellieborough,UT,65948,1984-04-15,ACTIVE
+1766819898,kenneth,WILLIAMS,Kenneth@Williams,2016-02-16,Systems Administrator,IT,65704,1766819617,36433 Bean Walks Apt. 519,Markborough,RI,07735,1968-07-04,
+1766819899,robert,Robinson,Robert.Robinson@company.com,2024-01-27,Sales Manager,Sales,"$121,198",1766819763,1716 Garcia Stravenue Apt. 241,Jonathanview,NV,81736,1970-08-10,Active
+1766819900,christine,JOHNSON,Christine.Johnson@company.com,2021-06-17,data analyst, analytics ,"$143,169",1766819647,06091 Darin Mount,Jamesborough,IA,35079,1994-01-20,Active
+1766819901,carla,SMITH,Carla.Smith@company.com,2024-11-25,Security Analyst,IT,"$50,388",1766819868,50954 Anna Brooks Apt. 841,West Melissa,MT,96076,1965-11-29,Terminated
+1766819902,Matthew,HUFFMAN,Matthew.Huffman@company.com,2016-01-10,Data Engineer,Analytics,"$44,291",N/A,2699 Anthony Road,West Andrea,RI,66298,1988-10-14,Terminated
+1766819903,David,BLACK,David.Black@company.com,2028-09-24,Data Analyst,Analytics,95295,1766819685,764 Jack Harbors Suite 812,Donovanburgh,DC,24997,1985-02-27,Terminated
+1766819904,Darius,WASHINGTON,Darius.Washington@company.com,2025-05-07,HR Assistant,HR,68436,1766819649,70269 Wong Island Apt. 845,Fieldsfort,WA,24532,1997-10-08,ACTIVE
+1766819905,kylie,Wilson,Kylie.Wilson@company.com,2022-08-06,Sales Manager,Sales,"$76,326",,6186 Michael Square Suite 559,West Andreport,FM,90571,1974-08-13,Terminated
+1766819906,alan,ORTIZ,alan.ortiz@COMPANY.COM,2021-03-03,Security Analyst,IT,"$40,441",1766819579,509 Camacho Springs Apt. 366,Snyderville,FL,73474,1978-07-14,Terminated
+1766819907,Erika,CASTILLO,erika.castillo@COMPANY.COM,2024-07-12,Business Development Representative,Sales,"$63,320",10138,7218 Nicholas Skyway,Lambhaven,PA,94848,1992-09-20,Active
+1766819907,Erika,CASTILLO,erika.castillo@COMPANY.COM,2024-07-12,Business Development Representative,Sales,"$63,320",10138,7218 Nicholas Skyway,Lambhaven,PA,94848,1992-09-20,Active
+1766819909,Kathy,Campbell,kathy.campbell@COMPANY.COM,2017-03-06,Sales Operations Analyst,Sales,129907,1766819540,7987 Lee Ford,Karenfort,PA,19754,1977-01-29,ACTIVE
+1766819910,Bruce,Wall,Bruce.Wall@company.com,2019-01-23,IT Support Specialist,IT,"$145,960",1766819778,19012 Morris Trace,Johnmouth,CA,51096,1976-12-07,On Leave
+1766819911,Sandra,Garcia,Sandra.Garcia@company.com,2019-05-05,hr assistant, hr ,"$128,024",N/A,4512 Williams Views,Coxfurt,MO,58234,1981-06-03,
+1766819912,Karen,PETERSON,Karen.Peterson@company.com,2028-03-07,Sales Operations Analyst,Sales,106768,1766819725,16200 Charles Bridge,New Alexanderside,NM,46108,1995-05-15,
+1766819913,Julie,SUAREZ,Julie.Suarez@company.com,2022-09-11,IT Manager,IT,"$83,338",1766819547,2514 Andrew Loaf Suite 867,West Susan,WI,78800,1973-12-23,
+1766819914,randy,JOHNSON,Randy.Johnson@company.com,2024-01-25,Data Engineer,Analytics,50035,1766819540,61263 Thomas Hill,Michaelton,WI,53505,1973-07-07,Active
+1766819915,peter,SMITH,Peter.Smith@company.com,2018-08-15,HR Assistant,HR,"$71,706",1766819577,6816 Joe Mill Suite 898,Whitehaven,WY,87826,1961-07-02,ACTIVE
+1766819916,Alyssa,Thompson,Alyssa.Thompson@company.com,2021-11-11,Product Analyst,Analytics,65180,1766819718,0577 Jay Points Apt. 542,Lake Adrianaville,VA,81750,1975-11-15,ACTIVE
+1766819917,Sarah,Gardner,Sarah.Gardner@company.com,2022-05-15,hr manager, hr ,"$82,331",1766819792,5151 Yvonne Crossing,Aliciatown,NV,43692,1975-06-27,Terminated
+1766819918,pedro,Jones,pedro.jones@COMPANY.COM,2024-06-24,Account Executive,Sales,112920,1766819555,0612 Holloway Plains,Ericksonville,DC,93515,1970-01-18,On Leave
+1766819919,patricia,Johnston,Patricia.Johnston@company.com,2025-06-11,Talent Acquisition Specialist,HR,42180,1766819579,3394 Kimberly Courts,North Jill,NM,10323,1998-06-12,On Leave
+1766819920,Dana,Decker,Dana.Decker@company.com,2020-06-19,IT Support Specialist,IT,"$46,430",1766819547,3462 Thompson Divide Suite 435,Hughesville,CA,21237,1966-01-02,Terminated
+1766819921,Christina,WILLIAMS,Christina.Williams@company.com,2018-02-06,Talent Acquisition Specialist,HR,96526,1766819626,599 Johnson Trace,East Victormouth,NJ,76705,2001-09-09,Active
+1766819922,olivia,Dickerson,Olivia@Dickerson,2021-11-18,Talent Acquisition Specialist,HR,113164,1766819792,9438 Cooper Track Apt. 181,Lake Richardchester,TX,66963,1998-08-28,ACTIVE
+1766819923,Brian,Walton,Brian.Walton@company.com,2020-11-14,Security Analyst,IT,"$123,614",1766819686,258 Fox Shore Apt. 100,Jackhaven,IN,81935,1973-02-21,
+1766819924,Katherine,ZIMMERMAN,Katherine.Zimmermancompany.com,2025-09-10,Analytics Manager,Analytics,"$95,562",1766819687,7475 Key Forge Suite 584,Lake Frankport,CO,36952,2000-01-29,Active
+1766819925,jacob,Sims,Jacob.Sims@company.com,2024-06-10,Data Analyst,Analytics,122583,1766819816,60295 Butler Radial Apt. 330,Port Monica,SD,85908,2003-09-09,ACTIVE
+1766819926,jessica,GARRETT,Jessica.Garrettcompany.com,2025-08-19,Product Analyst,Analytics,"$60,654",1766819799,86839 Russell Street,North Johnton,NV,72051,1987-11-30,Terminated
+1766819927,elizabeth,Watson,Elizabeth.Watson@company.com,2024-08-26,IT Manager,IT,77794,1766819686,569 Hawkins Vista,East Denisechester,DC,39908,2001-10-21,On Leave
+1766819928,charles,PRICE,Charles.Price@company.com,2018-12-09,data engineer, analytics ,"$104,515",1766819685,4356 Green Point,West Nicholasberg,RI,61790,1995-03-11,On Leave
+1766819929,Donald,BULLOCK,Donald.Bullock@company.com,2019-02-05,Sales Associate,Sales,61616,1766819832,53850 Aaron Neck,Hahntown,KY,94328,1973-03-17,Terminated
+1766819930,Ryan,Lewis,Ryan.Lewis@company.com,2022-07-27,Sales Manager,Sales,129163,1766819899,92987 Wilson Vista,Lake Lisa,AR,09598,1987-11-03,On Leave
+1766819931,colleen,DENNIS,Colleen.Dennis@company.com,2024-07-04,Analytics Manager,Analytics,"$63,777",1766819547,76969 Adrian Prairie Apt. 267,Amandaburgh,NM,10793,1971-08-30,Active
+1766819932,Brandon,Nelson,Brandon.Nelson@company.com,2019-09-12,HR Assistant,HR,"$65,355",1766819816,179 George Throughway Apt. 093,Lake Terri,NC,40808,1965-10-28,Active
+1766819933,lauren,LEE,Lauren.Lee@company.com,2016-04-14,IT Support Specialist,IT,83408,1766819534,172 Clayton Loop Suite 598,East Jameschester,ME,92003,1969-06-26,
+1766819934,kelly,COOPER,Kelly.Coopercompany.com,2025-05-11,Product Analyst,Analytics,133169,11359,3953 Gwendolyn Rue,Lake Angelaville,IA,65695,1985-12-30,ACTIVE
+1766819935,sarah,TODD,Sarah.Todd@company.com,2021-11-27,HR Assistant,HR,42385,1766819617,591 Brianna Ranch,West David,ID,86543,1976-03-24,On Leave
+1766819936,Hannah,MOLINA,hannah.molina@COMPANY.COM,2023-02-27,Product Analyst,Analytics,52432,1766819614,225 Cindy Club,East Donaldberg,PW,57977,1983-04-20,Terminated
+1766819937,anthony,Cohen,Anthony.Cohen@company.com,2017-05-04,Talent Acquisition Specialist,HR,104414,1766819880,1503 Kathleen Rapid Apt. 596,East Donna,DE,72344,1964-12-13,Active
+1766819938,timothy,TAPIA,Timothy.Tapia@company.com,2016-07-08,Data Engineer,Analytics,43149,1766819639,8004 Hill Street Apt. 692,West Anita,IA,97597,2001-07-30,On Leave
+1766819939,ray,GORDON,Ray@Gordon,2023-09-02,Data Analyst,Analytics,"$95,422",1766819534,657 Jonathan Brooks,Kingland,MI,28248,1964-08-29,
+1766819940,Kylie,MILLER,kylie.miller@COMPANY.COM,2023-11-08,security analyst, it ,131701,1766819647,71853 Mary Rapids,New Jenniferburgh,AR,13860,2002-04-10,
+1766819941,Todd,Glenn,Todd.Glenn@company.com,2018-06-18,Business Intelligence Analyst,Analytics,"$79,473",1766819610,59421 Lisa Prairie,West Walterberg,NH,51408,1978-03-08,ACTIVE
+1766819942,Joseph,Miller,Joseph.Miller@company.com,2024-07-29,IT Manager,IT,"$89,765",11815,595 Allison Cliff Suite 775,South Garymouth,RI,73626,1991-11-01,ACTIVE
+1766819943,Jennifer,NAVARRO,Jennifer.Navarro@company.com,2024-03-01,Analytics Manager,Analytics,143815,1766819930,6115 Kevin Cliffs Suite 042,Anthonyport,TN,90188,1986-02-02,Active
+1766819944,matthew,Hill,Matthew.Hill@company.com,2019-08-20,Sales Operations Analyst,Sales,72105,1766819593,5934 Julia Passage,New Pamela,KY,74554,1998-08-31,On Leave
+1766819945,John,Ramirez,John.Ramirez@company.com,2024-10-31,HR Assistant,HR,"$80,742",1766819689,6450 Garcia Ferry Suite 132,East Alisonburgh,MO,11068,1965-10-03,
+1766819946,eileen,Cunningham,Eileen.Cunningham@company.com,2017-07-05,Business Intelligence Analyst,Analytics,66965,,27448 Garcia Summit,South Gina,TX,73263,1979-09-29,
+1766819947,savannah,CABRERA,Savannah.Cabrera@company.com,2022-02-17,Data Analyst,Analytics,57134,1766819716,2637 Christopher Drive,Conleyberg,ME,95345,1982-05-31,Active
+1766819948,cheryl,Brown,Cheryl.Brown@company.com,2024-08-22,Data Engineer,Analytics,43655,,705 Billy Fords,Barberfurt,MD,97884,1985-05-30,Terminated
+1766819949,Bethany,WANG,Bethany.Wang@company.com,2022-12-02,hr generalist, hr ,45046,1766819676,7889 Franklin Pass,Floydfort,LA,89259,1984-01-02,Active
+1766819950,susan,GORDON,Susan.Gordon@company.com,2018-04-05,Learning & Development Lead,HR,"$117,029",N/A,0428 Perez Alley,West Nicholasside,ID,60982,1990-05-23,Terminated
+1766819951,elizabeth,FERGUSON,Elizabeth.Ferguson@company.com,2018-08-01,HR Manager,HR,43479,1766819842,719 Dodson Hills,Brianborough,ND,87583,1986-03-26,On Leave
+1766819952,jacob,MORROW,Jacob.Morrow@company.com,2024-07-17,Sales Associate,Sales,"$67,495",1766819734,462 Martinez Coves,West Lindseyland,UT,79198,1961-11-25,
+1766819953,sarah,Thompson,Sarah.Thompson@company.com,2021-04-12,HR Manager,HR,"$141,582",1766819695,617 Wright Haven,East Tiffanyfurt,WI,64370,1982-12-03,
+1766819954,Juan,Mccarthy,Juan.Mccarthy@company.com,2019-04-27,Product Analyst,Analytics,41583,10796,23540 Duncan Wall Apt. 506,South Sara,MO,26034,1996-03-08,Terminated
+1766819955,Derrick,BERNARD,Derrick.Bernard@company.com,2016-12-27,Business Intelligence Analyst,Analytics,129724,1766819610,812 Melendez Drives,Howemouth,NC,23711,1985-12-30,ACTIVE
+1766819956,daniel,BROWN,Daniel.Brown@company.com,2020-12-09,Learning & Development Lead,HR,"$125,633",1766819899,8476 Brown Lakes,East Latasha,ID,73101,1964-11-30,Terminated
+1766819957,Daniel,Perkins,Daniel.Perkins@company.com,2024-08-20,HR Assistant,HR,109987,1766819799,572 Henry Row,Karenland,HI,97810,1960-01-25,Active
+1766819958,Melanie,Reilly,Melanie.Reilly@company.com,2028-04-06,Product Analyst,Analytics,"$82,585",1766819799,59145 Patricia Fork,North Heather,NE,48997,1992-03-23,Terminated
+1766819959,tiffany,Rodriguez,Tiffany.Rodriguez@company.com,2025-03-25,Business Intelligence Analyst,Analytics,"$52,707",1766819924,968 Reyes Island,Rebeccaville,TN,13894,1980-01-24,Terminated
+1766819960,Glenn,REYNOLDS,Glenn.Reynolds@company.com,2017-11-04,HR Generalist,HR,60451,1766819647,93338 Michael Throughway,Bonillafurt,ID,88797,1964-06-24,
+1766819961,james,Walker,James.Walker@company.com,2016-01-22,Talent Acquisition Specialist,HR,92548,1766819685,91984 Moore Island Suite 639,West Elizabeth,NE,37930,2002-08-03,Active
+1766819962,Keith,Cain,Keith.Cain@company.com,2025-11-19,data engineer, analytics ,120024,1766819686,0600 Cody Views,East Chelseastad,FM,95150,1965-11-02,On Leave
+1766819963,bobby,DANIELS,Bobby.Daniels@company.com,2018-04-09,Business Intelligence Analyst,Analytics,147299,1766819675,835 Russell Lakes Suite 073,New Stacy,HI,51419,1998-05-01,
+1766819964,erik,Beck,erik.beck@COMPANY.COM,2021-03-05,Sales Associate,Sales,"$98,128",1766819687,9544 Sarah Vista,Sloanstad,MI,09146,1977-05-30,On Leave
+1766819965,Stephanie,Jordan,Stephanie.Jordan@company.com,2023-02-08,Talent Acquisition Specialist,HR,98088,1766819784,3256 Ronald Camp,Port Brettview,MO,20613,1979-10-13,On Leave
+1766819966,James,Russell,James.Russell@company.com,2016-07-01,Sales Manager,Sales,113209,1766819872,56018 Megan Pike Suite 885,East Maryshire,WA,84210,1972-09-13,On Leave
+1766819967,james,HUBBARD,James.Hubbard@company.com,2019-09-12,Business Intelligence Analyst,Analytics,"$143,367",1766819541,3688 Diamond Ford Suite 558,New Jonathan,PA,85374,1992-07-23,Active
+1766819968,Jill,Bradshaw,Jill.Bradshaw@company.com,2017-12-19,hr generalist, hr ,"$73,838",1766819905,662 Mcdonald Ramp Apt. 345,South Caitlyn,OR,52364,1965-12-19,Active
+1766819969,erin,Chase,erin.chase@COMPANY.COM,2016-02-21,Sales Operations Analyst,Sales,"$49,480",1766819687,9129 Hodge Corner Suite 183,Lake Kevinberg,PA,05336,1977-04-03,ACTIVE
+1766819970,Cole,JONES,Cole.Jones@company.com,2017-04-19,HR Generalist,HR,"$141,397",1766819763,2202 Murray Circles,North Jefferyside,NE,77761,1983-08-09,
+1766819971,brenda,KRAMER,Brenda.Kramercompany.com,2019-12-28,IT Support Specialist,IT,"$91,342",1766819714,5226 Davis Lights,Port Samuel,GA,18270,1985-07-14,
+1766819972,jason,Jacobs,Jason.Jacobs@company.com,2018-03-10,Business Development Representative,Sales,"$126,709",1766819924,158 Hale Lakes Suite 898,North Cory,SC,12188,1985-03-14,Terminated
+1766819973,Janet,Fernandez,Janet.Fernandez@company.com,2021-12-26,data engineer, analytics ,"$79,814",1766819792,85668 Diana Islands,East Patrickfurt,NE,76255,1975-04-16,
+1766819974,Autumn,HENSON,Autumn.Henson@company.com,2024-11-09,account executive, sales ,"$62,514",1766819676,22024 Brandi Village,North Larry,CO,37452,1994-11-15,
+1766819975,timothy,Murphy,Timothy.Murphy@company.com,2018-10-21,DevOps Engineer,IT,"$144,551",1766819565,28625 Sandoval Bypass Suite 238,Bradleymouth,MI,52745,1990-09-09,On Leave
+1766819976,justin,Blair,Justin.Blair@company.com,2021-02-07,Product Analyst,Analytics,131958,N/A,9218 Charles Stravenue Suite 571,New Johnshire,MA,26028,1985-01-01,Active
+1766819977,belinda,BRYANT,Belinda.Bryant@company.com,2017-01-03,Systems Administrator,IT,137554,1766819620,99893 Davis Mount Suite 628,Brownport,MN,94647,1969-01-31,Terminated
+1766819978,Alicia,Sexton,Alicia.Sexton@company.com,2021-09-29,Business Intelligence Analyst,Analytics,142766,1766819718,89809 Thomas Throughway Apt. 037,South Marcuston,MN,04549,1991-02-15,Active
+1766819979,roberto,Evans,Roberto.Evans@company.com,2019-11-07,systems administrator, it ,"$106,340",,906 Alejandra Stream Suite 673,North Jamesfurt,ND,64811,1965-06-27,On Leave
+1766819980,Rhonda,Hurst,rhonda.hurst@COMPANY.COM,2025-05-05,Account Executive,Sales,115507,1766819685,7222 Allen Plain,Bartonburgh,MI,07316,2001-01-16,ACTIVE
+1766819981,tyler,BROWN,Tyler.Brown@company.com,2020-02-07,Security Analyst,IT,"$72,573",1766819687,08364 Matthew Pike,New Brendamouth,NH,47171,1986-03-17,On Leave
+1766819982,natalie,Wilkins,Natalie.Wilkins@company.com,2019-02-12,Business Development Representative,Sales,146337,1766819686,3284 William Fields Suite 421,Stewartbury,TX,29317,1994-08-16,
+1766819983,kayla,Myers,Kayla.Myers@company.com,2023-02-05,analytics manager, analytics ,102958,1766819734,4137 Tran Knoll,Whitneyton,NH,49470,1974-04-28,Terminated
+1766819984,Jason,White,Jason.White@company.com,2020-09-14,Account Executive,Sales,"$139,267",1766819966,1552 Tyler Village,Susanberg,DE,63566,1966-05-15,ACTIVE
+1766819985,Andrew,STEWART,Andrew.Stewart@company.com,2018-07-26,IT Manager,IT,"$131,172",1766819718,0878 Morris Street,Henrybury,KY,09013,1960-11-01,Active
+1766819986,william,Thomas,William.Thomas@company.com,2018-08-02,IT Manager,IT,97796,1766819610,1654 Sean Park Apt. 094,Port Melissatown,VI,76322,1970-09-12,Terminated
+1766819987,Teresa,Robinson,Teresa.Robinson@company.com,2021-03-21,Business Development Representative,Sales,145993,1766819718,4717 Cooper Views,Port William,OK,35470,1969-02-21,Active
+1766819988,Dustin,Clay,Dustin.Clay@company.com,2023-10-06,Security Analyst,IT,117506,1766819784,79458 Heather Valleys,Mullinsside,TX,27556,1965-07-08,Active
+1766819989,Abigail,SMITH,Abigail.Smith@company.com,2020-01-01,learning & development lead, hr ,"$120,903",1766819905,10347 Michelle Harbor Apt. 720,Simsside,ME,10284,1982-11-21,On Leave
+1766819990,Aaron,WANG,Aaron.Wang@company.com,2019-02-07,sales manager, sales ,"$117,147",11114,8316 Daniel Village,Brownmouth,MP,55927,1982-02-13,Active
+1766819991,Victoria,Carey,Victoria@Carey,2027-11-21,Business Intelligence Analyst,Analytics,46407,1766819620,26088 Newton Knoll,West Gregorybury,CO,74817,1981-10-26,Terminated
+1766819992,Heather,Rivas,Heather.Rivas@company.com,2025-01-26,Sales Operations Analyst,Sales,119987,1766819626,5963 Lewis Lodge,West Robert,PR,85606,1975-03-31,On Leave
+1766819993,david,Smith,David.Smith@company.com,2029-04-27,Sales Associate,Sales,"$145,725",1766819659,82748 Brent Forges,Michaelstad,OK,21100,1986-09-05,On Leave
+1766819994,Ethan,LARSON,Ethan@Larson,2018-01-12,Data Analyst,Analytics,"$57,274",1766819579,9849 Wendy Junction,Rodriguezfurt,ND,98972,1970-01-11,On Leave
+1766819995,robert,Rice,Robert.Rice@company.com,2016-02-12,Data Engineer,Analytics,104357,1766819547,566 David Stravenue,Jordanport,KS,94654,2000-08-28,ACTIVE
+1766819996,Katherine,CONLEY,Katherine.Conley@company.com,2029-09-24,IT Manager,IT,"$74,094",1766819675,8474 Edwards Flats Apt. 933,West Kayla,VT,30773,1969-05-06,
+1766819997,Mary,Jones,Mary.Jones@company.com,2025-05-29,Learning & Development Lead,HR,"$144,419",10709,238 Brown Locks,Port Charles,PR,56836,1999-08-24,Active
+1766819998,michelle,Harrison,Michelle.Harrison@company.com,2023-04-25,Sales Manager,Sales,"$47,177",1766819784,192 Jason Points Suite 437,Port Ryan,OR,44042,1975-08-02,Active
+1766819999,Katherine,BRAUN,katherine.braun@COMPANY.COM,2021-09-07,HR Manager,HR,117638,1766819695,6547 Brown Place,Jamesville,ND,69848,1975-09-12,Terminated
+1766820000,martha,Haynes,Martha.Haynes@company.com,2016-06-02,Data Analyst,Analytics,"$52,644",1766819905,364 Bob Place Apt. 206,Franklinton,CO,11194,1969-08-05,ACTIVE
+1766820001,Derek,Strickland,Derek.Strickland@company.com,2020-04-22,IT Support Specialist,IT,99866,1766819651,8622 Brown Streets,Simshaven,IN,99165,1992-10-04,ACTIVE
+1766820002,Tiffany,JONES,Tiffany.Jones@company.com,2017-01-15,Business Development Representative,Sales,71180,1766819996,363 Klein Estates Suite 220,South Oliviaberg,WA,36096,1985-07-11,Active
+1766820003,Jennifer,Young,Jennifer.Young@company.com,2021-10-22,Learning & Development Lead,HR,71737,1766819917,807 Martin Tunnel,New Amyton,MA,73417,1964-01-27,ACTIVE
+1766820004,Sierra,MASON,Sierra.Mason@company.com,2023-04-11,Data Analyst,Analytics,"$70,612",N/A,143 Brandon Lights Suite 245,Christianberg,MH,37593,1996-01-18,On Leave
+1766820005,jason,Kim,Jason.Kim@company.com,2025-11-25,Security Analyst,IT,"$62,543",1766819942,74877 Lisa Springs,South Christophermouth,AK,45350,1985-07-25,On Leave
+1766820006,Ricky,MILLS,Ricky.Mills@company.com,2020-11-24,Talent Acquisition Specialist,HR,119806,1766819651,3445 Diane Prairie Suite 870,South Sarahbury,OH,73308,1997-01-25,Active
+1766820007,karen,COLEMAN,Karen.Coleman@company.com,2016-07-21,DevOps Engineer,IT,"$103,133",1766819689,0322 Fisher Islands,New Jessicaberg,MH,07379,1991-01-22,ACTIVE
+1766820008,thomas,Boyd,Thomas.Boyd@company.com,2023-09-05,Systems Administrator,IT,134618,1766819676,398 Jones Passage Suite 998,Nicholasshire,ID,70254,1994-05-15,
+1766820009,Jill,FLORES,Jill.Flores@company.com,2020-11-12,Business Intelligence Analyst,Analytics,"$73,697",1766819555,7966 John View,Port Cody,WI,48107,1973-12-29,On Leave
+1766820010,jennifer,BAKER,Jennifer.Baker@company.com,2030-03-15,Product Analyst,Analytics,126453,1766819786,469 Jenna Orchard,Lindseyton,AL,31310,1999-03-12,Terminated
+1766820011,tony,CALDERON,Tony.Calderoncompany.com,2023-11-05,Business Development Representative,Sales,"$99,521",1766819857,1615 Cody Pines Apt. 726,West Rachaelbury,IL,89129,1988-08-19,Active
+1766820012,Shannon,Marshall,Shannon.Marshall@company.com,2018-05-19,IT Support Specialist,IT,101324,1766819868,297 Maynard Crest,Nashview,SD,58463,1977-05-03,
+1766820013,Carlos,REED,Carlos.Reed@company.com,2016-07-27,sales associate, sales ,44273,N/A,0930 Owens Curve,South Jessicaburgh,MN,73825,1999-02-02,ACTIVE
+1766820014,Denise,Torres,Denise.Torres@company.com,2017-07-11,learning & development lead, hr ,"$44,856",1766819710,40039 Warren Fall,Port Aaron,OH,05747,1983-03-20,ACTIVE
+1766820015,Michael,Pitts,Michael.Pitts@company.com,2028-10-01,HR Assistant,HR,"$76,120",1766819990,3737 Jeffrey Mews,West Robinshire,AS,28517,2003-02-22,Active
+1766820016,Joshua,MARTINEZ,Joshua.Martinez@company.com,2021-11-08,IT Support Specialist,IT,147251,1766819913,39337 Aguilar Road Apt. 058,Sheilashire,MT,28291,1982-04-14,ACTIVE
+1766820017,ricky,Jones,Ricky.Jones@company.com,2021-07-15,Learning & Development Lead,HR,"$69,689",1766819930,8438 Jones Springs,Valdezfort,FM,82503,2002-02-23,Active
+1766820018,kelly,Anderson,Kelly.Anderson@company.com,2016-11-12,Sales Associate,Sales,113039,1766819546,1149 Peterson Fields,Changstad,NE,02769,1978-11-25,On Leave
+1766820019,Robert,Newton,Robert.Newton@company.com,2023-09-03,Business Development Representative,Sales,"$98,713",1766819714,70592 Albert Greens Apt. 482,Bradleychester,WI,85532,1998-10-21,On Leave
+1766820020,christopher,Carlson,Christopher.Carlson@company.com,2022-05-03,Business Development Representative,Sales,"$43,616",11099,9595 Walker Plains Suite 324,Palmerbury,VT,60629,1970-06-18,ACTIVE
+1766820021,Mark,Melendez,Mark.Melendez@company.com,2020-04-14,HR Assistant,HR,"$96,966",1766819686,99361 Bennett Prairie,Port Micheal,NJ,65362,1996-03-26,Active
+1766820022,Jim,Hodges,Jim.Hodges@company.com,2030-12-07,analytics manager, analytics ,51642,1766819577,35301 Davis Fords,Helenburgh,MN,62044,2002-02-11,Terminated
+1766820023,alexis,Tanner,Alexis.Tanner@company.com,2019-05-22,IT Manager,IT,44782,1766819555,260 Beard Green Suite 034,East Bradley,TN,09856,1991-08-14,Active
+1766820024,Diana,MURPHY,diana.murphy@COMPANY.COM,2021-04-23,business intelligence analyst, analytics ,"$140,784",1766819686,31596 David Pass,South Amanda,SD,75359,1991-06-04,Terminated
+1766820025,Michael,Cox,Michael.Cox@company.com,2022-12-25,Business Development Representative,Sales,"$44,806",1766819568,2557 Perez Hills Suite 382,South Davidville,AS,42573,1990-12-03,Active
+1766820026,wendy,JOHNSON,Wendy.Johnson@company.com,2019-09-02,it manager, it ,78754,,877 Aimee Freeway Suite 740,Martinezfurt,CT,66471,1979-04-01,Terminated
+1766820027,tara,Vazquez,Tara.Vazquez@company.com,2024-08-05,business intelligence analyst, analytics ,"$115,847",1766819880,8705 Norman Greens Suite 274,Robinsonhaven,NM,93096,1998-10-29,ACTIVE
+1766820028,nicole,Fleming,Nicole.Fleming@company.com,2019-02-09,HR Generalist,HR,"$125,141",1766819646,0115 Scott Plains,Susanville,CO,75429,1983-04-08,ACTIVE
+1766820029,David,MORRIS,david.morris@COMPANY.COM,2019-06-12,Learning & Development Lead,HR,"$108,269",1766819892,0867 Sherri Junctions,Moonton,PR,25064,1990-08-17,Terminated
+1766820030,Philip,Thomas,philip.thomas@COMPANY.COM,2022-08-31,Learning & Development Lead,HR,114057,N/A,85730 Amanda Meadow Apt. 686,West Shaun,GU,14107,1970-05-18,On Leave
+1766820031,james,Chang,james.chang@COMPANY.COM,2025-01-25,data engineer, analytics ,"$103,175",,59392 Jordan Cape,Lanetown,OH,59779,1962-01-23,Terminated
+1766820032,Charles,Cherry,Charles.Cherry@company.com,2022-05-20,IT Support Specialist,IT,116914,1766819842,160 Jasmine Burg Apt. 788,New Karlbury,MI,79717,2003-05-10,ACTIVE
+1766820033,Tanya,Harris,tanya.harris@COMPANY.COM,2023-04-25,Data Analyst,Analytics,62533,1766819610,4173 Leslie Estates,Shafferland,CO,61289,1979-11-24,On Leave
+1766820034,Lance,Lam,Lance.Lam@company.com,2019-10-12,Business Development Representative,Sales,69334,1766819930,9107 Christina Dale,New Kathleen,PA,96542,2003-05-27,
+1766820035,Rachel,BELTRAN,Rachel.Beltran@company.com,2022-07-25,Sales Associate,Sales,"$137,744",1766819646,925 David Rapid,Patrickfort,AR,02362,1982-11-09,
+1766820036,Christopher,Taylor,Christopher.Taylor@company.com,2016-11-03,Sales Associate,Sales,99182,1766819639,23935 Scott Mount,East Timothyport,MD,11911,1964-11-09,Terminated
+1766820036,Christopher,Taylor,Christopher.Taylor@company.com,2016-11-03,Sales Associate,Sales,99182,1766819639,23935 Scott Mount,East Timothyport,MD,11911,1964-11-09,Terminated
+1766820038,Gary,White,gary.white@COMPANY.COM,2024-10-20,Talent Acquisition Specialist,HR,116191,1766819763,970 Duncan Orchard Apt. 078,Perezmouth,MP,62265,1976-09-08,
+1766820039,jennifer,BROWN,Jennifer.Brown@company.com,2018-04-19,Data Analyst,Analytics,95132,1766819951,5384 Ford Ford Apt. 337,West Dustin,NE,66404,1992-03-03,On Leave
+1766820040,jason,Romero,Jason.Romero@company.com,2019-03-07,HR Assistant,HR,80438,1766819649,9918 Olivia Manor,West John,GA,05038,1967-07-21,
+1766820041,charles,JONES,Charles.Jones@company.com,2023-06-08,IT Support Specialist,IT,69649,1766819647,05659 Sarah Canyon Apt. 832,New Kimberlytown,MN,20409,1967-10-10,Active
+1766820042,William,Anthony,William.Anthony@company.com,2020-08-20,Learning & Development Lead,HR,76682,1766819695,5086 Horn Crest,Richardbury,CA,82993,1977-02-09,
+1766820043,Jay,CARRILLO,Jay.Carrillo@company.com,2016-01-04,hr assistant, hr ,145814,1766819784,4880 Mitchell Flat,Gabrielafort,CO,73895,1973-08-22,On Leave
+1766820044,William,Meyer,William.Meyer@company.com,2021-05-21,IT Manager,IT,85477,,976 Meyers Ways,West Robertfort,IL,84152,1979-12-18,On Leave
+1766820045,Allison,BENSON,Allison.Benson@company.com,2024-01-19,security analyst, it ,"$75,426",1766819534,8977 Curry Unions Apt. 838,Sydneyfurt,WA,76402,1965-02-11,Terminated
+1766820046,brooke,Gray,Brooke.Gray@company.com,2022-12-26,Learning & Development Lead,HR,"$63,925",,360 Jared Orchard,Port Cheryl,IN,09525,1962-04-01,Active
+1766820047,Jake,Palmer,Jake.Palmer@company.com,2019-11-27,it support specialist, it ,"$81,711",1766819998,1113 Michelle Meadow,Lake Susan,MN,32890,1972-10-21,Active
+1766820048,jennifer,Douglas,Jennifer.Douglas@company.com,2022-04-04,Talent Acquisition Specialist,HR,"$108,510",1766819676,899 Middleton Mountain,Robertton,ND,00545,1964-10-16,On Leave
+1766820049,raymond,Jackson,Raymond.Jackson@company.com,2018-12-08,Data Engineer,Analytics,79420,1766819708,446 Michelle Route,Ericaborough,ID,04955,1993-06-10,
+1766820050,Tami,HANSEN,Tami.Hansen@company.com,2024-08-11,hr assistant, hr ,"$59,193",1766819647,44258 Kristine Crescent Suite 572,East Matthew,AL,04787,1966-09-04,On Leave
+1766820051,james,OLSON,james.olson@COMPANY.COM,2023-09-09,Sales Manager,Sales,"$141,425",11669,2925 Jonathon Mission Apt. 834,Williamsmouth,AL,38005,1989-11-15,ACTIVE
+1766820052,Melody,HOLMES,Melody.Holmes@company.com,2023-12-26,hr generalist, hr ,"$136,826",1766819647,03372 Justin Isle Apt. 902,Bakerview,GU,74634,1984-11-20,Active
+1766820053,matthew,Andrade,Matthew.Andrade@company.com,2021-12-17,Analytics Manager,Analytics,"$72,724",1766819547,9624 Gilmore Mountains Apt. 601,Mayhaven,ID,85483,1979-05-07,On Leave
+1766820054,greg,Evans,Greg.Evans@company.com,2023-10-26,Business Development Representative,Sales,"$54,618",1766819998,850 Booth Hill Apt. 649,Campbellmouth,KS,65733,1986-10-14,Active
+1766820055,melissa,JACKSON,Melissa.Jackson@company.com,2021-06-12,Analytics Manager,Analytics,"$82,721",11047,601 Whitehead Village Apt. 265,South Kevin,WY,46186,1968-01-24,
+1766820056,Curtis,Hill,Curtis.Hillcompany.com,2025-05-03,data analyst, analytics ,139272,1766819680,893 Robinson Mountains Suite 622,Lake Jessicaport,IL,40756,1999-09-17,Active
+1766820057,Patrick,Higgins,patrick.higgins@COMPANY.COM,2021-11-17,Sales Associate,Sales,78314,1766819659,6623 Jennifer Creek,Cochrantown,MA,11866,1960-03-11,On Leave
+1766820058,vanessa,Lewis,Vanessa.Lewis@company.com,2024-01-02,Systems Administrator,IT,91115,1766819951,2837 Nicholas Locks Apt. 485,Barryburgh,AK,41826,1970-01-08,ACTIVE
+1766820059,Julie,JOHNSON,Julie.Johnson@company.com,2026-12-27,Business Development Representative,Sales,115313,1766820044,7093 Crawford Inlet Suite 666,Tonyburgh,ID,65366,1999-05-03,Terminated
+1766820060,Kenneth,RODRIGUEZ,Kenneth.Rodriguez@company.com,2021-02-21,learning & development lead, hr ,65970,1766819966,4833 Smith Centers Suite 053,South Monicamouth,PA,22456,1967-05-13,Active
+1766820061,pedro,Hernandez,Pedro.Hernandez@company.com,2023-09-08,Systems Administrator,IT,"$86,944",1766819579,94101 Thompson Ports Suite 200,West Tara,KY,23721,1970-09-30,
+1766820062,Theresa,Walker,Theresa.Walker@company.com,2018-07-21,Sales Associate,Sales,"$148,069",10674,84523 Smith Drive Apt. 175,North Monicaside,KY,80437,1981-08-13,
+1766820063,jodi,MYERS,Jodi.Myers@company.com,2021-01-10,Talent Acquisition Specialist,HR,"$54,053",1766819680,23068 Megan Key,Davistown,ME,36864,1979-02-01,Terminated
+1766820064,Leslie,DIXON,Leslie.Dixon@company.com,2019-11-25,Learning & Development Lead,HR,"$87,293",1766819986,006 Adams Crossing Suite 181,Castrofurt,OH,74937,2003-07-17,Terminated
+1766820065,Janice,NELSON,Janice.Nelson@company.com,2023-11-27,Sales Operations Analyst,Sales,"$73,213",10499,8205 Jennifer Locks,Dixonshire,SC,83757,1969-04-09,On Leave
+1766820066,Stephanie,Garcia,Stephanie.Garcia@company.com,2020-12-11,sales associate, sales ,"$114,530",1766819565,280 Brian Wells,North Kyle,KY,74397,1971-02-21,Terminated
+1766820067,Sarah,Sullivan,Sarah.Sullivan@company.com,2023-05-06,Analytics Manager,Analytics,97767,1766819899,45219 Stephen Common Suite 647,Freemanland,AS,06151,1985-10-06,Terminated
+1766820067,Sarah,Sullivan,Sarah.Sullivan@company.com,2023-05-06,Analytics Manager,Analytics,97767,1766819899,45219 Stephen Common Suite 647,Freemanland,AS,06151,1985-10-06,Terminated
+1766820069,dustin,FULLER,Dustin.Fuller@company.com,2024-04-08,Learning & Development Lead,HR,"$54,852",,221 Mary Prairie,Nathanchester,NE,31945,1992-11-09,Active
+1766820070,Randy,Dominguez,Randy.Dominguez@company.com,2024-07-17,HR Assistant,HR,147938,1766819924,14751 Burns Estates Apt. 048,Fowlerton,AS,50540,1991-01-20,Active
+1766820071,William,JOHNSON,William.Johnson@company.com,2021-11-30,Data Engineer,Analytics,125950,1766819698,123 Christina Road,West Danielberg,VA,39926,1983-04-27,ACTIVE
+1766820072,Amy,Sharp,Amy.Sharp@company.com,2021-09-27,sales manager, sales ,"$97,588",1766819708,338 Robert Crescent,Wernerside,IL,09770,1995-08-24,
+1766820073,matthew,Davis,Matthew.Davis@company.com,2018-05-17,security analyst, it ,"$82,080",1766820023,818 Bryant Center Suite 904,Gloverbury,WV,75212,2002-02-11,ACTIVE
+1766820074,Caroline,Weber,Caroline.Weber@company.com,2016-03-10,Security Analyst,IT,"$58,243",N/A,1632 Murray Via,West Tony,ND,68100,1962-12-13,
+1766820075,natalie,Garcia,Natalie.Garcia@company.com,2019-04-05,hr manager, hr ,127444,N/A,9318 Howard Drives,Harrisshire,MH,38326,1961-01-18,On Leave
+1766820076,Maxwell,Carter,Maxwell@Carter,2025-12-06,IT Manager,IT,40967,1766819859,362 Wilkinson Springs,Thompsonport,VT,61206,1992-12-30,On Leave
+1766820077,emily,George,Emily.George@company.com,2025-02-16,Business Development Representative,Sales,65292,1766819917,6699 Benjamin Burg,New Aaronstad,IL,64910,1991-01-11,ACTIVE
+1766820078,Jessica,BAIRD,Jessica@Baird,2016-12-28,HR Manager,HR,"$118,785",1766819708,3935 Judith Islands,Youngburgh,WV,49892,1960-01-12,Active
+1766820079,Allison,Holland,Allison.Holland@company.com,2021-10-12,Data Analyst,Analytics,81854,1766819986,922 Kathleen Alley Apt. 713,Robertfort,UT,97005,1966-12-19,ACTIVE
+1766820080,lisa,SULLIVAN,Lisa.Sullivan@company.com,2019-09-24,Analytics Manager,Analytics,139182,1766819695,7755 Hayes Views Apt. 424,Susanport,NC,27407,1992-07-20,ACTIVE
+1766820081,Ronald,Armstrong,ronald.armstrong@COMPANY.COM,2021-07-16,business intelligence analyst, analytics ,134575,,351 Arroyo Run,Beckshire,MH,17762,1990-01-14,On Leave
+1766820082,Karen,Gregory,Karen.Gregory@company.com,2024-02-08,HR Generalist,HR,"$67,041",1766819892,1193 Krista Corner,Allisonville,SD,31167,1967-02-26,Active
+1766820083,james,Green,James.Green@company.com,2023-07-12,sales operations analyst, sales ,"$113,362",,2661 Mia Shoal Suite 693,South Tracy,PR,22844,1980-10-05,Active
+1766820084,Joseph,BANKS,Joseph.Banks@company.com,2017-02-06,analytics manager, analytics ,68181,N/A,59681 Jamie Spur,Sanchezberg,ID,91062,1977-12-10,Active
+1766820085,wesley,Huynh,wesley.huynh@COMPANY.COM,2017-10-12,Business Intelligence Analyst,Analytics,76751,1766819665,132 Ryan Trafficway Apt. 489,Yvetteborough,IN,85591,1989-06-27,
+1766820086,patricia,Sanders,Patricia.Sanders@company.com,2017-12-09,sales associate, sales ,67656,1766819614,2114 Miller Rest Apt. 923,Johnsonchester,MD,67028,1982-05-14,On Leave
+1766820087,Lindsay,Rodriguez,Lindsay.Rodriguez@company.com,2025-08-18,Systems Administrator,IT,114310,1766819540,44721 Hood Ways Suite 335,North Aliciabury,KY,57166,1968-10-02,Active
+1766820088,robert,WILSON,Robert.Wilsoncompany.com,2023-12-09,HR Assistant,HR,81234,1766819943,4782 Christina Wells,West Parker,MA,18192,1964-10-01,Terminated
+1766820089,Eric,Cummings,Eric.Cummings@company.com,2020-08-29,IT Support Specialist,IT,"$120,499",1766820080,81652 Jones Expressway,Khanshire,TX,92703,1976-04-18,On Leave
+1766820090,Craig,NELSON,Craig.Nelson@company.com,2017-07-12,HR Assistant,HR,65842,1766819931,6791 Solomon Park,Lake Rhonda,KY,73598,1979-01-16,Terminated
+1766820091,Cody,ROCHA,Cody.Rocha@company.com,2023-05-16,devops engineer, it ,128531,1766819639,279 King Orchard Apt. 455,Port Jerryton,NH,40596,1966-09-08,On Leave
+1766820092,daniel,MOYER,Daniel.Moyer@company.com,2016-02-20,IT Manager,IT,105118,1766819899,3733 Mclean Bridge,Robinsontown,KS,68930,1964-09-02,Active
+1766820093,Kevin,Scott,Kevin.Scott@company.com,2018-06-14,Systems Administrator,IT,"$134,982",1766819716,827 Juan Gardens Apt. 556,Johnsonbury,PW,20286,1994-07-16,Active
+1766820094,judy,Vasquez,Judy.Vasquez@company.com,2018-05-08,IT Support Specialist,IT,70468,1766819998,947 Curry Lodge Apt. 709,Lake Valerieside,WY,40257,1967-11-18,Active
+1766820095,Sherri,BENTON,Sherri.Benton@company.com,2017-01-18,HR Generalist,HR,"$47,210",1766820044,9320 Garcia Divide,Johnsonshire,PR,52531,1966-07-25,
+1766820096,donna,Mason,Donna.Mason@company.com,2020-09-27,IT Manager,IT,83426,10959,0181 Leslie Rest,Sarahshire,OH,73111,1988-12-14,
+1766820097,michael,PEREZ,Michael.Perez@company.com,2022-03-07,product analyst, analytics ,"$57,011",1766820080,409 Dixon Summit Suite 975,South Lisaview,NM,57583,1969-03-06,
+1766820098,aaron,Long,Aaron.Long@company.com,2020-10-01,Learning & Development Lead,HR,"$78,331",1766819579,561 Phillips Summit,Jamesbury,WV,53378,1973-09-02,ACTIVE
+1766820099,james,MARTINEZ,James.Martinez@company.com,2025-10-31,Data Analyst,Analytics,"$143,496",1766819990,75236 Ingram Street,East Wesley,IA,39604,1979-12-01,ACTIVE
+1766820100,Jennifer,Baldwin,Jennifer.Baldwin@company.com,2022-06-02,Product Analyst,Analytics,128723,1766820078,09411 Williams Green,East Ashley,UT,30689,1963-01-25,On Leave
+1766820101,jessica,Price,Jessica.Price@company.com,2025-08-29,Data Analyst,Analytics,44215,1766819585,54379 Cardenas Green Apt. 839,North Steveport,NY,54250,1997-05-04,Active
+1766820102,Anna,JORDAN,anna.jordan@COMPANY.COM,2016-10-24,Data Engineer,Analytics,"$142,275",1766819772,994 Beverly Gateway Apt. 882,Port Lisa,AZ,25990,1980-12-23,Active
+1766820103,amanda,Turner,amanda.turner@COMPANY.COM,2019-06-24,Sales Operations Analyst,Sales,"$133,527",1766819986,3791 Espinoza Key,Cindybury,GA,49768,2001-11-19,
+1766820104,Philip,SCHWARTZ,Philip.Schwartz@company.com,2025-11-25,IT Manager,IT,"$143,206",1766819848,442 Price Manor,Lisaburgh,CA,94575,2003-09-05,Active
+1766820105,brooke,JOHNSON,Brooke.Johnson@company.com,2021-01-19,Sales Associate,Sales,"$146,742",1766819620,297 Teresa Burg,Port Joel,AR,07828,1969-10-11,
+1766820106,stephanie,GRIMES,Stephanie.Grimes@company.com,2020-09-02,DevOps Engineer,IT,"$61,062",1766819864,27795 Herrera Crescent,Stevenshaven,TN,70176,1983-06-10,Active
+1766820107,wendy,Johnson,Wendy.Johnson@company.com,2025-06-19,IT Manager,IT,81409,11589,41423 Ross Well Apt. 691,Williamsbury,NY,73514,2001-08-03,Active
+1766820108,dean,Brown,Dean.Brown@company.com,2017-09-30,Account Executive,Sales,"$49,488",1766819985,04448 Eric Valley,Port Amyville,NC,18629,1960-05-30,ACTIVE
+1766820109,abigail,HOOPER,Abigail.Hooper@company.com,2018-08-20,systems administrator, it ,137129,1766819672,69785 Mccarty Cape,Garciaside,IL,76965,1979-06-13,ACTIVE
+1766820110,Alan,RANDALL,Alan.Randall@company.com,2018-01-10,Sales Associate,Sales,120545,1766819622,4898 Lisa Wall,East Eric,MA,68446,1969-02-08,On Leave
+1766820111,william,Torres,William.Torres@company.com,2021-07-19,DevOps Engineer,IT,112102,1766819695,811 Reynolds Flat Apt. 048,South Geraldbury,WI,38320,1979-09-17,Terminated
+1766820112,Susan,GREENE,Susan@Greene,2017-10-09,DevOps Engineer,IT,"$86,537",1766819651,156 Davis Junction Apt. 407,Benjaminville,ND,27366,1997-05-18,Terminated
+1766820113,christopher,Owens,Christopher.Owens@company.com,2021-06-16,Systems Administrator,IT,"$128,051",1766819536,58195 Mata Mission Apt. 984,Pearsonton,IL,75144,1973-08-10,
+1766820114,Deborah,Mays,Deborah.Mays@company.com,2017-01-20,sales associate, sales ,111608,N/A,314 Mark Unions Apt. 147,Mortonfurt,KY,69786,1994-08-15,Active
+1766820115,Jeremy,Clark,Jeremy.Clark@company.com,2017-03-10,Sales Operations Analyst,Sales,114189,1766820026,22145 Jesse Stravenue,Christinehaven,MH,42925,1982-08-29,ACTIVE
+1766820116,Antonio,LITTLE,antonio.little@COMPANY.COM,2019-02-22,systems administrator, it ,"$127,908",11279,7290 Jennifer Turnpike Suite 094,East Christopherburgh,NE,15868,1968-09-20,Terminated
+1766820117,Adrienne,BROWN,Adrienne.Brown@company.com,2024-02-08,Product Analyst,Analytics,78782,1766819842,375 White Hill Apt. 760,West Christinachester,VT,62949,1974-01-16,Active
+1766820118,haley,Obrien,Haley.Obrien@company.com,2022-08-28,it manager, it ,"$147,415",1766819996,223 Derrick Ramp,South Kellyburgh,MH,03509,1968-03-02,ACTIVE
+1766820119,alicia,Davila,alicia.davila@COMPANY.COM,2024-06-13,Sales Manager,Sales,"$80,623",1766819568,0218 Christopher Inlet,South Stephanieport,AS,21340,2003-07-13,On Leave
+1766820120,terri,Howard,Terri.Howard@company.com,2019-09-24,Business Intelligence Analyst,Analytics,114953,1766819601,3268 Derek Viaduct Suite 376,Sandovalborough,UT,57888,1965-05-31,Terminated
+1766820121,william,MENDOZA,William.Mendoza@company.com,2020-09-29,HR Manager,HR,"$62,938",10792,11065 Jennifer Vista,Greenport,IL,29813,1976-06-13,ACTIVE
+1766820122,Tyler,Cortez,Tyler.Cortez@company.com,2016-03-25,Business Development Representative,Sales,"$121,544",1766819536,47743 Thomas Meadows,Duffyside,MH,12334,1983-01-19,On Leave
+1766820123,Eric,MARTIN,Eric.Martin@company.com,2024-11-08,Business Intelligence Analyst,Analytics,125933,N/A,18842 Goodwin Heights Apt. 784,Robertsborough,IA,68618,1980-09-05,ACTIVE
+1766820124,Ashlee,JOHNSON,Ashlee.Johnson@company.com,2019-08-12,Business Development Representative,Sales,"$86,731",1766819617,933 Omar Prairie,Margaretview,MN,32484,1984-07-15,ACTIVE
+1766820125,Erin,MOORE,Erin@Moore,2024-06-04,it support specialist, it ,"$130,374",1766820044,1332 Christopher Walks Apt. 044,North Martha,WY,29244,1992-07-20,On Leave
+1766820126,Carolyn,Davis,Carolyn.Davis@company.com,2017-07-20,Data Engineer,Analytics,102567,1766819626,40882 Gaines Point,South Lauriemouth,GA,16754,1960-03-09,
+1766820127,David,EDWARDS,David.Edwards@company.com,2021-09-19,Business Development Representative,Sales,95393,1766820075,4393 Troy Rest,East Michael,AK,80126,1994-03-21,
+1766820128,Amber,Santiago,Amber.Santiago@company.com,2025-08-16,Business Intelligence Analyst,Analytics,"$132,369",1766819610,755 Freeman Orchard Apt. 319,Port Gregoryhaven,AK,73386,1990-10-03,
+1766820129,kristi,WASHINGTON,Kristi.Washington@company.com,2016-10-12,Analytics Manager,Analytics,"$98,500",1766819659,7791 Lauren Valley,Michaelfort,MD,43658,1978-02-01,Active
+1766820130,Teresa,Simmons,Teresa.Simmons@company.com,2020-10-13,talent acquisition specialist, hr ,"$83,471",,171 Perez Pass,Anthonystad,MP,70856,1979-12-17,
+1766820131,Veronica,Mcdonald,Veronica@Mcdonald,2019-03-15,IT Manager,IT,"$85,904",1766820096,37629 King Lakes,Lake Markside,WY,56289,1971-10-24,On Leave
+1766820132,Kenneth,Smith,Kenneth.Smith@company.com,2020-11-29,Security Analyst,IT,79714,1766819541,7401 Kimberly Lights,Perezland,FM,95480,1961-12-09,
+1766820133,daniel,MILLER,Daniel.Miller@company.com,2018-11-22,Data Analyst,Analytics,136327,1766819953,8754 Debbie Summit Suite 206,North Tylerberg,MP,43878,1974-02-27,ACTIVE
+1766820134,ana,White,Ana.White@company.com,2025-01-28,sales associate, sales ,143421,1766819799,5692 Michael Forges Suite 371,Debbieshire,NV,25663,1981-05-01,
+1766820135,Brian,King,Brian.King@company.com,2016-07-20,DevOps Engineer,IT,"$44,417",1766819857,370 Booth Harbors Suite 714,South Hannahshire,AS,95798,1963-12-31,Active
+1766820136,zachary,Browning,Zachary@Browning,2029-09-30,Security Analyst,IT,"$66,919",1766819646,52199 Crystal Shoals,Lake Shawnstad,SD,64025,1967-09-04,On Leave
+1766820137,james,SMITH,James.Smith@company.com,2020-09-26,HR Assistant,HR,"$119,238",1766819763,028 Elizabeth Neck,South Sharonfurt,IL,31911,1963-07-10,Terminated
+1766820138,micheal,GRIFFIN,Micheal.Griffin@company.com,2020-11-29,Systems Administrator,IT,112666,10391,5848 Ashley Brook Apt. 866,South Jenna,PA,70498,1995-12-28,Active
+1766820139,Michael,Myers,Michael.Myers@company.com,2020-04-06,Talent Acquisition Specialist,HR,114139,1766819905,90852 Everett Shores Apt. 552,East Melody,KY,48826,2003-10-22,Terminated
+1766820140,crystal,Miller,Crystal.Miller@company.com,2025-10-24,Data Engineer,Analytics,121908,1766819927,543 Long Prairie Suite 898,North Brendan,VI,73427,1980-01-12,Terminated
+1766820141,Eric,Crawford,Eric.Crawford@company.com,2018-01-27,Analytics Manager,Analytics,"$65,377",,875 Evans Inlet,Larrystad,ME,67510,1966-01-30,On Leave
+1766820142,Joshua,JONES,Joshua.Jones@company.com,2028-02-28,IT Manager,IT,"$114,081",1766819857,66777 Logan Lodge,Faulknerfurt,MH,10215,1987-10-13,ACTIVE
+1766820143,steven,HURLEY,Steven.Hurley@company.com,2020-05-21,DevOps Engineer,IT,"$69,184",1766820131,640 Erin Vista Suite 754,Port Patrick,AK,18862,1962-04-08,On Leave
+1766820144,tammy,HEATH,Tammy.Heath@company.com,2024-11-29,account executive, sales ,123404,N/A,028 Singleton Forge,Lamstad,WV,47530,1987-01-29,Terminated
+1766820145,Yvette,Carter,Yvette.Cartercompany.com,2023-09-13,Sales Associate,Sales,115395,1766819996,36465 Dustin Walk Apt. 277,Lake Caitlinville,MI,69195,2002-07-14,ACTIVE
+1766820146,Sarah,ROBERTSON,Sarah@Robertson,2024-10-29,devops engineer, it ,50922,1766820096,61406 Ellis Isle,Frankchester,FM,07370,1966-02-10,On Leave
+1766820147,gregory,WILCOX,Gregory.Wilcox@company.com,2018-05-07,data analyst, analytics ,"$103,048",1766819816,564 Matthew Freeway,New Theresa,MA,80533,1964-09-05,Terminated
+1766820148,stephanie,Lee,Stephanie.Lee@company.com,2023-09-30,Sales Associate,Sales,"$131,346",N/A,32144 Amanda Orchard,Samanthafurt,GA,34943,1979-02-06,
+1766820149,Blake,HOLT,Blake.Holt@company.com,2016-06-20,Product Analyst,Analytics,"$76,451",1766820141,3192 Clark Viaduct Apt. 242,Richardberg,PW,52496,1992-03-14,Terminated
+1766820150,michael,ROBINSON,Michael.Robinson@company.com,2025-11-10,Sales Operations Analyst,Sales,93186,11252,79162 Rodriguez Drive,Davidhaven,ME,81208,1970-11-10,Terminated
+1766820151,ronald,Shepherd,Ronald.Shepherd@company.com,2023-07-05,Account Executive,Sales,"$51,192",1766819716,770 Michael Throughway,Russellland,SC,99776,2001-07-24,Active
+1766820152,vanessa,Reyes,Vanessa.Reyes@company.com,2025-04-11,Product Analyst,Analytics,"$84,372",1766820129,269 Hubbard Branch,Destinymouth,NH,98878,1963-01-23,Terminated
+1766820153,Jake,Soto,Jake.Soto@company.com,2019-07-20,Sales Operations Analyst,Sales,44807,N/A,19652 Reed Stream Suite 904,West Ryan,IL,12109,2003-07-10,ACTIVE
+1766820154,Emily,LEONARD,Emily.Leonard@company.com,2024-11-05,Sales Associate,Sales,84969,1766820072,68286 Ronald Roads,Lindseyburgh,NE,53808,1967-02-12,Terminated
+1766820155,Erik,Medina,Erik.Medina@company.com,2022-04-01,IT Manager,IT,69271,1766819859,88494 Nicole Haven,North Connie,OH,19849,1972-08-06,Terminated
+1766820156,Elizabeth,Miller,Elizabeth.Miller@company.com,2023-02-12,Systems Administrator,IT,73833,1766820080,2056 Andrew Corners,West Nicolechester,GA,06783,1981-10-07,ACTIVE
+1766820157,jamie,Stewart,Jamie.Stewart@company.com,2020-08-22,Systems Administrator,IT,123536,1766820022,60328 Cole Trafficway Apt. 020,Jorgeland,NM,25957,1985-03-30,ACTIVE
+1766820158,Lisa,Mercer,Lisa.Mercer@company.com,2018-09-05,Systems Administrator,IT,"$141,247",1766819577,40700 Patricia Summit,Port Bryanbury,VI,21261,1992-11-23,
+1766820158,Lisa,Mercer,Lisa.Mercer@company.com,2018-09-05,Systems Administrator,IT,"$141,247",1766819577,40700 Patricia Summit,Port Bryanbury,VI,21261,1992-11-23,
+1766820160,Reginald,MIRANDA,reginald.miranda@COMPANY.COM,2021-06-17,Learning & Development Lead,HR,139043,1766819848,01859 Harris Dam,North Amy,NM,87340,1963-01-02,Terminated
+1766820161,richard,SMITH,richard.smith@COMPANY.COM,2017-11-13,HR Manager,HR,"$99,441",11480,31999 Wright Drives Suite 390,North Keithland,AL,37593,1997-06-09,ACTIVE
+1766820162,charles,BROWN,Charles.Brown@company.com,2021-08-19,HR Assistant,HR,93692,1766819546,89445 Christopher Tunnel Apt. 404,South Christian,NV,16876,1972-12-13,ACTIVE
+1766820163,David,Thomas,David.Thomas@company.com,2020-06-24,learning & development lead, hr ,83012,1766819676,38455 Jimmy Path Apt. 716,Davisfort,DC,74863,1983-06-28,On Leave
+1766820164,robin,Mcfarland,Robin.Mcfarland@company.com,2025-07-18,Analytics Manager,Analytics,"$47,307",1766820121,7308 Justin Mountains,Jessicaport,NJ,64736,1981-09-03,
+1766820165,sara,Reed,Sara.Reed@company.com,2023-08-17,Account Executive,Sales,"$119,804",1766819848,183 Schroeder Crossing Apt. 739,Port Kimberly,MN,24082,1995-08-26,
+1766820166,steven,ALLEN,Steven.Allen@company.com,2025-09-04,hr generalist, hr ,"$43,574",1766819999,132 Hull Crescent,New Johnton,CT,09650,2002-07-26,On Leave
+1766820167,Destiny,Guzman,Destiny.Guzman@company.com,2021-06-11,Sales Associate,Sales,95383,1766819842,8594 Spencer Roads Apt. 772,Hallport,OH,85262,1983-10-30,Active
+1766820168,mary,CLARK,Mary.Clark@company.com,2017-01-14,Business Development Representative,Sales,"$41,591",1766819864,49357 Daniel Crossroad Suite 154,South Alexandria,AL,05591,1988-04-26,
+1766820169,Michelle,HARRELL,Michelle.Harrell@company.com,2023-08-21,HR Generalist,HR,83309,1766819541,900 Kayla Shoal,Owensmouth,AS,23325,1963-07-23,On Leave
+1766820170,jessica,WASHINGTON,Jessica.Washington@company.com,2023-12-15,Security Analyst,IT,70666,1766819710,15820 Buck Road,New Thomas,MI,27880,1982-03-19,Terminated
+1766820171,Donald,Welch,Donald.Welchcompany.com,2022-11-30,Product Analyst,Analytics,138886,1766819540,34410 Chavez Fork Apt. 683,Williamsmouth,FL,75461,1961-07-19,ACTIVE
+1766820172,victoria,CUMMINGS,victoria.cummings@COMPANY.COM,2018-10-29,Sales Operations Analyst,Sales,62690,1766820131,29376 Andre Ranch,Velazquezbury,MA,25796,1979-04-24,Terminated
+1766820173,laura,Franklin,laura.franklin@COMPANY.COM,2018-02-20,Sales Operations Analyst,Sales,107713,1766820131,68337 Medina Spring,Powellfort,NY,94252,1982-04-24,Active
+1766820174,jody,MADDOX,jody.maddox@COMPANY.COM,2016-06-24,data engineer, analytics ,"$48,478",1766820044,371 Baker Mount,Josephmouth,VI,90301,1985-12-09,Terminated
+1766820175,lisa,CHOI,Lisa.Choi@company.com,2017-09-07,Business Development Representative,Sales,76299,,9014 Wright Vista Apt. 441,Lake Sheri,MN,96858,1973-01-01,ACTIVE
+1766820176,kaitlin,WU,Kaitlin@Wu,2018-08-30,Sales Operations Analyst,Sales,73381,1766819927,0274 Blevins Inlet Apt. 352,Joneshaven,WI,56471,1984-05-16,Active
+1766820177,frank,Perez,Frank.Perez@company.com,2019-01-09,Sales Associate,Sales,"$141,883",,67054 Myers Walk,Katieburgh,NM,93370,2000-12-13,Terminated
+1766820178,jessica,Archer,Jessica.Archer@company.com,2028-10-23,Product Analyst,Analytics,94064,1766819953,77920 Gonzalez Mountain Apt. 370,New Stephanie,PR,17982,1987-02-15,On Leave
+1766820179,lindsey,LOVE,Lindsey.Love@company.com,2024-06-07,devops engineer, it ,61900,1766819647,808 Taylor Run,Nelsonview,KY,48138,1973-05-17,On Leave
+1766820180,jose,FIELDS,Jose.Fields@company.com,2024-11-29,Data Analyst,Analytics,114633,1766819714,489 Jefferson Ports,Williamchester,OK,35968,1967-05-12,ACTIVE
+1766820181,Paul,SANCHEZ,Paul.Sanchez@company.com,2023-09-11,Sales Associate,Sales,53220,,76445 King Greens Suite 458,Joshuamouth,GA,21149,2002-02-04,ACTIVE
+1766820182,vanessa,Yang,Vanessa.Yang@company.com,2021-12-17,Sales Associate,Sales,102041,1766819784,71448 Timothy Spur,Moodymouth,NH,14792,1978-11-12,
+1766820183,Stephanie,MASON,Stephanie.Mason@company.com,2021-06-10,hr generalist, hr ,70231,1766819718,33056 Linda Point,North Staceyside,HI,12162,1980-12-09,Terminated
+1766820184,Donna,Skinner,donna.skinner@COMPANY.COM,2025-01-19,Talent Acquisition Specialist,HR,103662,1766819649,461 Brown Inlet,North Joyce,VT,97545,1980-06-21,Active
+1766820185,Nina,Martinez,Nina.Martinez@company.com,2025-01-25,Security Analyst,IT,"$83,338",1766819688,0936 Sloan Bypass Suite 908,North Thomas,SC,92303,1992-05-02,Terminated
+1766820186,thomas,Summers,Thomas.Summers@company.com,2023-10-08,Product Analyst,Analytics,"$93,422",1766819966,774 Lindsey Drives,Ashleyfort,FM,77512,1979-05-21,On Leave
+1766820187,cindy,MANN,Cindy.Mann@company.com,2022-05-16,Analytics Manager,Analytics,142651,N/A,601 Taylor Islands Apt. 396,Port Matthew,GU,83829,1976-02-23,Active
+1766820188,nathan,RUSSELL,nathan.russell@COMPANY.COM,2021-10-21,HR Manager,HR,40958,1766819534,5063 Nancy Meadows,Lake Alexanderstad,TN,82145,1977-04-12,Active
+1766820189,Elizabeth,LEWIS,Elizabeth.Lewis@company.com,2030-10-26,Talent Acquisition Specialist,HR,115136,1766819593,0987 Hailey Groves Suite 802,West Sherryton,HI,22703,1996-08-13,
+1766820190,Andrew,KEMP,Andrew.Kemp@company.com,2022-10-25,HR Manager,HR,96083,1766820104,01133 Maria Trace Apt. 378,Johnnyborough,PR,09524,1981-08-28,
+1766820191,steven,POWELL,Steven.Powell@company.com,2023-01-18,Data Engineer,Analytics,109701,1766820131,3766 Joseph Isle,Brownborough,MO,28677,1975-01-29,Active
+1766820192,nicole,HENDERSON,Nicole@Henderson,2016-10-14,Systems Administrator,IT,"$61,973",1766819622,81399 Wilson Ports,Sheltonchester,FL,24739,1998-03-28,Active
+1766820193,kimberly,MORENO,Kimberly.Moreno@company.com,2020-02-12,IT Support Specialist,IT,49649,,3802 Foster Junctions Apt. 146,East Laurahaven,WV,47703,1978-03-03,Terminated
+1766820194,Willie,MARTIN,Willie.Martin@company.com,2023-12-30,Security Analyst,IT,131588,,266 Marissa Inlet,Desireeberg,NJ,96400,1986-11-02,ACTIVE
+1766820195,Andrew,Elliott,Andrew.Elliott@company.com,2019-06-22,Sales Operations Analyst,Sales,"$51,111",1766819917,4220 Garcia Ridges,West William,NC,70165,1998-04-11,
+1766820196,Justin,Pacheco,justin.pacheco@COMPANY.COM,2018-06-17,Sales Operations Analyst,Sales,"$91,308",1766819999,52496 Daryl Coves Suite 887,Jamesburgh,OK,33673,1998-06-11,On Leave
+1766820197,pamela,Miles,Pamela.Milescompany.com,2017-02-13,IT Support Specialist,IT,76352,1766819622,0503 Theresa Shoals,Marshport,IL,25643,1981-03-06,Terminated
+1766820198,melissa,Escobar,Melissa.Escobar@company.com,2016-11-15,Business Development Representative,Sales,"$147,775",1766820131,68082 Gregory Terrace,North Amy,CO,21699,2003-01-15,On Leave
+1766820199,monica,MILLER,Monica.Miller@company.com,2024-11-15,HR Generalist,HR,70502,1766820129,790 Gardner Union,Maryfurt,NV,24681,1996-02-14,Terminated
+1766820200,jeffrey,SMITH,Jeffrey.Smith@company.com,2024-06-03,Product Analyst,Analytics,"$129,271",1766819966,970 Kevin River Apt. 965,Dennistown,OK,60001,1982-06-02,
+1766820201,Joseph,GARRISON,Joseph@Garrison,2016-08-08,Data Engineer,Analytics,"$75,144",1766819832,11087 Little Rue Apt. 400,Melissaberg,MA,29466,1991-08-06,Terminated
+1766820202,Ricky,FREEMAN,ricky.freeman@COMPANY.COM,2025-03-01,Analytics Manager,Analytics,70493,1766819549,5870 Griffin Square Suite 943,Juanhaven,NE,91373,1993-06-01,Terminated
+1766820203,Alex,TORRES,Alex.Torrescompany.com,2020-12-31,Sales Associate,Sales,"$119,160",1766820131,96459 Malone Freeway,Parkport,MN,53791,1991-02-23,ACTIVE
+1766820204,pamela,Allen,Pamela.Allen@company.com,2020-06-23,Talent Acquisition Specialist,HR,"$88,367",1766820161,331 Alexander Station,Shawnmouth,MS,28920,1994-12-30,ACTIVE
+1766820205,Robin,Berry,Robin.Berry@company.com,2025-04-25,HR Manager,HR,"$132,130",1766820188,51891 Townsend Plain,East Destinyfurt,ND,84395,1990-04-22,
+1766820206,Madeline,Soto,Madeline.Soto@company.com,2019-05-27,Systems Administrator,IT,"$141,453",1766819990,542 Strong Summit Apt. 146,Andrewhaven,AZ,84663,1976-07-14,Active
+1766820206,Madeline,Soto,Madeline.Soto@company.com,2019-05-27,Systems Administrator,IT,"$141,453",1766819990,542 Strong Summit Apt. 146,Andrewhaven,AZ,84663,1976-07-14,Active
+1766820208,Brian,Bush,Brian.Bush@company.com,2016-12-06,HR Assistant,HR,48569,1766819913,2334 West Canyon,Hillburgh,PA,59909,2002-10-15,On Leave
+1766820209,Debra,Goodwin,debra.goodwin@COMPANY.COM,2022-12-14,Sales Operations Analyst,Sales,122377,11793,8165 Guzman Ford Apt. 147,West Lisa,ME,75108,1998-02-16,ACTIVE
+1766820210,Stephanie,KRAMER,Stephanie.Kramer@company.com,2017-07-06,IT Manager,IT,117361,N/A,9827 Perez Lock,North William,OR,65657,1999-09-15,
+1766820211,john,Cochran,John.Cochran@company.com,2017-02-05,business development representative, sales ,"$122,311",1766819579,19753 Myers Squares,Martinmouth,FM,86100,1966-12-20,Terminated
+1766820212,Mario,Goodman,Mario.Goodman@company.com,2018-02-28,Learning & Development Lead,HR,"$46,211",1766819868,716 Leah Streets,Grayhaven,DC,07160,1976-02-15,ACTIVE
+1766820213,john,HILL,John.Hill@company.com,2022-10-11,DevOps Engineer,IT,103294,1766819536,104 Calvin Walks Apt. 919,Kennethchester,NJ,43833,1967-12-21,On Leave
+1766820214,ryan,SMITH,Ryan.Smith@company.com,2021-05-18,Analytics Manager,Analytics,"$74,407",,974 Jason Locks Apt. 461,North Kathrynburgh,OR,89911,1960-03-04,Terminated
+1766820215,phillip,Ferrell,Phillip.Ferrellcompany.com,2027-01-30,Talent Acquisition Specialist,HR,90948,1766820202,3527 Kevin Fork Suite 130,West Timothyside,VI,73075,1987-02-09,Terminated
+1766820216,Marcus,MOORE,Marcus.Moore@company.com,2020-03-27,Sales Manager,Sales,86512,1766820096,5590 George Course,Port Rebeccaton,MI,46498,1979-02-15,Active
+1766820217,andrea,SAWYER,Andrea.Sawyer@company.com,2024-06-08,it manager, it ,50877,1766819905,611 Tony Villages,Kevinchester,VT,39801,1999-04-11,Terminated
+1766820218,andrea,Collins,Andrea.Collins@company.com,2021-09-12,Systems Administrator,IT,57602,,064 Cynthia Center,Ryanfort,GU,54670,1994-11-23,Terminated
+1766820218,andrea,Collins,Andrea.Collins@company.com,2021-09-12,Systems Administrator,IT,57602,,064 Cynthia Center,Ryanfort,GU,54670,1994-11-23,Terminated
+1766820220,cheryl,Mitchell,Cheryl.Mitchell@company.com,2024-02-12,Data Engineer,Analytics,"$87,823",1766820205,843 Tucker Gateway Apt. 695,Port Timothymouth,GU,56774,1992-06-14,On Leave
+1766820221,Audrey,Ramsey,Audrey@Ramsey,2018-12-15,it support specialist, it ,"$128,327",1766820161,567 Cohen Island Apt. 650,Erinbury,IN,98860,1971-05-30,Terminated
+1766820222,Anthony,Reese,anthony.reese@COMPANY.COM,2021-12-10,business intelligence analyst, analytics ,"$121,492",1766819931,4914 Hansen Trail,South Jessica,MN,64548,1976-12-22,
+1766820223,patrick,Santiago,Patrick.Santiago@company.com,2024-08-04,Product Analyst,Analytics,107691,1766819772,84350 Kramer Key Suite 611,East Laura,MT,07907,1977-07-04,Active
+1766820224,denise,Hudson,Denise.Hudson@company.com,2018-10-10,account executive, sales ,"$136,124",N/A,437 Erica Hills,Port Jameshaven,TN,56845,1998-05-16,ACTIVE
+1766820225,tamara,Johnson,Tamara.Johnson@company.com,2024-04-08,IT Support Specialist,IT,40462,1766819924,25813 Young Hill,South Tracie,MA,57161,1977-10-06,On Leave
+1766820226,melissa,Allen,Melissa@Allen,2022-06-18,DevOps Engineer,IT,"$88,795",1766820188,303 Wagner Stravenue,West Dennis,KS,53708,1990-11-06,ACTIVE
+1766820227,Ashley,WHITE,Ashley.White@company.com,2021-05-05,hr generalist, hr ,"$127,938",1766819686,620 Fletcher Track,Cabrerastad,WV,05938,1974-02-06,On Leave
+1766820228,randy,Maxwell,Randy.Maxwell@company.com,2025-06-07,Data Analyst,Analytics,101335,1766819687,116 Hamilton Summit Apt. 913,East Lacey,PR,63066,1982-05-19,On Leave
+1766820229,Sara,REID,Sara.Reid@company.com,2025-07-24,HR Assistant,HR,"$78,841",1766820080,876 Stephanie Avenue Suite 352,Port Robertshire,OK,08079,1988-09-02,Terminated
+1766820230,John,Singh,John.Singh@company.com,2016-11-11,sales manager, sales ,"$116,078",1766819579,642 Ortega Gateway,Matthewton,AZ,06232,1991-05-05,Terminated
+1766820231,Jennifer,Mathis,Jennifer.Mathis@company.com,2025-01-02,DevOps Engineer,IT,"$143,594",1766820022,855 Christopher Station,New Alexandriaburgh,NY,72993,1988-04-14,Terminated
+1766820232,Anthony,Davis,Anthony@Davis,2023-09-11,Product Analyst,Analytics,"$93,407",1766820161,78992 Dave Shore,Bernardmouth,IN,63609,1968-09-25,Active
+1766820233,Andrew,Mcbride,Andrew.Mcbride@company.com,2022-01-15,security analyst, it ,"$62,398",,6552 Allen Drive Suite 826,Stevensmouth,AS,73044,1998-09-07,ACTIVE
+1766820234,audrey,Schroeder,Audrey.Schroeder@company.com,2023-11-22,Account Executive,Sales,"$85,078",1766819622,542 Ferguson Avenue,North Jeffery,UT,82399,1974-10-15,
+1766820235,Richard,Murray,Richard.Murray@company.com,2016-06-22,Sales Operations Analyst,Sales,"$43,235",11618,5003 Craig Springs Apt. 245,Princeview,SD,36381,1970-04-13,ACTIVE
+1766820236,james,Day,James.Day@company.com,2024-09-15,HR Generalist,HR,"$149,375",1766819620,4341 Anthony Isle Apt. 365,Mccoyland,CT,82005,1970-11-07,On Leave
+1766820237,alicia,HANSON,Alicia.Hansoncompany.com,2018-07-05,Business Development Representative,Sales,115549,1766819763,332 Brooke Route,North Calebfurt,NC,37362,1973-12-07,
+1766820238,Ashley,CRUZ,Ashley.Cruz@company.com,2020-10-17,learning & development lead, hr ,79715,11913,9025 Ross Burg Suite 181,Pittmanport,MT,89606,1973-12-05,Terminated
+1766820239,Sarah,Williams,Sarah@Williams,2023-02-03,devops engineer, it ,"$138,501",1766819585,485 Schneider Stravenue,North Cynthia,TX,47313,1988-02-03,
+1766820240,Nicholas,Stone,Nicholas.Stonecompany.com,2020-10-03,Business Development Representative,Sales,114235,1766819585,600 Eric Squares Suite 867,Katrinahaven,MI,23039,1968-06-23,On Leave
+1766820241,audrey,Davidson,Audrey.Davidson@company.com,2019-11-22,analytics manager, analytics ,57348,10530,46917 Stevens Avenue Apt. 675,Nicoleberg,AS,61072,1969-09-03,Terminated
+1766820242,ronald,Roberts,Ronald.Roberts@company.com,2024-11-20,Systems Administrator,IT,133838,11714,297 Fisher Unions Apt. 753,South Hannah,WA,09849,1981-09-08,
+1766820243,Michael,YANG,Michael.Yang@company.com,2016-04-23,Data Analyst,Analytics,"$46,228",1766819725,6217 Gray Estate Suite 965,East Juliemouth,NM,38220,1988-08-22,Terminated
+1766820244,Diana,FRANKLIN,Diana.Franklin@company.com,2016-07-20,Systems Administrator,IT,"$139,647",10236,6450 Gomez Burgs Suite 329,South Jennifertown,PR,97868,1995-12-10,Terminated
+1766820245,Christine,Martin,Christine.Martincompany.com,2018-01-20,HR Assistant,HR,130270,1766819854,91600 Samantha Causeway,New Davidfort,KY,98524,1971-04-01,
+1766820246,John,Jacobson,John.Jacobsoncompany.com,2018-07-16,HR Generalist,HR,"$51,728",1766819930,62791 Jonathan Mills,Port Kellyshire,ND,71367,1972-08-31,Terminated
+1766820247,Raymond,PATTERSON,Raymond.Patterson@company.com,2020-08-18,Talent Acquisition Specialist,HR,"$41,665",1766819943,56273 Robert Hills Apt. 860,Port Reneechester,AL,96630,1995-09-30,Active
+1766820248,renee,Williams,Renee.Williams@company.com,2018-04-26,IT Support Specialist,IT,137631,10239,79140 Cook Stream,Schneiderfurt,NM,00796,1994-12-01,On Leave
+1766820249,jake,Taylor,Jake.Taylor@company.com,2020-01-29,IT Support Specialist,IT,"$97,991",1766820026,8421 Kevin Fall,Christopherborough,TX,07799,1976-05-03,ACTIVE
+1766820250,joseph,HOUSTON,Joseph.Houston@company.com,2022-05-23,Security Analyst,IT,"$55,113",1766820205,863 Williams Extension Apt. 773,North Anthony,VT,95359,1997-10-22,On Leave
+1766820251,jimmy,OLSON,Jimmy.Olsoncompany.com,2021-03-22,DevOps Engineer,IT,83378,1766820096,2897 Chung Roads Apt. 043,West Jason,CO,36009,1977-07-21,On Leave
+1766820252,jennifer,Thomas,Jennifer.Thomas@company.com,2020-05-08,Sales Manager,Sales,42737,1766819568,59863 Cox Streets,West Michaelside,MN,61538,1981-02-27,On Leave
+1766820253,michelle,Gonzalez,Michelle.Gonzalez@company.com,2023-03-28,HR Assistant,HR,111298,1766819784,06280 Samuel Branch Suite 639,North Rachelton,NE,68514,1967-12-12,On Leave
+1766820254,Christopher,Marsh,Christopher.Marsh@company.com,2016-05-05,Sales Associate,Sales,125407,1766820022,492 Vanessa Mountain Apt. 544,Brownside,CO,20016,1990-01-17,On Leave
+1766820255,kelly,WILSON,Kelly.Wilson@company.com,2018-09-14,DevOps Engineer,IT,"$111,830",1766819547,1356 Maria Streets,South Mary,ND,74789,1990-03-05,Terminated
+1766820256,christie,Moyer,christie.moyer@COMPANY.COM,2022-04-18,learning & development lead, hr ,136182,1766819710,7478 Russell Extension Suite 572,Matthewton,NJ,05853,1971-03-14,Active
+1766820257,dean,Moore,Dean.Moore@company.com,2028-09-18,Talent Acquisition Specialist,HR,"$105,432",1766820252,29797 Lauren Mill Suite 754,Port Tanyashire,TX,50311,2001-01-05,ACTIVE
+1766820258,Gabriela,Nguyen,gabriela.nguyen@COMPANY.COM,2016-11-03,Sales Operations Analyst,Sales,66283,1766820044,523 Amy Oval Apt. 048,Port James,VT,90765,1992-07-04,ACTIVE
+1766820259,erin,Moore,Erin.Moore@company.com,2022-03-30,IT Support Specialist,IT,82597,1766819541,8881 Brenda Lake Suite 662,Matthewport,WV,46205,1992-06-04,Active
+1766820260,Deborah,OLSON,Deborah@Olson,2022-09-30,Security Analyst,IT,"$74,902",1766820118,2053 Jacqueline Bypass Suite 312,Jeremystad,WA,56833,2001-02-03,
+1766820261,Carolyn,Bennett,Carolyn.Bennett@company.com,2016-06-08,business intelligence analyst, analytics ,"$84,217",1766819546,42933 Robin Path,Coxfurt,NM,99129,1995-10-31,Terminated
+1766820262,Dwayne,HANSEN,Dwayne.Hansen@company.com,2016-05-12,Business Intelligence Analyst,Analytics,"$93,411",1766819534,874 John Bridge,North Michaelburgh,HI,37159,1994-09-21,
+1766820263,Todd,CARTER,Todd.Carter@company.com,2017-04-29,HR Generalist,HR,"$97,529",1766819568,79535 Jaime Square,Collinsburgh,GU,03597,1971-07-12,Active
+1766820264,steven,STEELE,Steven.Steele@company.com,2025-02-13,IT Manager,IT,73250,1766820092,98328 Sanchez Islands Apt. 235,North Brianashire,PW,85256,1977-02-12,Active
+1766820265,nathan,Smith,Nathan.Smith@company.com,2024-09-02,Data Engineer,Analytics,128489,1766820202,0622 Wright Plaza,Stevensfurt,MA,44491,1991-01-05,Active
+1766820266,Randy,SNYDER,randy.snyder@COMPANY.COM,2029-12-27,IT Support Specialist,IT,72706,1766820080,8465 Karina Plains Apt. 735,Port Charles,TN,38491,1995-12-23,On Leave
+1766820267,james,Marsh,James.Marsh@company.com,2023-04-18,Business Development Representative,Sales,44775,1766820053,5207 Stephanie Stream,East Tammyville,NH,96264,1961-06-04,
+1766820268,daniel,NELSON,Daniel.Nelson@company.com,2022-11-02,Account Executive,Sales,128427,1766820131,07889 Williams Island Apt. 700,Port Bruceberg,SD,35171,1960-02-09,ACTIVE
+1766820269,Jason,HARVEY,Jason.Harvey@company.com,2027-05-21,Learning & Development Lead,HR,"$140,224",1766820084,3897 Simpson Creek,Justinview,MT,29105,1997-12-26,
+1766820270,stacey,Shah,Stacey.Shah@company.com,2019-07-27,HR Assistant,HR,"$47,188",N/A,707 Phillips Lodge,Danielborough,CA,13537,2003-12-24,Active
+1766820271,Johnny,BRIGGS,johnny.briggs@COMPANY.COM,2019-04-28,Product Analyst,Analytics,103941,1766819651,23943 Bradford Villages Suite 183,Walshland,WY,71936,1974-08-16,
+1766820272,joseph,ALLEN,Joseph.Allen@company.com,2019-04-05,Data Engineer,Analytics,"$118,479",1766819540,64339 Snyder Course Apt. 031,West Mark,NH,83002,1976-05-16,Active
+1766820273,Gabriella,NEWMAN,Gabriella.Newman@company.com,2021-11-01,IT Manager,IT,"$119,072",1766819931,563 York Mission,Lake Isabellaview,MD,45261,1972-09-16,On Leave
+1766820274,Gregory,Nichols,Gregory.Nichols@company.com,2028-04-14,Security Analyst,IT,"$135,312",1766819998,6991 Kaufman Lake,New Matthewborough,WV,28615,1995-12-20,
+1766820275,amy,Lee,Amy.Lee@company.com,2021-11-21,Account Executive,Sales,"$65,258",1766820214,9603 Campos Skyway Suite 988,New Brendastad,ME,29046,1964-04-29,On Leave
+1766820276,mary,THOMAS,mary.thomas@COMPANY.COM,2021-01-31,Sales Associate,Sales,"$65,964",,5204 Rodriguez Track,North Andrewshire,WV,45657,1964-07-27,
+1766820277,Laurie,CLARK,Laurie.Clark@company.com,2020-05-07,Sales Operations Analyst,Sales,"$144,715",1766819983,3255 Sanchez Rapids,West Deanna,IN,39010,1970-08-26,
+1766820278,Wanda,FOX,Wanda.Fox@company.com,2019-12-27,data engineer, analytics ,"$65,312",1766819557,038 Stone Pine Apt. 935,North Michael,MH,99654,1975-11-01,Active
+1766820279,stephanie,DIXON,Stephanie.Dixon@company.com,2022-09-07,Data Analyst,Analytics,"$111,194",1766820075,65628 Michele Street,Maureenton,WA,28627,1975-10-18,Terminated
+1766820280,Jenna,Stevenson,Jenna.Stevenson@company.com,2024-12-14,Data Engineer,Analytics,"$100,672",1766819672,5832 Chase Isle,Hernandezmouth,PW,93428,1998-07-13,Terminated
+1766820281,Nicole,Meyer,Nicole.Meyer@company.com,2020-04-19,Learning & Development Lead,HR,127486,1766820230,073 Nicholas Track,West Jeanetteberg,VA,34180,1965-04-27,Active
+1766820282,hunter,Manning,Hunter.Manning@company.com,2022-12-21,sales manager, sales ,69823,1766820210,08135 Rosales Spur Apt. 162,Michaelberg,RI,07098,1975-03-20,ACTIVE
+1766820283,Jose,WASHINGTON,jose.washington@COMPANY.COM,2017-05-13,Security Analyst,IT,"$77,337",1766819848,22774 Seth Spur,Port Timothy,GA,71452,1975-02-14,Active
+1766820284,craig,GENTRY,Craig.Gentry@company.com,2016-04-29,IT Support Specialist,IT,132388,1766820076,168 Latoya Junction Apt. 322,Stevenview,CA,12322,2001-07-23,Active
+1766820285,sarah,RITTER,sarah.ritter@COMPANY.COM,2017-12-22,Sales Associate,Sales,"$125,515",1766819676,867 Jenna Manor,Danaton,VI,62241,1996-10-18,On Leave
+1766820286,Natalie,Lee,Natalie.Lee@company.com,2020-11-26,Sales Operations Analyst,Sales,63085,1766819688,053 Joshua Pike,Jasonfurt,OR,48393,1978-12-31,ACTIVE
+1766820287,Brent,Yang,Brent.Yang@company.com,2020-09-13,data engineer, analytics ,"$145,377",1766820072,493 John Motorway Apt. 676,Lake Kimhaven,ID,99094,1990-10-29,
+1766820288,jonathan,BROWN,Jonathan.Brown@company.com,2020-11-13,HR Generalist,HR,54603,1766819614,0541 Jacqueline Drives,Rodriguezview,LA,03698,1965-11-12,Terminated
+1766820289,Daniel,Moran,Daniel.Morancompany.com,2016-05-27,Talent Acquisition Specialist,HR,"$87,600",1766819913,0840 Patterson Center,West Carl,NC,54395,1986-04-30,ACTIVE
+1766820290,sabrina,JENKINS,Sabrina@Jenkins,2024-10-14,HR Assistant,HR,"$94,249",1766820142,32525 Carlos Islands Apt. 909,Lake Robin,CT,96188,1961-10-21,
+1766820291,samuel,Fritz,Samuel.Fritz@company.com,2020-01-23,HR Generalist,HR,54076,1766819990,13642 Joshua Ford Apt. 608,Lake Jonathan,TN,17146,1962-05-30,ACTIVE
+1766820292,joseph,Lee,Joseph.Lee@company.com,2022-07-24,business intelligence analyst, analytics ,120464,1766819610,41891 Penny Place,Davidsonstad,WV,03922,1998-04-12,
+1766820293,rhonda,WARD,Rhonda.Ward@company.com,2020-01-24,Learning & Development Lead,HR,"$109,295",11228,4234 Spencer Meadows,Port Brandy,MO,29018,2001-10-03,Terminated
+1766820294,Cynthia,PATTON,Cynthia.Patton@company.com,2018-05-13,IT Support Specialist,IT,85485,1766819676,05412 Connie Trail Suite 382,Lake Crystalfort,VA,30384,1989-11-06,
+1766820295,kimberly,GEORGE,Kimberly.George@company.com,2023-11-23,Data Analyst,Analytics,145081,1766819647,6035 James Causeway,Vanessastad,MD,87313,1965-01-14,ACTIVE
+1766820296,sherry,Davis,Sherry@Davis,2017-10-07,HR Assistant,HR,73646,1766819848,602 Brandi Neck,New Lisa,FM,56584,1980-05-11,Terminated
+1766820297,Leah,MORTON,Leah.Morton@company.com,2022-05-06,DevOps Engineer,IT,"$126,622",1766819983,71469 Frazier Inlet,Terrellstad,CO,92257,1984-04-05,
+1766820298,mary,Sanders,Mary.Sanders@company.com,2019-04-13,Data Analyst,Analytics,71414,1766820044,20282 Small Brook Apt. 999,South Keithtown,FL,84646,2003-03-07,Active
+1766820299,Scott,Morris,Scott.Morris@company.com,2024-05-14,Sales Associate,Sales,"$115,624",1766819688,3159 Farmer Pines Suite 712,Velasquezton,VI,95626,2001-12-12,Terminated
+1766820300,Kelly,Ortega,kelly.ortega@COMPANY.COM,2019-10-04,IT Support Specialist,IT,143827,,9941 Brewer Passage Suite 080,Lisaburgh,OR,30784,1971-12-19,On Leave
+1766820301,christopher,Cannon,Christopher.Cannon@company.com,2027-11-16,Sales Associate,Sales,93574,1766819953,766 Alexander Drive Apt. 817,Ericaberg,MS,17092,1966-03-06,On Leave
+1766820302,alexis,Mendoza,Alexis.Mendoza@company.com,2017-03-10,Business Development Representative,Sales,132665,1766819680,30577 Andrews Landing,Timothystad,AZ,33380,1965-04-18,Active
+1766820303,Travis,LEWIS,Travis.Lewis@company.com,2027-08-06,it support specialist, it ,127203,11746,2174 Adkins Vista,South Tony,MN,75512,1991-09-30,Terminated
+1766820304,andrew,MIDDLETON,Andrew.Middleton@company.com,2023-06-05,Business Intelligence Analyst,Analytics,90379,1766820230,5861 Timothy Landing Apt. 390,East Heatherfort,CT,30795,1998-12-22,Active
+1766820305,courtney,Williams,Courtney.Williams@company.com,2020-09-11,devops engineer, it ,"$90,724",1766820273,614 Webb Extension Apt. 126,Floresburgh,AR,66537,1963-07-12,Terminated
+1766820306,jonathan,Fleming,Jonathan.Fleming@company.com,2018-04-15,Product Analyst,Analytics,93474,1766819601,8410 David Viaduct Apt. 667,Elizabethton,NC,48809,1964-07-09,Active
+1766820307,nicole,STONE,Nicole.Stone@company.com,2017-05-18,Business Intelligence Analyst,Analytics,"$42,985",10909,0800 Mason Crossroad Suite 065,New Virginiaberg,SD,29281,2003-01-02,On Leave
+1766820308,Angela,WILSON,Angela.Wilson@company.com,2028-03-05,Learning & Development Lead,HR,131744,1766819786,18413 Shields Loaf,Kingshire,ID,33460,1987-05-16,Active
+1766820309,matthew,Black,matthew.black@COMPANY.COM,2017-04-17,Analytics Manager,Analytics,144039,1766819799,10808 April Turnpike Apt. 067,Port Nicholas,WI,52461,1993-02-20,On Leave
+1766820310,patricia,LANE,Patricia.Lane@company.com,2025-12-13,Learning & Development Lead,HR,122705,1766820188,81655 Williams Alley,Lake Michelleburgh,LA,74857,1993-11-27,
+1766820311,craig,PIERCE,Craig.Pierce@company.com,2018-09-09,Learning & Development Lead,HR,52069,,76542 Madison Fall Suite 317,East Pamela,MS,59172,1977-05-07,Active
+1766820312,kimberly,ALVARADO,Kimberly.Alvarado@company.com,2017-01-03,hr manager, hr ,52390,1766819880,3888 Logan Garden Suite 891,Parkerfurt,MS,39094,1991-10-26,Terminated
+1766820313,patrick,Mitchell,Patrick.Mitchell@company.com,2019-01-13,devops engineer, it ,103552,1766820131,294 Jackson Pines Suite 206,Martinezmouth,CT,82325,1993-04-18,On Leave
+1766820314,Dwayne,Lewis,Dwayne.Lewis@company.com,2030-10-14,Data Analyst,Analytics,56927,1766820205,207 Rebecca Camp Apt. 131,Port Nicholas,SC,92084,1965-08-14,
+1766820315,kathy,JOSEPH,Kathy.Joseph@company.com,2022-12-20,Account Executive,Sales,121724,11870,96639 Martin Glens Suite 859,Christinaborough,SD,18774,1973-07-13,Active
+1766820316,matthew,CAMPBELL,Matthew.Campbell@company.com,2018-05-29,Account Executive,Sales,45436,1766819999,21328 Matthew Square Apt. 744,East Kelly,HI,93855,1995-01-04,Active
+1766820317,sandy,GREEN,Sandy.Green@company.com,2024-10-20,IT Manager,IT,"$72,201",10438,31302 Diaz Run Suite 158,Angelaview,ND,40850,1967-01-19,ACTIVE
+1766820318,James,LEE,James.Lee@company.com,2021-12-12,hr assistant, hr ,138423,,2992 Henderson Grove Apt. 324,Lake Yvonne,CO,33567,1968-08-07,Active
+1766820319,joann,PALMER,Joann.Palmercompany.com,2023-06-02,IT Support Specialist,IT,"$57,235",1766819725,6103 Rhonda Hill Suite 399,Lisachester,UT,61648,1975-08-30,ACTIVE
+1766820320,timothy,Reeves,Timothy.Reeves@company.com,2029-03-08,Analytics Manager,Analytics,"$148,507",1766819953,0436 Buchanan Via Apt. 552,Melissastad,VI,56491,1983-08-15,
+1766820321,Daniel,HUGHES,Daniel.Hughes@company.com,2028-06-17,Analytics Manager,Analytics,"$99,408",1766820190,742 Barry Brook Suite 104,South Anthony,LA,26413,1978-10-17,On Leave
+1766820322,ashley,LEWIS,Ashley.Lewis@company.com,2016-08-25,Learning & Development Lead,HR,148173,1766819943,91560 Chad Gateway,North Stephenport,MI,02490,1964-02-06,Terminated
+1766820323,Sherry,MILLER,Sherry.Miller@company.com,2024-10-08,Business Development Representative,Sales,"$66,714",1766819689,9684 Amber Gateway,Jonesborough,CO,58001,1980-01-22,ACTIVE
+1766820324,Rachel,CAMPBELL,Rachel.Campbell@company.com,2027-09-06,it manager, it ,"$133,104",1766820161,79607 Mario Tunnel Suite 266,Mirandahaven,CA,16965,1985-09-12,On Leave
+1766820325,Angela,Coleman,Angela.Coleman@company.com,2022-10-27,sales operations analyst, sales ,"$97,665",1766819913,575 Jeffrey Village Suite 960,Smithtown,MI,83593,1995-03-24,Terminated
+1766820326,Michael,SHARP,Michael.Sharp@company.com,2016-06-06,Systems Administrator,IT,134423,1766819540,43271 Holland Shores,North Michellemouth,PW,08935,1967-05-13,On Leave
+1766820327,sarah,JOHNSON,Sarah.Johnson@company.com,2023-08-09,Systems Administrator,IT,"$85,812",1766819585,8858 Nicholas Port,South Tonyatown,KY,80394,2003-02-27,Active
+1766820328,Jeremy,Ingram,Jeremy@Ingram,2017-01-17,Systems Administrator,IT,"$131,632",N/A,01849 Johnson Branch,Tinahaven,MD,85617,2000-07-29,On Leave
+1766820329,joy,SCHMIDT,Joy.Schmidt@company.com,2023-05-02,Business Intelligence Analyst,Analytics,"$68,815",1766819593,5064 Jenkins Fords,Millermouth,SC,30373,1973-04-08,ACTIVE
+1766820330,John,MOORE,John.Moore@company.com,2019-09-21,Systems Administrator,IT,"$138,205",1766819792,63935 Weber Rapids Suite 633,Williamsmouth,AZ,86294,1975-12-13,
+1766820331,Sergio,Brooks,Sergio.Brooks@company.com,2023-10-18,Security Analyst,IT,"$136,156",,27251 Elliott Village,New Michael,WV,11360,1973-05-19,Terminated
+1766820332,Brian,Ball,Brian.Ball@company.com,2019-02-06,security analyst, it ,"$45,238",1766819620,8210 Nicholas Crossing Suite 654,East Luisside,UT,88074,1985-03-20,On Leave
+1766820333,jane,GARCIA,Jane.Garcia@company.com,2019-08-15,Account Executive,Sales,"$68,998",N/A,4678 Ferguson Mills,East Susan,MI,90696,1966-05-07,ACTIVE
+1766820334,Raymond,JOHNS,Raymond.Johns@company.com,2027-05-22,Business Intelligence Analyst,Analytics,47595,1766819646,729 Figueroa Rapids Suite 365,Sheilamouth,MH,09089,1997-12-29,
+1766820335,jesse,EVANS,Jesse.Evans@company.com,2017-03-09,Analytics Manager,Analytics,125190,1766819651,425 Murray Islands Suite 947,East Karenport,GU,37923,1996-08-31,Terminated
+1766820336,Brady,Taylor,Brady.Taylor@company.com,2024-10-03,HR Manager,HR,146028,11745,226 Jamie Causeway,Morseshire,VI,54004,1994-01-16,Terminated
+1766820337,Karen,BERRY,Karen.Berry@company.com,2020-07-22,Sales Manager,Sales,"$74,298",1766820078,851 Pena Pines,Jenniferton,NJ,60428,1968-02-14,Terminated
+1766820338,Daniel,Compton,daniel.compton@COMPANY.COM,2018-07-23,hr manager, hr ,"$144,303",1766820309,66213 Adams Square,Williamsbury,NH,12426,1982-02-09,Terminated
+1766820339,natalie,Graham,Natalie.Graham@company.com,2023-09-14,devops engineer, it ,"$145,383",1766820131,7570 Warren Plaza Suite 867,Lake Nathanland,FL,94114,1987-11-07,Terminated
+1766820340,daniel,Brown,Daniel.Brown@company.com,2017-03-03,Data Analyst,Analytics,"$123,869",1766819848,950 Phillips Glen,Ericbury,NM,83011,1991-03-10,ACTIVE
+1766820341,Daniel,Mitchell,Daniel.Mitchell@company.com,2024-09-22,DevOps Engineer,IT,96182,1766820107,6443 Lindsay Locks,West Christinamouth,PA,20383,1966-05-10,
+1766820342,daniel,BAUER,Daniel.Bauer@company.com,2022-08-02,Sales Associate,Sales,"$125,671",1766820317,790 Christine Motorway,Ruizmouth,PA,28143,2002-02-12,
+1766820343,mallory,MILLER,Mallory.Miller@company.com,2025-11-24,Talent Acquisition Specialist,HR,118230,1766819778,127 Greene Track Suite 216,East Matthew,LA,53216,1983-02-19,ACTIVE
+1766820344,Alexis,NORMAN,Alexis.Norman@company.com,2020-02-01,Product Analyst,Analytics,50142,1766819930,7203 Thomas Plains,Kelleychester,OH,12774,1992-01-09,Active
+1766820345,jacob,Williamson,Jacob.Williamson@company.com,2025-10-01,Account Executive,Sales,43933,1766819689,78675 Savage Knolls Apt. 308,Smithberg,WY,46536,1984-11-27,Active
+1766820346,Joshua,Adams,Joshua.Adams@company.com,2022-04-16,Business Intelligence Analyst,Analytics,"$62,464",1766819557,73058 Peggy Locks,New Dakotaville,MD,96818,2002-06-30,On Leave
+1766820347,theresa,Lowe,Theresa.Lowe@company.com,2016-12-11,Account Executive,Sales,116152,,8685 Zachary Estates,Martinezshire,PA,64969,1993-02-07,Terminated
+1766820348,John,GONZALES,John.Gonzales@company.com,2017-04-06,Data Engineer,Analytics,"$100,408",1766820317,60494 Bartlett Shoal Suite 793,New Elizabeth,ME,59044,1970-10-27,ACTIVE
+1766820349,adam,Ward,Adam.Ward@company.com,2018-04-16,Business Intelligence Analyst,Analytics,50555,10809,29232 Nelson Terrace,Port Tiffany,OR,21706,1992-12-09,
+1766820350,andre,MENDOZA,Andre.Mendoza@company.com,2022-04-18,Sales Associate,Sales,140002,N/A,2833 Alyssa Station,Lindahaven,SD,22905,1972-11-28,On Leave
+1766820351,Paul,DAY,paul.day@COMPANY.COM,2017-05-04,Data Engineer,Analytics,118425,1766819549,004 Phillips Centers,West Aaronmouth,AZ,79128,1993-03-07,Active
+1766820352,Joe,Daniels,joe.daniels@COMPANY.COM,2018-09-22,talent acquisition specialist, hr ,102193,1766819639,450 Leah Forges,Port Paul,NY,13908,1995-11-11,On Leave
+1766820353,Sara,LEE,Sara.Lee@company.com,2022-12-14,Analytics Manager,Analytics,"$82,424",1766819689,2912 Gabriel Neck,Lake Carolineberg,AK,31467,1994-05-19,ACTIVE
+1766820354,matthew,Anderson,Matthew.Anderson@company.com,2023-04-30,Data Analyst,Analytics,"$42,233",1766819832,879 Sherry Union Suite 566,Arnoldberg,IN,23162,1998-09-13,
+1766820355,evelyn,Boyer,Evelyn.Boyer@company.com,2022-06-24,security analyst, it ,63849,1766819626,7078 Cole Branch,Weavermouth,MH,23365,1974-09-19,Active
+1766820356,Terri,Gray,Terri.Graycompany.com,2016-02-19,Sales Manager,Sales,"$92,194",1766819998,3377 Martinez Forest Apt. 493,South Katherineburgh,CO,10958,1976-10-20,
+1766820357,Ana,Santos,Ana.Santos@company.com,2023-07-11,Systems Administrator,IT,"$112,446",1766819534,1661 Patterson Port Apt. 839,West Wesleyshire,AL,74103,2001-07-23,Terminated
+1766820358,stacey,Nelson,Stacey.Nelson@company.com,2021-03-03,Systems Administrator,IT,103711,N/A,99066 Lindsay Way,North Jonathan,VA,94423,1989-11-17,ACTIVE
+1766820359,Julia,Mccann,Julia.Mccann@company.com,2025-01-24,Security Analyst,IT,"$95,004",1766819917,054 King Brooks Apt. 479,North Jennifershire,OR,55573,1972-08-23,
+1766820360,jennifer,Griffin,Jennifer.Griffin@company.com,2024-05-21,HR Manager,HR,"$116,148",1766819761,93611 Greene Cape Apt. 636,North Trevorchester,MS,58919,1986-03-26,ACTIVE
+1766820361,John,ROSS,John.Ross@company.com,2019-06-22,Sales Manager,Sales,93921,1766820078,074 Williams Unions Suite 837,New Jonathan,LA,55266,1999-04-22,On Leave
+1766820362,Angela,WHITE,Angela.Whitecompany.com,2020-04-13,Sales Associate,Sales,81367,1766820078,41109 Katrina Lodge Apt. 484,Lake Leslieburgh,OR,29734,1960-03-07,
+1766820363,stephanie,Dorsey,Stephanie.Dorsey@company.com,2018-04-21,Product Analyst,Analytics,139623,1766820072,5951 Miles Point Apt. 295,Joycemouth,NC,80351,2000-11-10,ACTIVE
+1766820364,mitchell,Riley,Mitchell.Riley@company.com,2019-11-04,DevOps Engineer,IT,"$112,876",1766820121,7538 Gonzalez Expressway,North Monicaside,KY,36676,1982-07-31,On Leave
+1766820365,michael,WRIGHT,Michael.Wright@company.com,2024-04-22,business development representative, sales ,"$109,674",1766820205,3165 Tiffany Lake Apt. 129,Bryantfort,MI,03249,1970-09-15,Terminated
+1766820366,Jennifer,PARRISH,Jennifer.Parrish@company.com,2016-04-01,Sales Manager,Sales,"$90,177",N/A,5348 Williams Harbors,South Olivia,VT,06081,1983-10-09,Active
+1766820367,jocelyn,Martin,Jocelyn.Martin@company.com,2024-10-05,Business Development Representative,Sales,"$82,584",1766820353,841 Horton Island Apt. 345,Port Robin,FL,32297,1971-03-21,
+1766820368,nichole,KIM,Nichole.Kim@company.com,2023-05-29,HR Assistant,HR,68039,1766820141,05329 Sean Manors,Bonillabury,MD,08357,2002-10-15,Terminated
+1766820369,Christina,White,Christina.White@company.com,2020-04-08,Systems Administrator,IT,146928,10515,6813 Mark Stravenue Suite 291,Dillonstad,NH,41017,1982-01-21,On Leave
+1766820370,karen,Ramirez,Karen@Ramirez,2024-02-13,Talent Acquisition Specialist,HR,"$133,481",1766819816,092 Turner Gardens,Stevenstad,UT,49063,1969-10-19,
+1766820371,Jeremy,Carter,jeremy.carter@COMPANY.COM,2022-12-05,IT Support Specialist,IT,"$116,663",1766819626,191 Thomas Branch,South Michelleland,ME,36404,1970-10-01,ACTIVE
+1766820372,elizabeth,JENSEN,Elizabeth.Jensen@company.com,2024-09-11,Sales Manager,Sales,"$126,500",1766820161,603 Villanueva Mountains Suite 408,West Michaelton,TN,25888,1981-01-02,
+1766820373,eric,HEBERT,Eric.Hebert@company.com,2024-09-12,business intelligence analyst, analytics ,70022,1766819816,6194 Brad Forest Suite 250,Blakeside,MA,45899,1969-10-29,ACTIVE
+1766820374,olivia,Rivera,Olivia.Rivera@company.com,2020-09-06,sales manager, sales ,71783,1766820078,156 Wood Ferry,Cruzburgh,OH,24365,1992-04-13,On Leave
+1766820375,john,Thomas,John.Thomas@company.com,2025-08-05,Business Intelligence Analyst,Analytics,116496,1766820317,85670 Dan Shoal,Michaelmouth,AK,00643,1996-02-29,Terminated
+1766820376,Brett,BROWN,Brett.Brown@company.com,2017-06-08,Business Intelligence Analyst,Analytics,"$135,029",N/A,41516 Garrison Walks,Buckleyton,AR,22436,1972-10-04,Active
+1766820377,Barbara,Mckinney,barbara.mckinney@COMPANY.COM,2017-04-19,Talent Acquisition Specialist,HR,110053,1766820022,365 Parsons Expressway Suite 770,Lake Andrewborough,GU,65345,1993-02-10,Active
+1766820378,Cristian,Leon,Cristian.Leon@company.com,2016-12-31,Business Intelligence Analyst,Analytics,75918,1766819675,397 Lopez Drive,Josephmouth,WY,44790,1991-08-07,
+1766820379,amy,ROBINSON,Amy.Robinson@company.com,2019-12-28,Sales Manager,Sales,"$134,141",10929,89875 Robert Centers Apt. 065,West Sherritown,RI,27386,1972-07-26,Active
+1766820380,alexander,SPENCER,Alexander.Spencer@company.com,2024-03-02,HR Manager,HR,131984,1766820336,20336 Cole Ports Apt. 580,Lake Stephanie,MI,56601,1972-03-06,
+1766820381,nathaniel,ACEVEDO,Nathaniel.Acevedo@company.com,2016-04-26,business intelligence analyst, analytics ,"$56,524",,580 Vaughn Crest Suite 380,Port Tammystad,NH,03391,1987-12-25,ACTIVE
+1766820382,christopher,Brown,Christopher.Brown@company.com,2023-08-22,DevOps Engineer,IT,"$149,681",1766819710,72133 Vincent Fork,New Katiestad,VA,95527,1990-03-06,On Leave
+1766820383,Heather,ANDERSON,Heather.Anderson@company.com,2022-06-07,learning & development lead, hr ,89066,1766820076,4917 Jessica Point,Claytonshire,CO,10318,1967-05-02,Terminated
+1766820384,Anita,Bates,Anita.Bates@company.com,2022-03-20,Business Development Representative,Sales,56501,1766820366,73287 Austin Lake,Wilkinsville,SD,98465,1979-06-27,
+1766820385,jason,WHITNEY,Jason.Whitney@company.com,2024-10-21,Sales Operations Analyst,Sales,"$133,588",1766819565,7432 Virginia Spur Suite 299,East Jacobbury,RI,89830,1977-07-17,On Leave
+1766820386,keith,Riley,Keith.Riley@company.com,2021-11-29,Sales Associate,Sales,"$95,655",1766820324,8454 Lisa Village,Lake William,MS,75993,1968-05-22,ACTIVE
+1766820387,brandy,Norris,Brandy.Norris@company.com,2018-12-22,business development representative, sales ,"$65,751",1766820053,5939 Jonathan Greens,Hullside,IL,06711,1964-09-29,
+1766820388,Lance,GARRETT,Lance.Garrett@company.com,2016-12-01,Talent Acquisition Specialist,HR,"$70,562",1766819541,449 Christopher Falls,Robinfurt,AR,30255,1985-11-24,Active
+1766820389,cynthia,MORGAN,Cynthia.Morgan@company.com,2023-01-07,Sales Operations Analyst,Sales,40201,1766820379,009 Michael Road,West Stephanie,PA,40543,1979-03-01,
+1766820390,jennifer,PETERS,Jennifer.Peters@company.com,2016-03-05,IT Manager,IT,"$49,512",1766820022,71086 Angela Track Apt. 727,South Samantha,DE,92509,1966-11-07,Active
+1766820391,Tiffany,Ramirez,tiffany.ramirez@COMPANY.COM,2025-09-03,Data Engineer,Analytics,"$122,021",,04651 Olivia Camp,North Tiffanyfort,PA,44113,1975-12-17,On Leave
+1766820392,Linda,Pittman,Linda.Pittman@company.com,2018-01-22,Sales Operations Analyst,Sales,"$70,811",1766820356,4226 Jacob Manor Apt. 056,North Natalieberg,PW,67227,1966-08-31,Terminated
+1766820393,april,JONES,April.Jones@company.com,2022-03-01,HR Manager,HR,58938,1766819998,34795 Tim Club,Port Kelly,OR,22720,1989-01-29,Terminated
+1766820394,Angela,Gonzalez,Angela.Gonzalez@company.com,2016-02-10,Sales Operations Analyst,Sales,"$42,567",1766819930,396 Shannon Drives,Whiteton,GU,96687,1964-07-25,Active
+1766820395,brian,Sawyer,Brian.Sawyer@company.com,2017-10-02,Talent Acquisition Specialist,HR,136745,1766819685,1654 Jason Flats,Hensleyborough,MS,32090,1987-04-22,On Leave
+1766820396,Michael,AVILA,Michael.Avila@company.com,2025-07-30,Sales Associate,Sales,"$77,225",1766819880,04065 West Wells Suite 650,West Maryshire,AZ,84667,1978-05-23,
+1766820397,jason,Alexander,jason.alexander@COMPANY.COM,2016-01-20,Analytics Manager,Analytics,"$54,861",N/A,330 Todd Passage,New Tiffany,WI,97539,1979-02-05,ACTIVE
+1766820398,sharon,Ruiz,Sharon@Ruiz,2020-11-07,HR Manager,HR,53937,1766819763,127 Hart Pine,Meghanborough,FL,25913,1980-03-30,ACTIVE
+1766820399,donna,DAVIDSON,Donna.Davidson@company.com,2016-04-17,IT Manager,IT,"$121,294",1766819593,3652 Randy Landing Suite 684,Port Jill,WI,77020,1990-06-30,Active
+1766820400,danielle,Long,Danielle.Long@company.com,2023-05-19,Data Analyst,Analytics,85482,1766820372,139 Lopez Trail,Jakebury,AS,03322,2002-11-14,Terminated
+1766820401,renee,Livingston,Renee.Livingston@company.com,2019-01-26,account executive, sales ,"$112,794",1766819577,4084 Charles Lights Suite 925,Duncanhaven,NJ,77422,1980-09-09,Terminated
+1766820402,Mindy,DIAZ,mindy.diaz@COMPANY.COM,2018-11-15,Data Analyst,Analytics,144074,1766820379,7640 Brandt Union Suite 745,New Erinville,PW,93502,1995-10-31,On Leave
+1766820403,Nathan,Mccullough,Nathan.Mccullough@company.com,2022-06-10,Sales Operations Analyst,Sales,40095,1766819942,76382 Ronald Stravenue,Simmonsburgh,SC,69968,1961-05-29,Terminated
+1766820404,laura,Cooper,Laura.Cooper@company.com,2021-02-23,Business Development Representative,Sales,92495,1766820080,21388 Rebekah Fords Apt. 853,Wendyview,KY,68917,1960-12-29,
+1766820405,neil,Trevino,Neil.Trevino@company.com,2020-04-08,Business Development Representative,Sales,"$103,428",1766819675,9146 Moore Stream Suite 252,Kimberlyburgh,KY,72200,1999-12-21,Active
+1766820406,Samuel,REYES,Samuel.Reyes@company.com,2017-08-16,Business Development Representative,Sales,"$112,367",1766819714,67463 Solis Brooks Apt. 572,Washingtonland,SD,39233,1996-02-22,
+1766820407,Rhonda,Frazier,rhonda.frazier@COMPANY.COM,2021-08-09,Product Analyst,Analytics,"$105,828",N/A,730 Robinson Harbors Suite 620,Johnburgh,FM,12489,1986-10-30,Terminated
+1766820408,Laurie,Hayes,laurie.hayes@COMPANY.COM,2028-02-01,Business Intelligence Analyst,Analytics,"$83,696",1766820053,46038 Karen Prairie Suite 089,Maryview,NE,84492,1967-03-10,Active
+1766820409,Gregory,Hubbard,Gregory.Hubbard@company.com,2023-12-15,devops engineer, it ,"$103,203",1766820356,96171 Cervantes Camp,South Douglaston,MS,16063,1995-11-16,
+1766820410,katherine,KELLY,Katherine.Kelly@company.com,2023-05-02,IT Support Specialist,IT,"$110,925",1766819686,2917 Matthew Drive Apt. 586,Lake Briannaville,GA,02141,1981-10-23,ACTIVE
+1766820411,Ariel,HORTON,Ariel.Horton@company.com,2025-03-02,Learning & Development Lead,HR,"$132,046",1766820214,34290 Williams Ville Suite 409,Lake Staceyville,AL,33014,1986-06-01,ACTIVE
+1766820412,justin,Stephens,Justin.Stephens@company.com,2025-05-09,Data Analyst,Analytics,"$115,236",,8742 David Trail Apt. 801,South Sarahmouth,ME,34732,1975-06-01,Active
+1766820413,Julie,Hernandez,Julie.Hernandez@company.com,2019-07-31,IT Support Specialist,IT,"$115,298",N/A,80529 Dodson Stream,North Davidtown,TX,12265,1981-03-11,
+1766820414,Andrew,Duncan,Andrew.Duncan@company.com,2016-08-07,Talent Acquisition Specialist,HR,59176,10889,58443 Smith Pike Suite 907,Amybury,WY,36203,1968-06-30,
+1766820415,bonnie,DAVIS,bonnie.davis@COMPANY.COM,2021-12-10,HR Assistant,HR,55846,N/A,485 Andrew Flats,Christopherport,AZ,62773,1964-05-11,
+1766820416,Brett,Williams,Brett.Williams@company.com,2018-12-14,Talent Acquisition Specialist,HR,"$86,231",N/A,974 Linda Mountains,Lake Jason,IA,96326,1984-02-19,
+1766820417,Thomas,SMITH,Thomas.Smith@company.com,2023-05-24,DevOps Engineer,IT,"$142,817",1766820121,833 Navarro Streets,Michaelberg,FM,07206,1984-09-20,
+1766820418,Felicia,JAMES,Felicia.Jamescompany.com,2024-11-29,Data Analyst,Analytics,110052,N/A,78376 Crystal Motorway Apt. 270,Lake Evanstad,OR,99258,1987-08-28,Terminated
+1766820419,Rickey,WOLF,Rickey.Wolf@company.com,2016-02-07,Data Analyst,Analytics,91076,1766819927,42718 Melissa Flats Apt. 345,New Sonyatown,WI,68825,1962-09-08,
+1766820420,Daniel,Holmes,Daniel.Holmes@company.com,2029-09-15,Sales Manager,Sales,129904,1766820131,98687 Robinson Greens Suite 314,West Jimmyburgh,VA,31182,1987-01-03,Active
+1766820421,Ryan,Marks,Ryan.Markscompany.com,2017-10-18,HR Generalist,HR,"$134,170",10746,47300 Abigail Shore,Fredericktown,PW,82339,1990-08-03,Terminated
+1766820422,heather,COOK,Heather@Cook,2016-07-18,Data Engineer,Analytics,"$135,675",1766819688,9019 Alvarez Prairie Apt. 912,West Ebony,FM,54466,1999-07-13,Active
+1766820423,Leslie,Ross,Leslie.Rosscompany.com,2021-01-20,Sales Manager,Sales,85169,1766820205,51323 Morris Valley Apt. 565,West Brittneyville,IL,18653,1987-03-01,On Leave
+1766820424,duane,MITCHELL,Duane.Mitchell@company.com,2018-11-08,Data Engineer,Analytics,79483,1766820096,6501 Cortez Well,Garciaville,OK,75794,1985-12-02,On Leave
+1766820425,Rachel,FOLEY,Rachel.Foley@company.com,2018-12-18,Sales Manager,Sales,148743,1766820390,06804 Patricia Forest Apt. 774,North Edgarbury,MT,55232,1964-06-03,
+1766820425,Rachel,FOLEY,Rachel.Foley@company.com,2018-12-18,Sales Manager,Sales,148743,1766820390,06804 Patricia Forest Apt. 774,North Edgarbury,MT,55232,1964-06-03,
+1766820427,jason,Mason,jason.mason@COMPANY.COM,2021-11-14,HR Assistant,HR,56864,1766820096,78508 Sullivan Lane Suite 433,North Joshuaburgh,NM,08172,1992-04-06,
+1766820428,mary,Adams,Mary.Adams@company.com,2019-04-30,Sales Associate,Sales,68082,1766819710,5368 Horton Junction,North Charles,SD,11908,2003-03-25,On Leave
+1766820429,Rachel,Henry,Rachel.Henry@company.com,2016-12-05,Product Analyst,Analytics,"$149,791",1766819665,79639 Lisa Villages,New Stephanie,AZ,04191,1963-12-04,Terminated
+1766820430,William,UNDERWOOD,William.Underwood@company.com,2023-09-09,IT Support Specialist,IT,130273,1766819675,70899 Roy Plaza,Port Robertmouth,MO,80037,1983-02-18,Terminated
+1766820431,Madison,JOSEPH,Madison.Joseph@company.com,2017-09-13,Business Development Representative,Sales,120968,1766819951,06438 Gaines Hill,East Kevintown,ID,78782,1971-05-19,Terminated
+1766820432,david,CRAIG,David@Craig,2021-05-18,Sales Manager,Sales,121030,1766819763,0459 Luis Union,New Rebeccamouth,IN,07644,1976-01-20,
+1766820433,samantha,Green,Samantha.Green@company.com,2020-06-04,Systems Administrator,IT,"$100,263",1766820129,8838 Miller Stream Apt. 942,North Holly,DE,45161,1984-06-19,Terminated
+1766820434,Antonio,CORDOVA,Antonio.Cordova@company.com,2016-11-03,Learning & Development Lead,HR,"$70,708",1766819610,7665 Pittman Court Suite 496,Mckeeland,NC,12276,1998-07-06,ACTIVE
+1766820435,Joe,DUNN,Joe.Dunn@company.com,2018-12-23,Business Intelligence Analyst,Analytics,72785,1766819786,307 Sarah Wall,Elizabethborough,RI,96822,1993-04-09,On Leave
+1766820436,Philip,Gonzales,Philip.Gonzales@company.com,2019-01-19,HR Manager,HR,"$105,901",1766819892,26954 Cheryl Flats,Edwinmouth,TX,00768,1994-08-15,Terminated
+1766820437,matthew,JONES,Matthew.Jones@company.com,2025-12-22,Security Analyst,IT,112496,1766819549,760 Melissa Road,North Matthewbury,WY,10492,1995-05-03,On Leave
+1766820438,nicholas,White,Nicholas.White@company.com,2016-10-12,IT Manager,IT,"$48,602",1766819763,79722 Travis Rapids Suite 863,Lake Christinahaven,ID,95936,1999-12-28,Terminated
+1766820439,Nicole,MARTIN,Nicole.Martin@company.com,2021-08-03,Data Engineer,Analytics,80042,1766819714,921 Scott Valleys,New Jacobtown,CT,94411,1988-04-19,Active
+1766820440,thomas,Williams,Thomas.Williams@company.com,2023-12-11,Sales Associate,Sales,113058,1766819577,02989 Hernandez Stravenue,Wuton,IN,86567,1998-03-13,On Leave
+1766820441,Kimberly,Larson,Kimberly.Larson@company.com,2019-01-09,Systems Administrator,IT,"$96,985",1766819687,3696 Villa Bridge,Lake Mariamouth,WY,66097,1984-12-14,On Leave
+1766820442,mindy,HOLDEN,Mindy.Holden@company.com,2018-10-13,Product Analyst,Analytics,"$113,288",1766820380,772 Morrison Shoals,Port Jasmine,VA,11613,1964-07-19,Active
+1766820443,emily,Aguilar,Emily.Aguilar@company.com,2025-01-09,IT Manager,IT,"$42,677",1766819931,2073 King Course Apt. 198,Garciashire,GA,95147,1987-01-10,Active
+1766820444,James,Ponce,James.Ponce@company.com,2023-08-25,Systems Administrator,IT,"$69,225",1766820252,9539 Regina Prairie Apt. 969,New Bruce,TN,21735,1964-07-13,Active
+1766820445,Andrew,DOWNS,Andrew.Downs@company.com,2023-05-28,HR Generalist,HR,"$85,724",1766820423,55433 Keller Keys,Thomasville,NC,13994,1966-11-20,Active
+1766820446,Natasha,ELLISON,Natasha.Ellison@company.com,2021-01-13,Learning & Development Lead,HR,141212,1766819680,19796 Lee Burgs Apt. 540,Elliottfurt,NC,24489,1997-09-24,ACTIVE
+1766820447,tonya,JOHNSON,Tonya.Johnson@company.com,2027-09-14,sales manager, sales ,"$68,121",1766820026,2271 Brian Alley Suite 091,Hickstown,KY,04133,1963-12-13,ACTIVE
+1766820448,brent,Wilson,Brent.Wilson@company.com,2021-10-12,talent acquisition specialist, hr ,114593,1766819868,93004 Shane Valleys Apt. 139,New Caitlin,MA,12612,1964-08-03,On Leave
+1766820449,Andrew,Carroll,Andrew.Carroll@company.com,2016-01-20,Account Executive,Sales,"$61,587",10815,364 Stuart Squares,Port Mark,MS,48099,1978-05-05,ACTIVE
+1766820450,Crystal,EVERETT,Crystal.Everett@company.com,2017-11-23,Sales Manager,Sales,123818,1766820164,5769 Parks Viaduct,East Brendachester,VA,22544,1960-08-22,Active
+1766820451,Timothy,Brooks,Timothy.Brooks@company.com,2020-10-29,Systems Administrator,IT,"$62,277",11433,57649 Jack Bypass,New Danielhaven,OR,18588,2001-12-06,Terminated
+1766820452,amy,ORTIZ,Amy.Ortiz@company.com,2018-07-12,Product Analyst,Analytics,"$74,497",1766820241,714 Poole Mission Suite 272,Port Dawn,ND,59044,1961-05-19,Active
+1766820453,Luis,Woodward,Luis.Woodward@company.com,2020-04-08,IT Manager,IT,"$131,791",1766820129,228 Mcdowell Pines Suite 722,West Cameron,MO,92428,1985-10-09,Active
+1766820454,james,Collins,James.Collins@company.com,2018-12-10,Sales Operations Analyst,Sales,131368,1766820214,9262 Michele Track,Lake Angela,WY,84335,1983-11-26,
+1766820455,William,Lane,William.Lane@company.com,2021-08-02,Systems Administrator,IT,"$137,832",1766820129,338 Mccormick Wall,Browntown,WY,73098,1999-06-16,Active
+1766820456,Robert,PEREZ,Robert.Perez@company.com,2017-02-06,DevOps Engineer,IT,127167,1766820055,5319 Murphy Pine Suite 993,Williamsview,AZ,21190,1974-07-23,Terminated
+1766820457,theresa,WALLS,Theresa.Walls@company.com,2023-04-26,Analytics Manager,Analytics,"$42,338",1766819848,491 Nunez Flat,Patriciahaven,WA,48666,1979-10-09,On Leave
+1766820458,tyler,FUENTES,Tyler.Fuentes@company.com,2016-12-03,analytics manager, analytics ,"$104,756",1766819695,0195 Johnson Prairie Suite 379,Lisaborough,LA,24845,1985-05-16,Active
+1766820458,tyler,FUENTES,Tyler.Fuentes@company.com,2016-12-03,analytics manager, analytics ,"$104,756",1766819695,0195 Johnson Prairie Suite 379,Lisaborough,LA,24845,1985-05-16,Active
+1766820460,Michelle,WATTS,michelle.watts@COMPANY.COM,2019-11-08,Product Analyst,Analytics,72568,1766819698,997 Heather Prairie,Christianchester,CA,41447,1989-06-07,Terminated
+1766820461,Edward,Washington,Edward.Washington@company.com,2019-01-16,Data Engineer,Analytics,"$63,157",1766820188,797 Crawford Road Apt. 808,Santiagoland,CO,57220,1966-06-29,ACTIVE
+1766820462,scott,IBARRA,Scott.Ibarra@company.com,2018-12-14,sales manager, sales ,"$112,459",1766820210,475 Hernandez Ranch,Griffithborough,MD,66045,1988-04-16,Terminated
+1766820463,crystal,SELLERS,crystal.sellers@COMPANY.COM,2023-07-09,Sales Associate,Sales,78227,1766819924,45920 Lindsay Road,New Joshua,ID,55252,2002-12-14,Active
+1766820464,Michael,FLETCHER,Michael.Fletcher@company.com,2023-12-12,Sales Operations Analyst,Sales,77916,1766820361,8079 Strickland Tunnel Apt. 701,Smithshire,KY,52678,1969-05-07,On Leave
+1766820465,aaron,Wagner,Aaron.Wagner@company.com,2025-02-25,hr manager, hr ,"$68,626",1766819848,02828 Tony Highway,Wallaceborough,GU,45024,1991-01-27,Terminated
+1766820466,Bruce,JACKSON,bruce.jackson@COMPANY.COM,2019-04-28,Data Engineer,Analytics,"$117,530",11784,537 Mccormick Trail,Lestad,NC,60078,2002-11-16,Terminated
+1766820467,michael,Baker,Michael.Baker@company.com,2019-07-03,Business Development Representative,Sales,"$81,342",1766819649,1203 Anderson Ports Suite 638,Anthonyview,MO,72805,2002-12-17,Active
+1766820468,erin,Benson,Erin.Benson@company.com,2022-08-30,Business Development Representative,Sales,136001,1766820141,6060 Matthew Road Apt. 167,Lake Nicolestad,CT,96524,1977-06-19,On Leave
+1766820469,Nancy,SCHWARTZ,Nancy.Schwartz@company.com,2018-06-27,Talent Acquisition Specialist,HR,59642,11206,2180 Scott Spur Apt. 827,Jordanton,VA,24351,1969-09-01,On Leave
+1766820470,Krystal,ALLEN,Krystal.Allen@company.com,2023-08-16,Security Analyst,IT,"$75,010",N/A,8615 Collins Cliff Apt. 892,South Laurenhaven,LA,12218,1973-10-23,
+1766820471,Katherine,Reeves,Katherine@Reeves,2020-11-13,Account Executive,Sales,89657,10444,744 Christopher Locks,Kellystad,NM,01663,1967-06-04,Active
+1766820472,allison,BELL,Allison.Bell@company.com,2023-06-24,Sales Associate,Sales,95478,1766820282,3181 Antonio Lakes Apt. 342,Jeffreymouth,DE,15574,1972-12-20,Terminated
+1766820473,Wayne,Adams,Wayne.Adams@company.com,2022-08-27,Business Development Representative,Sales,111733,1766820450,762 Robert Orchard Apt. 322,Jennifershire,MT,06313,1972-09-16,ACTIVE
+1766820474,Whitney,Bailey,Whitney.Bailey@company.com,2021-12-14,Learning & Development Lead,HR,69602,1766819688,3953 Hunter Spurs,Reevesview,SD,99497,1987-08-06,On Leave
+1766820475,Sharon,CAIN,Sharon.Cain@company.com,2025-04-27,Account Executive,Sales,44272,1766820205,77809 Perry Loaf,East Thomasshire,OH,36278,1960-09-02,On Leave
+1766820476,robin,WILKERSON,Robin.Wilkerson@company.com,2024-05-28,talent acquisition specialist, hr ,141018,1766819536,86139 Jessica Locks Suite 711,Port Heathershire,DC,57829,1973-05-23,ACTIVE
+1766820477,veronica,Bradley,Veronica.Bradley@company.com,2021-09-21,Business Intelligence Analyst,Analytics,"$68,947",11643,848 Brittany Street,Pamelaview,WI,14401,1996-06-20,
+1766820478,jennifer,Hooper,Jennifer.Hooper@company.com,2016-10-12,Analytics Manager,Analytics,"$57,703",1766820366,7108 Kimberly Trail Suite 464,Matthewberg,WV,76039,1971-06-27,On Leave
+1766820479,Wanda,Cooper,Wanda.Cooper@company.com,2024-06-09,Security Analyst,IT,46529,1766820335,620 Allen Plaza Apt. 828,Baileyfort,PR,33952,1975-10-18,On Leave
+1766820480,Justin,Nichols,Justin.Nichols@company.com,2025-06-21,HR Manager,HR,"$126,352",1766819585,169 Justin Crest Suite 987,East Sherryville,PR,06893,2001-03-06,ACTIVE
+1766820481,joshua,Sharp,Joshua.Sharp@company.com,2021-03-04,DevOps Engineer,IT,"$62,723",1766820465,5256 Kimberly Neck,Lake Beth,SC,26529,1987-09-03,Active
+1766820482,Lisa,Pacheco,Lisa@Pacheco,2019-05-05,Data Analyst,Analytics,"$113,256",1766819854,11542 Shaw Garden Apt. 758,Lake Andreaville,NM,17861,1971-03-02,
+1766820483,Lawrence,Peterson,Lawrence.Peterson@company.com,2018-03-21,Talent Acquisition Specialist,HR,70108,1766820380,42199 Schmidt Drive,East Ericborough,IA,32186,1974-07-29,
+1766820484,xavier,Butler,Xavier.Butler@company.com,2024-11-21,business intelligence analyst, analytics ,"$60,583",1766820131,169 Olson Trafficway,Michaelbury,GA,94491,1962-04-04,ACTIVE
+1766820485,bryan,CERVANTES,Bryan.Cervantes@company.com,2024-11-04,Data Analyst,Analytics,41010,1766819534,74404 James Lake,Odomfort,AS,28175,1961-04-22,Active
+1766820486,heather,NEAL,Heather.Neal@company.com,2021-09-18,Data Analyst,Analytics,88678,1766820119,7904 Jennifer Unions Suite 045,Lake Cindyfurt,LA,40114,1967-06-10,Active
+1766820487,david,Kidd,David.Kiddcompany.com,2021-07-12,Data Analyst,Analytics,120373,11094,362 Manuel Tunnel Suite 591,South Christopherstad,WY,86187,1970-10-30,
+1766820488,karen,Rogers,Karen.Rogers@company.com,2017-08-02,Systems Administrator,IT,"$74,837",1766819998,70420 Jones Islands,West Nicoleton,NC,21785,1968-07-01,On Leave
+1766820489,Jo,Johnson,jo.johnson@COMPANY.COM,2024-01-04,Talent Acquisition Specialist,HR,83901,1766820142,167 Armstrong Prairie Suite 061,Port Cody,GU,12911,1976-08-13,
+1766820490,Angela,PHILLIPS,Angela.Phillips@company.com,2023-01-25,DevOps Engineer,IT,"$46,631",,25569 Dana Meadows,Campbellstad,KS,62404,1990-10-20,
+1766820491,anthony,Erickson,Anthony.Erickson@company.com,2017-02-07,Data Analyst,Analytics,"$111,673",1766819651,77980 Carolyn Meadow,North Elizabeth,MA,27139,1981-01-13,Terminated
+1766820492,jason,Franklin,Jason.Franklin@company.com,2025-06-07,DevOps Engineer,IT,61973,1766819880,2543 Castillo Highway Suite 174,Bellville,MP,34774,1989-08-21,On Leave
+1766820493,alan,Diaz,Alan.Diaz@company.com,2016-12-06,Sales Associate,Sales,"$88,479",,23734 Brown Way,New Phillipland,NV,34911,1987-03-21,
+1766820494,Melissa,SHAW,Melissa.Shaw@company.com,2019-08-03,Talent Acquisition Specialist,HR,109346,1766820321,17406 Lane Motorway,Lake Teresa,WY,67301,1977-03-19,ACTIVE
+1766820495,victoria,JENKINS,Victoria.Jenkins@company.com,2020-12-28,Sales Associate,Sales,"$147,990",1766820423,2612 Payne Brooks Suite 649,Claytonhaven,MP,97477,1966-06-13,On Leave
+1766820496,natalie,ADKINS,Natalie.Adkins@company.com,2024-11-18,Talent Acquisition Specialist,HR,117465,1766819686,03057 Crystal Estate,East Albertmouth,VT,75753,1996-05-03,Terminated
+1766820497,stephanie,Duffy,Stephanie.Duffy@company.com,2022-12-14,IT Support Specialist,IT,77983,1766819579,3320 Arnold Highway,West Brendanfort,PA,58331,1991-09-30,ACTIVE
+1766820498,Maureen,Cervantes,Maureen.Cervantes@company.com,2016-05-07,HR Manager,HR,52601,1766819872,9887 Jonathan Fork,Reynoldsmouth,MP,15207,1991-09-15,
+1766820499,april,COPELAND,april.copeland@COMPANY.COM,2021-10-13,Product Analyst,Analytics,"$117,100",1766819864,426 Natalie Plains Suite 285,Matthewfort,WA,74950,1971-02-21,On Leave
+1766820500,christopher,Jensen,Christopher.Jensencompany.com,2018-08-19,Learning & Development Lead,HR,60536,10467,823 Cindy Trail,West Eric,PA,42522,1984-09-09,Active
+1766820501,Kristin,BENNETT,Kristin.Bennett@company.com,2022-05-15,HR Assistant,HR,"$140,659",N/A,5176 Paula Stream Suite 649,Pottsmouth,HI,48452,1980-11-12,Active
+1766820502,Cameron,CONTRERAS,Cameron@Contreras,2017-03-16,product analyst, analytics ,148944,1766819688,474 Lopez Spur,Browninghaven,UT,48192,1980-07-04,Terminated
+1766820503,Jason,Harris,jason.harris@COMPANY.COM,2022-03-09,HR Generalist,HR,"$61,759",1766820312,34683 Delacruz Ramp,West Carrie,HI,86919,1990-12-01,ACTIVE
+1766820504,angela,DAVIS,Angela@Davis,2023-02-08,HR Generalist,HR,79091,1766820205,14304 Jones Terrace,South Carrieview,FM,74102,1998-03-03,ACTIVE
+1766820505,Jose,French,Jose.French@company.com,2022-01-13,Sales Manager,Sales,"$147,857",1766820379,6617 Armstrong Forges Apt. 605,Kevinside,NH,54944,1987-10-13,
+1766820506,Joel,WHITE,Joel.White@company.com,2017-05-27,Systems Administrator,IT,61765,1766819872,66606 Diaz Tunnel Suite 129,Kathleenchester,WI,27258,1968-08-11,On Leave
+1766820507,Heather,Norman,Heather.Norman@company.com,2021-10-03,Account Executive,Sales,"$59,996",1766820096,6692 York Estate,Lake Michelle,MH,32682,1987-12-09,Active
+1766820508,Christopher,Lewis,Christopher.Lewis@company.com,2027-08-30,talent acquisition specialist, hr ,"$132,376",1766819998,2781 Green Vista Suite 379,East Katie,UT,54193,2002-04-22,Terminated
+1766820509,Carlos,Thompson,Carlos@Thompson,2022-04-19,sales manager, sales ,96223,,83814 Patricia Stream,Thomasmouth,NV,51667,1979-07-04,Terminated
+1766820510,Darlene,HOOD,Darlene.Hood@company.com,2025-06-14,IT Manager,IT,111057,11870,456 Williams Mountains Apt. 671,Scottchester,MA,20460,1996-01-01,Terminated
+1766820511,alexandra,REID,Alexandra.Reid@company.com,2024-01-03,HR Generalist,HR,144920,11178,852 Jessica Prairie Suite 927,East Edward,GU,02561,1975-02-13,On Leave
+1766820512,Tammy,Doyle,Tammy.Doyle@company.com,2019-06-14,data analyst, analytics ,"$69,035",1766820336,87080 Lawrence Ramp Apt. 967,Jamieport,TN,09683,1964-11-05,Terminated
+1766820513,Tara,MCKNIGHT,Tara.Mcknight@company.com,2021-10-03,HR Manager,HR,"$111,874",10199,724 Cassandra Ville,Peterborough,ME,50048,1992-03-07,ACTIVE
+1766820514,Gerald,MCCARTY,Gerald.Mccarty@company.com,2021-11-13,Talent Acquisition Specialist,HR,"$71,537",1766820380,65197 Nathan Crossing,Bethberg,MH,40951,1963-07-09,On Leave
+1766820515,matthew,Hicks,Matthew.Hicks@company.com,2020-02-27,Learning & Development Lead,HR,45757,1766820072,4909 Erika Ville Apt. 482,Brianport,SD,55690,1974-03-20,
+1766820516,Edward,ARMSTRONG,Edward.Armstrong@company.com,2020-07-17,HR Manager,HR,"$41,523",1766819953,533 Christina Light,South Jimmy,DE,54227,1999-09-13,On Leave
+1766820517,Deanna,WATTS,Deanna.Watts@company.com,2019-12-16,Data Engineer,Analytics,72253,1766820420,41749 Kellie Canyon,Rodriguezchester,PR,85943,1962-12-21,
+1766820518,sheila,ROSALES,Sheila.Rosales@company.com,2024-01-08,HR Assistant,HR,66950,1766820155,21456 Cole Terrace,Ericshire,LA,47842,1969-07-20,Terminated
+1766820519,Thomas,KELLER,Thomas.Keller@company.com,2022-07-17,sales associate, sales ,"$49,321",1766819999,773 Peck Loop Suite 447,Lake Lynn,IN,62276,1975-06-07,ACTIVE
+1766820520,helen,NGUYEN,helen.nguyen@COMPANY.COM,2017-12-22,Business Intelligence Analyst,Analytics,"$125,395",1766819951,67167 Robert Lane,Lake Brian,NM,57416,1961-07-29,Terminated
+1766820521,john,HOWARD,John.Howard@company.com,2019-12-08,it support specialist, it ,66257,1766820438,785 Morales Drive Apt. 083,South Jennahaven,AK,13023,1969-06-30,
+1766820522,Joseph,WILLIAMS,Joseph.Williams@company.com,2024-06-03,sales associate, sales ,95128,1766820076,907 Wood Freeway Apt. 639,North Christina,MA,67115,1967-02-12,
+1766820523,Brian,HARRIS,Brian.Harris@company.com,2024-03-16,IT Manager,IT,113602,1766819927,087 Sarah Alley Apt. 640,Lake Oliviastad,ME,46757,1988-12-05,ACTIVE
+1766820524,Brenda,Wilson,Brenda.Wilson@company.com,2018-03-23,sales associate, sales ,102752,1766820462,1613 Cindy Keys Apt. 135,East Amyton,MT,75047,1998-07-23,Terminated
+1766820525,Lori,Myers,Lori.Myers@company.com,2025-09-10,Sales Operations Analyst,Sales,144612,1766819985,32734 Hancock Path Suite 907,Erinburgh,ID,70496,1981-12-31,ACTIVE
+1766820526,tina,ADAMS,Tina.Adams@company.com,2023-11-14,Talent Acquisition Specialist,HR,"$129,770",1766820142,7477 Joel Port,Porterborough,NE,33911,1991-05-31,On Leave
+1766820527,Alexandra,BALLARD,Alexandra.Ballard@company.com,2024-10-23,hr assistant, hr ,"$91,719",1766820447,252 Brown Junction Suite 948,South Karenburgh,AK,38657,1964-12-01,Active

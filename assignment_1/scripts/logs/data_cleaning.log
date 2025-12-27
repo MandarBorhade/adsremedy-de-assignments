@@ -1,0 +1,10 @@
+2025-12-27 07:13:01,937 - INFO - Spark session started. Loading data...
+2025-12-27 07:13:06,581 - INFO - Data loaded. Processing 1000 raw records.
+2025-12-27 07:13:07,261 - INFO - Saving cleaned data to /opt/spark/work-dir/scripts/data/cleaned_output
+2025-12-27 07:13:10,797 - INFO - Data cleaning completed successfully.
+2025-12-27 07:13:11,160 - INFO - Closing down clientserver connection
+2025-12-27 07:17:21,766 - INFO - Spark session started. Loading data...
+2025-12-27 07:17:26,832 - INFO - Data loaded. Processing 2000 raw records.
+2025-12-27 07:17:27,518 - INFO - Saving cleaned data to /opt/spark/work-dir/scripts/data/cleaned_output
+2025-12-27 07:17:31,534 - INFO - Data cleaning completed successfully.
+2025-12-27 07:17:31,725 - INFO - Closing down clientserver connection
