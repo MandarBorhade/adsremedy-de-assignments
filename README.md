@@ -1,6 +1,6 @@
 # 📊 ADSRemedy Data Engineering Assignments
 
-Welcome! This repository contains the **Data Engineering assignments** completed for **Ads Remedy Media LLP** as part of the interview/test process. :contentReference[oaicite:0]{index=0}
+Welcome! This repository contains the **Data Engineering assignments** completed for **Ads Remedy Media LLP** as part of the test process
 
 ---
 
@@ -13,11 +13,22 @@ All assignments are structured and submitted in this repository for review and e
 
 ## 📁 Repository Structure
 ```
-adsremedy-de-assignments/
-├── assignment_1/ # Code and scripts for Assignment #1
-├── .gitignore # Files to be ignored by Git
-├── Data Engineer Aassignment 1.pdf # assignment_1 questions
-├── Data Engineer Assignment 2.pdf # assignment_2 questions
+└───assignment_1
+    ├───.ivy2
+    │   ├───cache
+    │   │   ├───org.checkerframework
+    │   │   │   └───checker-qual
+    │   │   │       └───jars
+    │   │   └───org.postgresql
+    │   │       └───postgresql
+    │   │           └───jars
+    │   └───jars
+    └───scripts
+        ├───data
+        │   └───cleaned_output
+        ├───database
+        ├───logs
+        └───python
 ```
 
 ## 🛠️ Setup & Getting Started
