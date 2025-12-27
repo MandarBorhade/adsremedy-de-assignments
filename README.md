@@ -26,8 +26,6 @@ adsremedy-de-assignments/
 #### 🗂️ `assignment_1/`
 Contains the source code, notebooks, scripts, datasets (if included), and any related configuration files for **Assignment 1**. This is where you can find the logic and implementation for the tasks assigned in that specific exercise.
 
-> *Tip: Each script/notebook should ideally include comments and function-level docstrings to explain logic and purpose.*
-
 ---
 
 #### 📄 `Data Engineer Aassignment 1.pdf`
@@ -56,4 +54,27 @@ cd adsremedy-de-assignments
 python3 -m venv venv
 source venv/bin/activate      # Mac/Linux
 venv\Scripts\activate         # Windows
+git clone https://github.com/MandarBorhade/adsremedy-de-assignments.git
+```
+create environment variables in .env file:
+POSTGRES_USER= <username>
+POSTGRES_PASSWORD= <password>
+POSTGRES_DB= adsremedy
+PGADMIN_DEFAULT_EMAIL= admin@admin.com
+PGADMIN_DEFAULT_PASSWORD= admin
+
+#### Docker setup
+Make sure you have docker desktop installed and running.
+```
+cd adsremedy-de-assignments/assignment_1
+docker compose up --build
+docker ps
+```
+
+#### Check the logs to ensure Spark Master is ready to accept jobs
+```
+docker logs spark-master
+docker exec -it spark-master /opt/spark/bin/spark-submit /opt/spark/work-dir/scripts/python/data-generator.py
+docker exec -it spark-master /opt/spark/bin/spark-submit /opt/spark/work-dir/scripts/python/data-cleaning.py
+docker exec -it spark-master /opt/spark/bin/spark-submit --master spark://spark-master:7077 --packages org.postgresql:postgresql:42.7.3 -c spark.jars.ivy=/opt/spark/work-dir/.ivy2 /opt/spark/work-dir/scripts/python/load-to-postgresdb.py
 ```
